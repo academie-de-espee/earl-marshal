@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<div class="row">
+    {% for item in page.subpages %}
+        <!-- {% increment counter %} -->
+        {% if counter > 4 %} </div><div class="row"> {% assign counter = 1%} {% endif %}
+        <div class="col-sm-3">
+            <h3 class="text-center"><a href='{{ item.url }}'>{{ item.name }}</a></h3>
+            <p><a href='{{ item.url }}'><img class="img-responsive img-center" title="{{ item.name }}" src="{{ item.image }}" alt="" width="300" height="100"></a><br>
+            {{ item.text }}
+            </p>
+        </div>
+    {% endfor %}
+        </div>

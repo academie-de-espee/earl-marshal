@@ -1,0 +1,21 @@
+lsi:         false
+name: Kingdom of Atlantia - Rapier Marshal
+description: Rapier combat within the Kingdom of Atlantia
+url: http://rapier.atlantia.sca.org
+highlighter: true
+encoding: "UTF-8"
+markdown: kramdown
+excerpt_separator: <!-- more -->
+permalink:   pretty
+exclude:
+    - README.txt
+    - Rakefile
+nav:
+    - text: Event Report
+      href: https://warrant.atlantia.sca.org/reports/new/1
+    - text: Marshal Roster
+      href: https://warrant.atlantia.sca.org/warrants/1
+    - text: Request a Warrant
+      href: https://warrant.atlantia.sca.org/warrants/request/1
+    - text: Update personal information
+      href: https://warrant.atlantia.sca.org/user/update
