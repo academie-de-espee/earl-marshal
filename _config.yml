@@ -1,7 +1,7 @@
 lsi:         false
-name: Kingdom of Atlantia - Rapier Marshal
-description: Rapier combat within the Kingdom of Atlantia
-url: http://rapier.atlantia.sca.org
+name: Kingdom of Atlantia - Earl Marshal
+description: Marshal Activities within the Kingdom of Atlantia
+url: http://marshal.atlantia.sca.org
 highlighter: true
 encoding: "UTF-8"
 markdown: kramdown
