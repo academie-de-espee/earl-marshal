@@ -3,6 +3,10 @@ title: Paperwork
 layout: default
 ---
 
+# Rules
+* [Kingdom Earl Marshal's Policy (as of 2017-02-01)](/documents/Earl-Marshal-policy-2017-02-01.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.
+* [Society Earl Marshal's HAndbook)](http://www.sca.org/officers/marshal/docs/marshal_handbook.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
+
 # Marshals
 All combat in the SCA must be overseen by a warranted Marshal.
 
