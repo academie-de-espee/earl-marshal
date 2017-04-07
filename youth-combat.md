@@ -16,8 +16,6 @@ Youth Armored Combat is divided into three divisions based on age, armor, and we
 #### Resources
 * [Society rules for youth combat](http://www.sca.org/officers/marshal/youthcombat/docs/SocietyYCRules.pdf)
 * [Kingdom rules for youth combat](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=Herald7)
-* [Division 1 Sword Construction Guide](/documents/Division1SwordConstruction.pdf)
-* [Division 2 and Division 3 Armored Sword Construction Guide](/documents/Division2and3SwordConstruction.pdf)
 
 </div>
 <div class="col-sm-6" markdown="1">
