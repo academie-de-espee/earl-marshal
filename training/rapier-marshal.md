@@ -162,11 +162,6 @@ The goal of the Rapier 101 class is to provide individuals with the basic backgr
 ### Paperwork
    * It is the responsibility of the authorizing fighter to obtain all appropriate signatures on paperwork upon conclusion of the authorization
 
-## Melees
-* In melees, fighters are engaged with all opponents immediately upon the call to lay on.
-* Fighters may strike any opponent with any legal blow if they are within the 180 degree arc of the opponent's front. A fighter who approaches an opponent from behind shall not deliver a blow until he is within that frontal arc. A fighter may never deliberately strike an opponent from behind.
-* Killing from behind is allowed if it has been announced beforehand. The Society norm for "death from behind" in melees shall be: If a melee scenario allows killing from behind, a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice. Reaching around the neck is forbidden. The opponent will be deemed "killed" from the instant the blade touches his shoulder and shall not attempt to spin, duck or dodge away.
-
 
 ## Injuries on the field
 * Marshals (generally speaking) are not physicians, but do have a responsibility to the safety of fighters under their management.  Fighters should be allowed to monitor their own level of injury and gauge their ability to engage in combat activities.  Some special cases, however, are mentioned below:
@@ -201,6 +196,11 @@ The goal of the Rapier 101 class is to provide individuals with the basic backgr
 * Marshals will hold themselves to the same level of conduct or higher that we expect from our fighters. Any behavior unacceptable in a fighter is unacceptable in a marshal.
 * Marshals cannot both marshal and fight in the same activity. If an event has multiple rapier activities occurring at a given event, they marshal one activity and fight in a separate activity. 
 * At the end of each bout, the Marshals will ask each fighter if they are satisfied with the conduct of the bout. 
+
+#### Melees
+* In melees, fighters are engaged with all opponents immediately upon the call to lay on.
+* Fighters may strike any opponent with any legal blow if they are within the 180 degree arc of the opponent's front. A fighter who approaches an opponent from behind shall not deliver a blow until he is within that frontal arc. A fighter may never deliberately strike an opponent from behind.
+* Killing from behind is allowed if it has been announced beforehand. The Society norm for "death from behind" in melees shall be: If a melee scenario allows killing from behind, a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice. Reaching around the neck is forbidden. The opponent will be deemed "killed" from the instant the blade touches his shoulder and shall not attempt to spin, duck or dodge away.
 
 
 ## Support Staff
