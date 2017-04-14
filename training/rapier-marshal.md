@@ -17,19 +17,19 @@ The goal of the Rapier 101 class is to provide individuals with the basic backgr
 * Provide new marshals with the mental toolkit necessary to manage fights and uphold armor and weapons standards in potentially stressful situations
 * **REMEMBER**:  MITs are **NOT** marshals and cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.
 
-### Role of mentor
-* Provide guidance and practical instruction to the MIT.
-* Certify the competence of the MIT.
-
 ### Requirements 
 * This class
 * Field Marshal 201
-* A sponsoring marshal to work closely with – they will be called when you finish.
+* A Sponsoring Marshal
 * 4+ events, two outside your local group, one outside your region, one with melee activity.
 * MIT Form
 * A copy of the rules
 * When finished, request a rapier marshal warrant with the completed MIT form via the [Kingdom Warrant Website](https://warrant.atlantia.sca.org)
 * Renewal of the class is required every three years.
+
+### Role of Sponsoring Marshal
+* Provide guidance and practical instruction to the MIT.
+* Certify the competence of the MIT.
 
 ## Protective Gear 
 
@@ -216,13 +216,13 @@ The goal of the Rapier 101 class is to provide individuals with the basic backgr
 * To stay current, sign up for the Atlantian Marshal’s mailing list, read the ACORN and check in on the rapier marshal website.
 
 #### Event reporting
-   * Anyone can file a report using the form on the marshal’s website for any marshal activity. You don’t have to be the MiC, or even a marshal to bring things to the attention of the Kingdom marshallate this way.
-   * File reports within 10 days of the event.
-   * Discipline MiCs should file the report and then inform the overall event MiC that it has been done; event MiCs should make sure all discipline reports are filed.
-   * Please be certain to report any of the following events:
-      * Equipment failure (armor, weapon or other)
-      * Report and failed mask/helm and why it failed.
-      * Injury (any event that requires the fighter to leave the field)
-      * Conflict issues (disrespect for, or arguments with, any marshal)
-      * Rules confusion (misunderstanding of, or disregard for, any rule)
-      * Please give us details on both good and bad things so we can detect patterns if things occur at multiple events.
+* Anyone can file a report using the form on the marshal’s website for any marshal activity. You don’t have to be the MiC, or even a marshal to bring things to the attention of the Kingdom marshallate this way.
+* File reports within 10 days of the event.
+* Discipline MiCs should file the report and then inform the overall event MiC that it has been done; event MiCs should make sure all discipline reports are filed.
+* Please be certain to report any of the following events:
+    * Equipment failure (armor, weapon or other)
+    * Report and failed mask/helm and why it failed.
+    * Injury (any event that requires the fighter to leave the field)
+    * Conflict issues (disrespect for, or arguments with, any marshal)
+    * Rules confusion (misunderstanding of, or disregard for, any rule)
+    * Please give us details on both good and bad things so we can detect patterns if things occur at multiple events.
