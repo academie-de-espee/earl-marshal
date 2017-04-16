@@ -9,7 +9,7 @@ subpages:
     name: Equestrian
     image: images/equestrian.gif
     text: Equestrian activities include mounted archery, quintain, jousting, and others upon a horse.
-  - url: http://rapier.atlantia.sca.org/
+  - url: /rapier/
     name: Rapier Combat
     image: images/rapier.gif
     text: Those skilled with a rapier practice of the noble art of Fencing.
