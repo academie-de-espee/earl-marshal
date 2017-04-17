@@ -29,7 +29,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
     * Certify the competence of the MIT.
 * 4+ events, two outside your local group, one outside your region, one with melee activity.
 * MIT Form
-* A copy of the rules
+* A copy of the [rules](/rapier/)
 * When finished, request a rapier marshal warrant with the completed MIT form via the [Kingdom Warrant Website](https://warrant.atlantia.sca.org)
 * Renewal of the class is required every three years.
 
