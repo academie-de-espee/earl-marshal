@@ -35,7 +35,7 @@ Youth combat in Atlantia has its own set of policies, procedures, and forms spec
 
 # Marshal Class Materials
 
-* [Armored Marshaling 101](/documents/training/armored-marshal-101-06-2015.docx)
+* [Armored Marshaling 101](/training/armored-marshal/)
 * [Combat Archery 101](/documents/training/combat-archery-training-101.pdf)
 * [Rapier Marshaling 101](/documents/training/rapier-marshal-101-06-2015.docx)
 * [Siege Marshaling 101](/documents/training/Siege-101_Outline.pdf)
