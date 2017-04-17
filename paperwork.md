@@ -41,7 +41,7 @@ Youth combat in Atlantia has its own set of policies, procedures, and forms spec
 * [Siege Marshaling 101](/documents/training/Siege-101_Outline.pdf)
 * [Siege Marshaling Guidelines](/documents/training/SiegeGuidelines.pdf)
 * Youth Rapier (not available online)
-* [Field Marshaling 201](/documents/training/field-marshal-class.pdf)
+* [Field Marshaling 201](/training/field-marshal/)
 
 * [Equestrian Marshals class](/training/equestrian-marshal)
 * [Equestrian Safety class](/training/equestrian-safety)
