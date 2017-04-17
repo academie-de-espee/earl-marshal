@@ -14,6 +14,7 @@ The goal of the Armored 101 class is to provide individuals with the basic backg
 
 Prospective MITs are required to complete both Armored 101 and Field 201 before taking the field as MITs.
 
+Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-training@atlantia.sca.org).
 
 # Armor Standards and Inspections
 ## How to Inspect
