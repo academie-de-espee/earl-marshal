@@ -106,6 +106,13 @@ The goal of the Rapier 101 class is to provide individuals with the basic backgr
 ### Soft parry 
 * Soft parry devices shall not be weighted with any rigid material nor with materials which are heavy enough to turn the device into a flail or impact weapon.
 
+## Overall appearance 10’ rule
+* Intention is to improve the appearance of the field, not prevent people from playing
+* Fighter’s kit shall look medieval at a distance of 10’ or greater
+* In general, this means no obvious sports logos, fluorescent colors, etc.
+* Sports armor should be completely covered, with the exception of fencing masks.
+* Be especially polite and helpful in enforcement of this rule, but firm. This also applies to authorizing fighters. This is something that should be first addressed at the local practice level.
+* If an authorizing fighter does not meet this standard find out who is running their practice and talk to that marshal.
 
 ## Authorizations
 ### Selecting an usher
