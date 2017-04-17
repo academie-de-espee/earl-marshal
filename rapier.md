@@ -29,6 +29,6 @@ In addition, in some melee combat scenarios, combat archery may be employed.  Co
 
 ## Information
 * [Rapier Practices](/practices/rapier/), official practices with rapier combat held throughout the kingdom.
-* [Academie d'Espee](http://www.academiedespee.com/), the premiere rapier guild in Atlantia
 * [Atlantian Rapiernet](https://groups.yahoo.com/neo/groups/atlantianrapiernet/info), the primary mailing list for rapier activity within Atlantia.
+* [Academie d'Espee](http://www.academiedespee.com/), the premiere rapier guild in Atlantia.
 * [Academie d'Espee on Facebook](https://www.facebook.com/groups/608693275816448/), the Facebook group for the Academie d'Espee guild.
