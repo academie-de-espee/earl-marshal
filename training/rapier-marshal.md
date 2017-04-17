@@ -3,7 +3,8 @@ title: Rapier Marshal 101 Class Outline
 layout: default
 ---
 
-Last Modified: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+**Revision**: {{ site.git.last_commit.short_sha }}
 
 * TOC
 {:toc}

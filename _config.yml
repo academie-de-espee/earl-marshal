@@ -19,3 +19,4 @@ nav:
       href: https://warrant.atlantia.sca.org/warrants/request/1
 gems:
   - jekyll-last-modified-at
+  - jekyll-git_metadata
