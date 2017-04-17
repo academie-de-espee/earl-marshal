@@ -3,6 +3,8 @@ title: Armored Marshal 101 Class Outline
 layout: default
 ---
 
+Last Modified: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+
 * TOC
 {:toc}
 

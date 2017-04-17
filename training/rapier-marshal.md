@@ -3,6 +3,8 @@ title: Rapier Marshal 101 Class Outline
 layout: default
 ---
 
+Last Modified: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+
 * TOC
 {:toc}
 
@@ -10,6 +12,7 @@ layout: default
 
 The goal of the Rapier 101 class is to provide individuals with the basic background required to begin a successful journey toward a marshal’s warrant.  While we do touch on many rules, it is not an instruction in all rules of rapier combat.  This outline, in fact, assumes that the instructor and students are thoroughly familiar with the most recent edition of the Society Marshal’s Handbook and Kingdom Policy as it relates to rapier combat. Prospective MITs are required to complete both Rapier 101 and Field 201 before taking the field as MITs.
 
+Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-training@atlantia.sca.org).
 
 ## Marshal in Training (MIT) Program
 
