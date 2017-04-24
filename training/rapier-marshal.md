@@ -214,8 +214,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### Melees
 * In melees, fighters are engaged with all opponents immediately upon the call to lay on.
 * Fighters may strike any opponent with any legal blow if they are within the 180 degree arc of the opponent's front. A fighter who approaches an opponent from behind shall not deliver a blow until the fighter is within that frontal arc. A fighter may never deliberately strike an opponent from behind.
-* Killing from behind is allowed if it has been announced beforehand.Per society rules for "death from behind" in melees shall be: a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice. 
-    * The opponent will be deemed "killed" the instant the blade touches his shoulder and shall not attempt to spin, duck or dodge away.
+* Killing from behind is allowed if it has been announced beforehand.Per society rules for "death from behind" in melees shall be: a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice.  The opponent will be deemed "killed" the instant the blade touches his shoulder.
 
 
 ## Event reporting
