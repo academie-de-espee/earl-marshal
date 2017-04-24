@@ -157,7 +157,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
       * The fighter must know the intent and spirit of the law. They do not need to know the letter of the law.
    * Ability to properly execute and acknowledge various valid blows.
    * Safe and competent execution of offense and defense during actual combat. Fighter should be able to adjust defense to protect different parts of the body as blows are thrown to those areas.
-   * Authorizing fighter must behave and fight in such a fashion as to not be a danger to himself/herself or others
+   * Authorizing fighter must behave and fight in such a fashion as to not be a danger to themselves or others
       * Examples of unacceptable behavior would include:
          * failing to stop on the call of Hold
          * cringing or dropping of defense when not in hold
