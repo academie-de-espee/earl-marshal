@@ -37,7 +37,7 @@ Youth combat in Atlantia has its own set of policies, procedures, and forms spec
 
 * [Armored Marshaling 101](/training/armored-marshal/)
 * [Combat Archery 101](/documents/training/combat-archery-training-101.pdf)
-* [Rapier Marshaling 101](/documents/training/rapier-marshal-101-06-2015.docx)
+* [Rapier Marshaling 101 Class Outline](/training/rapier-marshal/)
 * [Siege Marshaling 101](/documents/training/Siege-101_Outline.pdf)
 * [Siege Marshaling Guidelines](/documents/training/SiegeGuidelines.pdf)
 * Youth Rapier (not available online)

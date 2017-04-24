@@ -28,6 +28,7 @@ At events, all equipment or clothing used by participants on the list field must
 * [Becoming an authorized rapier fighter](/procedures/rapier-authorization/)
 * [Becoming a marshal](/procedures/mit/)
 * [Youths fighting as Adults](/procedures/youth-as-adult-rapier/)
+* [Rapier Marshal 101 Class Outline](/training/rapier-marshal/)
 
 
 ## Information
