@@ -27,6 +27,7 @@ At events, all equipment or clothing used by participants on the list field must
 2. Anyone that marshals rapier combat at all during an event must meet with the rapier-MIC to discuss the activities they observed and convey any concerns or issues.
 3. Individuals may not fight and marshal in the same activity (melee or tournament).  If multiple activities occur in a single day, individuals may fight in one and marshal another provided they are not the marshal in charge. 
 4. Warranted rapier marshals may only perform inspections and authorizations for all rapier forms they hold a valid authorization.
+5. Marshals may not act as an MOL for a tournament they are actively marshalling.
 
 ## Procedures
 
