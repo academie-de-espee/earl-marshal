@@ -17,6 +17,7 @@ At events, all equipment or clothing used by participants on the list field must
 
 ## Procedures
 * [Becoming a marshal](/procedures/mit/)
+* [Instructions for Marshalling](/documents/training/Marshaling_Instructions.pdf)
 
 ## Information
 * [Armored Marshal 101 Class Outline](/training/armored-marshal/)
