@@ -31,6 +31,8 @@ At events, all equipment or clothing used by participants on the list field must
 6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2012-July/014154.html)
 7. Out-of-area regions for MIT purposes are defined as North (Maryland and DC), North-Central (Virginia), South-Central (North Carolina), and South (South Carolina and Border Vale Keep). [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2015-January/022315.html), [Clarification](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2015-January/022317.html)
 8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-February/022641.html)
+9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
+10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
 
 ## Procedures
 
