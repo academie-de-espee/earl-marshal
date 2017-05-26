@@ -28,6 +28,9 @@ At events, all equipment or clothing used by participants on the list field must
 3. Individuals may not fight and marshal in the same activity (melee or tournament).  If multiple activities occur in a single day, individuals may fight in one and marshal another provided they are not the marshal in charge.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-October/022561.html).
 4. Warranted rapier marshals may only perform inspections and authorizations for all rapier forms they hold a valid authorization. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-April/022472.html), [Follow-up clarification](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-February/022640.html).
 5. Marshals may not act as an MOL for a tournament they are actively marshalling. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-March/022439.html).
+6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2012-July/014154.html)
+7. Out-of-area regions for MIT purposes are defined as North (Maryland and DC), North-Central (Virginia), South-Central (North Carolina), and South (South Carolina and Border Vale Keep). [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2015-January/022315.html), [Clarification](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2015-January/022317.html)
+8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-February/022641.html)
 
 ## Procedures
 
@@ -35,7 +38,6 @@ At events, all equipment or clothing used by participants on the list field must
 * [Becoming a marshal](/procedures/mit/)
 * [Youths fighting as Adults](/procedures/youth-as-adult-rapier/)
 * [Rapier Marshal 101 Class Outline](/training/rapier-marshal/)
-
 
 ## Information
 * [Rapier Practices](/practices/rapier/), official practices with rapier combat held throughout the kingdom.
