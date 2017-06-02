@@ -20,7 +20,7 @@ Rapier fighting in Atlantia is governed by an ordered hierarchy of rules.
 
 In some melee combat scenarios, combat archery may be employed.  Combat Archery rules are defined in [Section 3.5.3](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=KingdomMarshal4) of the Atlantian [Book of Policy](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/seneschal).
 
-At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance per [Section 10.3](https://atlantia.sca.org/offices/seneschal/clerk-of-law/book-of-law/reservations-and-restrictions?faqitem=Policy2) of the Atlantian [Book of Law](https://atlantia.sca.org/offices/seneschal/clerk-of-law/book-of-law/laws-of-the-kingdom).  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
+At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance per [Section 3.5.1](/documents/Earl-Marshal-policy-changes-2017-06-02.pdf) of the Atlantian [Book of Policy](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=KingdomMarshal4).  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
 
 ## Policy interpretations and addendums
 1. All rapier-MICs must submit an event report even if they are not the MIC. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-October/022561.html).
