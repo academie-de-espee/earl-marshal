@@ -33,6 +33,7 @@ At events, all equipment or clothing used by participants on the list field must
 8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-February/022641.html)
 9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
 10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
+11. No more than four (4) fighters may attack a single (1) opponent.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-July/022710.html)
 
 ## Procedures
 
