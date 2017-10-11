@@ -1,5 +1,5 @@
 ---
-title: Becoming a Knight Marshal
+title: Becoming a Knight's Marshal
 layout: default
 ---
 
