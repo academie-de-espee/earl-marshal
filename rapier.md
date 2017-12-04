@@ -43,6 +43,7 @@ At events, all equipment or clothing used by participants on the list field must
 * [Rapier Marshal 101 Class Outline](/training/rapier-marshal/)
 
 ## Information
+* [Rapier Marshal Meeting Notes - Unevent 2017](/rapier/unevent-2017/)
 * [Rapier Practices](/practices/rapier/), official practices with rapier combat held throughout the kingdom.
 * [Atlantian Rapiernet](https://groups.yahoo.com/neo/groups/atlantianrapiernet/info), the primary mailing list for rapier activity within Atlantia.
 * [Academie d'Espee](http://www.academiedespee.com/), the premiere rapier guild in Atlantia.
