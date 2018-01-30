@@ -17,6 +17,6 @@ nav:
       href: https://warrant.atlantia.sca.org/warrants/1
     - text: Request a Warrant
       href: https://warrant.atlantia.sca.org/warrants/request/1
-gems:
+plugins:
   - jekyll-last-modified-at
   - jekyll-git_metadata
