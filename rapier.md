@@ -6,7 +6,8 @@ layout: default
 ## Staff
 
 * Kingdom Rapier Marshal - [Master Brian de Moray](https://warrant.atlantia.sca.org/user/1)
-* Deputy Kingdom Rapier Marshal - [Master Richard ffaukes](https://warrant.atlantia.sca.org/user/141)
+* Deputy Kingdom Rapier Marshal - [Master Geoffrey Clwyd](https://warrant.atlantia.sca.org/user/1065), [Lord Percival Aldridge](https://warrant.atlantia.sca.org/user/300)
+* Deputy Kingdom Rapier Marshal for Youth Rapier - [Lord Allister Greenbrier](https://warrant.atlantia.sca.org/user/1305)
 * Rapier Marshals - [Roster](https://warrant.atlantia.sca.org/warrants/type/14)
 
 ## Rules
