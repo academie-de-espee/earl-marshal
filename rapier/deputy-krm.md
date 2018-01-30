@@ -3,6 +3,9 @@ title: Notes on the role of Deputy KRM
 layout: default
 ---
 
+* TOC
+{:toc}
+
 # Duties
 
 * Assist the KRM in overseeing the Atlantian rapier program in general.  (Address issues as they come up, train future marshals, ensure we are following the rules)
@@ -28,13 +31,13 @@ Congrats!  You now have the ability to approve warrant requests.  A demo system 
 
 Do the following items:
 
-1) Request feedback for the candidate's fitness as a potential marshal from their sponsor, and all overseeing marshals indicated in their paperwork.
-2) Verify they took the appropriate classes.
-3) Verify we have not had reports of misconduct in recent years.
+1. Request feedback for the candidate's fitness as a potential marshal from their sponsor, and all overseeing marshals indicated in their paperwork.
+2. Verify they took the appropriate classes.
+3. Verify we have not had reports of misconduct in recent years.
 
 If all of the above looks good, approve their request and announce their warrant approval to the marshals mailing list, atlantianrapiernet mailing list, and the academie de epsee facebook group.
 
-# Reviewing reports:
+# Reviewing reports
 
 When people submit event reports tagged with Rapier, you will receive a copy of the report via email.  Review & respond as you see fit, though I will also review all submitted reports.   More detail in reports is better, so feel free to ask the submitter for more detail.  Do so by adding a comment.
 
