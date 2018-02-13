@@ -3,7 +3,7 @@ title: Guidance regarding Blatantly Modern Items on the List Field
 layout: default
 ---
 
-The following is guidance regarding enforcement of the Kingdom law ([Section 10.3](https://atlantia.sca.org/offices/seneschal/clerk-of-law/book-of-law/reservations-and-restrictions?faqitem=Policy2)) prohibiting blatantly modern items on the list field in the Kingdom of Atlantia.
+The following is guidance regarding enforcement of the Kingdom policy law prohibiting blatantly modern items on the list field in the Kingdom of Atlantia.
 
 ## General
 1. The fighter should appear as a reasonable example of a warrior from the SCA's period of study (Pre-17th Century focusing on Renaissance and Middle Ages, per Corpora) to the casual observer.
@@ -41,6 +41,6 @@ The following is guidance regarding enforcement of the Kingdom law ([Section 10.
 5. Fencing masks, blade tips/blunts and tip tape are acceptable for use on the field for rapier combat.
 6. APDs and blunts based on plastic and modern materials are explicitly acceptable for combat arrows and quarrels, per Society and Kingdom standards for these items.  Visible straping tape is allowed on combat arrows/quarrels to enable proper inspection of the items.
 7. If there are site restrictions regarding use of non-marking soles, waivers for modern footgear may be obtained from the Earl Marshal, relevant deputies or the Crown.
-8. Participants that are residents of another kingdom are to be considered our guests and are exempt from this ruling provided they meet SCA minimum standards.  Newly transplanted citizens of Atlantia are to be granted a reasonable period of time (4 months per [Kingdom Law, Section 10.3](https://atlantia.sca.org/offices/seneschal/clerk-of-law/book-of-law/reservations-and-restrictions?faqitem=Policy2)) to come into compliance with this rule.
+8. Participants that are residents of another kingdom are to be considered our guests and are exempt from this ruling provided they meet SCA minimum standards.  Newly transplanted citizens of Atlantia are to be granted a reasonable period of time (4 months per policy) to come into compliance with this rule.
 
 Marshals are reminded that the intention of the rule to to attempt to improve the field appearance while still allowing folks on the field.  If someone is borderline in compliance, allow them to participate, but notify them of the issue and request they rectify it.
