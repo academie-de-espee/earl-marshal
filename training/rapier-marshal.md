@@ -59,11 +59,11 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
     * Armor first, head to toes, then weapons
 
 #### Head
-* Checking masks and helms for fit, wear and padding. Mask and helms should be inspected both on **AND** off the combatant at every event. “It is the mask I always wear” is **NOT** sufficient.
+* Checking masks and helms for fit, wear and padding. Mask and helms should be inspected both on **AND** off the combatant at every event. "It is the mask I always wear" is **NOT** sufficient.
 * Masks and helms must be inspected at each event and each day for multi-day events. Combatants with masks and helms that do not meet society minimum requirements should be given the opportunity to correct the issue, but if they are unable or unwilling, they cannot be allowed to fight in that mask or helm.
 * Must be secured as to not be dislodged or removed during combat.
     * Specifically, a snug-fit mask and spring-tongue is not sufficient to meet this requirement.
-* They must have either padding or a suspension system sufficient to prevent internal components of the mask that may cause “injurious contact” from contacting the combatant’s head, neck or body during normal combat.  The interior of fencing masks and helms without a suspension system must have a minimum of .25 inches (6.35mm) open-cell foam or equivalent resilient padding to create separation between the mask and the wearer.
+* They must have either padding or a suspension system sufficient to prevent internal components of the mask that may cause "injurious contact" from contacting the combatant’s head, neck or body during normal combat.  The interior of fencing masks and helms without a suspension system must have a minimum of .25 inches (6.35mm) open-cell foam or equivalent resilient padding to create separation between the mask and the wearer.
     * A FIE/USFA approved fencing mask in good repair is sufficient to meet this requirement.
 * They should not show signs of rust, broken welds, spread open mesh, internal protrusions, or sharp edges that could injure the wearer. 
 * Helmet faceplates must not have holes  larger than 1/8" in diameter,  with a minimum offset of 3/16"
@@ -153,7 +153,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
       * If at any point the usher or marshal determine the fighter is not safe, the authorization must halt.
 
 ### Criteria for passing for light rapier and heavy rapier
-   * Comprehension and application of the SCA Rules of the List, SCA Rapier Marshal's Handbook, and the “General Policies” and “Rapier Combat” sections of the “Policies of the Kingdom Earl Marshal” in the Atlantian Book of Policy.
+   * Comprehension and application of the SCA Rules of the List, SCA Rapier Marshal's Handbook, and the "General Policies" and "Rapier Combat" sections of the "Policies of the Kingdom Earl Marshal" in the Atlantian Book of Policy.
       * The fighter must know the intent and spirit of the law. They do not need to know the letter of the law.
    * Ability to properly execute and acknowledge various valid blows.
    * Safe and competent execution of offense and defense during actual combat. Fighter should be able to adjust defense to protect different parts of the body as blows are thrown to those areas.
@@ -163,10 +163,10 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
          * cringing or dropping of defense when not in hold
          * striking the usher repeatedly with something other than the striking surface of the weapon 
          * striking the usher repeatedly with excessive blows
-   * The level of skill required and described above should be considered:  “competence”
+   * The level of skill required and described above should be considered:  "competence"
 
 ### Criteria for passing for cut and thrust combat authorization
-   *  “Competence” as described above
+   *  "Competence" as described above
    * A higher standard applies as the addition of percussive cuts requires a greater degree of skill to ensure safety for the fighter and opponents
    * Authorizing fighter must demonstrate the ability to conduct attacks in series, incorporating multiple blows and/or feints
    * Authorizing fighter must demonstrate a defense capable of protecting against complex attacks such as described above
@@ -237,7 +237,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 
 ## Paperwork
 * Become familiar with the earl marshal website
-* Be sure to go to earl marshal page and use “request a new warrant” to tell KRM you took this class
+* Be sure to go to earl marshal page and use "request a new warrant" to tell KRM you took this class
     * You are required to have an AEL account
     * Specify if you are starting your MIT process or completing your training requirements
 * Print the rules, keep them with you at every event your marshal.
