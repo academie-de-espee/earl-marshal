@@ -20,7 +20,13 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### Purpose
 * Attempt to ensure a uniformity of training and experience among the marshallate such that rules are being enforced in the same way across the Kingdom.
 * Provide new marshals with the mental toolkit necessary to manage fights and uphold armor and weapons standards in potentially stressful situations
-* **REMEMBER**:  MITs are **NOT** marshals and cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.
+
+### Training
+* **A Marshal in Training (MIT) is not a marshal.**
+* An MIT cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.
+* An MIT is expected to perform the tasks of a marshal but under the direct supervision of a warranted marshal and with the approval of discipline-marshal- in-charge.
+* Warranted marshals supervising an MIT should be performing the task of a rapier marshal with the MIT, either directly supervising their work or having the MIT shadow the rapier marshal.  The intent is that the supervising marshal and MITs observe the same exchanges, weapons, and interactions.  If any such issues arise the supervising marshal needs to be able to immediately step in and correct the mistakes of the MIT.
+* MITs should not be used to fill marshal positions in order to complete necessary marshal tasks during any activity.
 
 ### Requirements
 * This class
@@ -52,7 +58,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### How to Inspect
 * Remember, inspections are pass/fail first. Ensure that the fighter knows that they have passed or failed, and provide the reason for any failure.  A fighter should be given the opportunity to remedy the failure and return to the marshal who failed the item for re-inspection.
 * If you wish to provide an opinion on an item, such as one that may be legal, but close to failure, be clear in your language so that the fighter understands that the information that you are offering is your opinion, not a requirement.
-* Conduct the inspection in the same order every time—this will help you avoid making errors
+* Conduct the inspection in the same order every time as this will help you avoid making errors
     * Have you signed in with the MOL?
     * Are you wearing groin protection as required?
     * Has your armor passed a punch test in the last 2 years?
@@ -144,7 +150,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### Phases
    * Provide clear instruction to both the authorizing fighter and the user:
       * Phase 1: the usher is primarily defensive, and the authorizing fighter fighters to the best of his/her ability.  Both fighters should call the location of a blow and whether it is light or good
-         * Phase 1 should be relatively brief—does the fighter show baseline competence and the ability to throw, and recognize,  a telling blow
+         * Phase 1 should be relatively brief - does the fighter show baseline competence and the ability to throw, and recognize,  a telling blow
       * Phase 2: the usher is expected to be much more active on offense.  Both fighters should call the location of a blow and whether it is light or good.
          * Phase 2 is longer than Phase 1 and includes real pressure from the usher.  The goal is to confirm that the authorizing fighter will not react to stress in an unsafe manner.
       * Phase 3: the usher and authorizing fighter act out and acknowledge all blows as in a tournament
