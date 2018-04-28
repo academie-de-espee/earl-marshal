@@ -17,18 +17,24 @@ The wording could use work, but evidence collected from a society level shows a 
 
 When evaluating protection needed, please understand the additional protection is intended to address percussive blows, not thrusts.
 
-A few important comments:
+# Items of note
+
 * The additional armor requirements is *not* justification for increased calibration.  Fighters are expected to continue to use good judgement and care for their opponent regardless of the armor choices of their opponent.
 * Your armor must still meet period appearance rules.  The examples provided by the SRM include hockey gloves.  Most modern hockey gloves do not meet the period appearance rules without modification or covering.
 * None of the examples of equipment that meets these requirements is necessarily an endorsement of the product.
 * During a tournement, combatants are expected to come to agreement for needed armor requirements, or both fighters will take a loss for the tourney.
 
-# How to inspect
+# Inspection Requirements
 
 Marshals inspecting C&T armor to follow these new rules will need to do the following:
 
-* For any fight where either combatant is using a two-handed weapon, both fighters must have rigid components that cover the back of their fingers, hand, until one inch past the points of the wrists to provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
-* For any fight where both combatants are *not* using a two-handed weapon, both fighters must have at least padding equivalent to 1/4" open cell foam for the fingers, hand, and until one inch past the points of the wrist for any area not protected by hilt, armor, or shields.  Fighters may choose to use rigid components rather than padding.
+* For any fight where either combatant is using a two-handed weapon, both fighters must have rigid components that cover the back of their wrists (to one inch past the points), fingers, and hands that provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
+* For any fight where both combatants are *not* using a two-handed weapon, both fighters must have padding equivalent to 1/4" open cell foam that cover the back of their wrists (to one inch past the points), fingers, and hands that provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
+
+## How to inspect
+1. Ask the combatant to hold their weapon as they would in combat.
+2. Identify the points of the wrist of the combatant.
+3. Verify the armor, hilt, and shield protects the back of the hands, fingers, and wrists percusive cuts.
 
 In the future, this page will include pictures of weapons and armor that meet these requirements.
 
@@ -39,10 +45,10 @@ In the future, this page will include pictures of weapons and armor that meet th
 * Fighting with a blocking dagger (such as the reaver dagger from Darkwood): If you are facing a longsword, you need a rigid demi-gauntlet.  If you are facing anything else, use a padded glove.
 * Using a longsword:  You need at least a hockey glove.  Other known good examples are Koning gloves, SPES heavy gauntlets, or Egg Armory gauntlets.
 
-0 - http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf
+0 - [http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf)
 
-1 - http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=2_5&products_id=12
+1 - [http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=2_5&products_id=12](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=2_5&products_id=12)
 
-2 - http://www.windrosearmoury.com/zc/index.php?main_page=product_info&products_id=541
+2 - [http://www.windrosearmoury.com/zc/index.php?main_page=product_info&products_id=541](http://www.windrosearmoury.com/zc/index.php?main_page=product_info&products_id=541)
 
-3 - http://www.revivalclothing.com/paddedgloves.aspx
+3 - [http://www.revivalclothing.com/paddedgloves.aspx](http://www.revivalclothing.com/paddedgloves.aspx)
