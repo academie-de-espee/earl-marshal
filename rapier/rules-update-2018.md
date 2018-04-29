@@ -72,10 +72,10 @@ The following are examples of appropriate armor for use when fighting with a two
 5. [Egg Armor Gauntlets](http://eggarmor.net/html/01.html)
 6. [Age of Craft Visby Gauntlets](http://ageofcraft.com/armor/hand-armor/visby-gauntlets-type-1) and [Brigg Mittens](http://ageofcraft.com/armor/hand-armor/brigg-mittens)
 
-None of these examples of equipment is necessarily an endorsement of the product.
-
 The following are examples of appropriate armor for use when fighting with a one-handed weapon against another one handed weapon.  Other equipment may meet the above requirements.
 
 1. [Revival Padded Gloves](http://www.revivalclothing.com/paddedgloves.aspx)
 2. [Purple Heart Padded Gloves](http://www.woodenswords.com/Gloves_Rapier_and_Singlestick_p/glove.rapier.htm)
 3. [STX Stallion 300 Lacrosse Gloves](https://www.voodoolacrosse.com/gloves/227-stx-stallion-300-lacrosse-gloves.html)
+
+None of these examples of equipment is necessarily an endorsement of the product.
