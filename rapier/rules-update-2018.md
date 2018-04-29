@@ -14,7 +14,7 @@ layout: default
 
 # Latest Society Rapier Marshal changes
 
-The Society Rapier Marshal (SRM) published an approved update to the society rapier rules [1]. This update includes additional requirements for hand protection for those participating in Cut & Thrust. These rules will be not be enforced until the start of Pennsic 2018 (July 27th, 2018). As such, you have a short period of time to bring your kit into compliance with the new rules.
+The Society Rapier Marshal (SRM) published an approved update to the [society rapier rules](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf). This update includes additional requirements for hand protection for those participating in Cut & Thrust. These rules will be not be enforced until the start of Pennsic 2018 (July 27th, 2018). As such, you have a short period of time to bring your kit into compliance with the new rules.
 
 Specifically, the rules have the following additional requirements:
 
@@ -67,16 +67,15 @@ The following are examples of appropriate armor for use when fighting with a two
 
 1. [Darkwood Armory Wisby Gauntlets](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=56&products_id=606)
 2. [SPES Heavy Gloves](http://www.woodenswords.com/SPES_Heavy_Gloves_V1_0_Pair_p/spes-heavy.gloves.htm)
-3. [St Mark Koning Glove](https://www.saintmark.se/product/the-koning-glove/)
+3. [St Mark Koning Gloves](https://www.saintmark.se/product/the-koning-glove/)
 4. [Hoof and Mitten gloves by Sparring Gloves](http://hemasupplies.com/product-category/gloves/)
 5. [Egg Armor Gauntlets](http://eggarmor.net/html/01.html)
 6. [Age of Craft Visby Gauntlets](http://ageofcraft.com/armor/hand-armor/visby-gauntlets-type-1) and [Brigg Mittens](http://ageofcraft.com/armor/hand-armor/brigg-mittens)
 
 None of these examples of equipment is necessarily an endorsement of the product.
 
-# References
+The following are examples of appropriate armor for use when fighting with a one-handed weapon against another one handed weapon.  Other equipment may meet the above requirements.
 
-1. [http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf)
-2. [http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=2_5&products_id=12](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=2_5&products_id=12)
-3. [http://www.windrosearmoury.com/zc/index.php?main_page=product_info&products_id=541](http://www.windrosearmoury.com/zc/index.php?main_page=product_info&products_id=541)
-4. [http://www.revivalclothing.com/paddedgloves.aspx](http://www.revivalclothing.com/paddedgloves.aspx)
+1. [Revival Padded Gloves](http://www.revivalclothing.com/paddedgloves.aspx)
+2. [Purple Heart Padded Gloves](http://www.woodenswords.com/Gloves_Rapier_and_Singlestick_p/glove.rapier.htm)
+3. [STX Stallion 300 Lacrosse Gloves](https://www.voodoolacrosse.com/gloves/227-stx-stallion-300-lacrosse-gloves.html)
