@@ -59,16 +59,18 @@ In the future, this page will include pictures of weapons and armor that meet th
 * During a tournement, combatants are expected to come to agreement for needed armor requirements, or both fighters will take a loss for the tourney.
 * The rules specify hockey gloves are sufficent as an alternative to *rigid* armor.  Yes, hockey gloves are *not* rigid.  This is understood.
 * As of 2018/04/28, "hockey gloves" is interpreted as Ice Hockey gloves, not street hockey, field hockey, or lacrosse gloves.  This may change in the future.
+* The SRM clarified the rules to specify that **only the back** of the hand, fingers, wrist need to be protected, not the entire hand.  Gauntlets are not required to *ground out* on the handle of the weapon as frequently advised for armored combat.
 
 # Armor that meets these requirements
 
 The following are examples of appropriate armor for use when fighting with a two-handed weapon with appropriate fit.  Other equipment may meet the above requirements.
 
-1. [Darkwood Armory Wisby Gauntlet](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=56&products_id=606)
+1. [Darkwood Armory Wisby Gauntlets](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=56&products_id=606)
 2. [SPES Heavy Gloves](http://www.woodenswords.com/SPES_Heavy_Gloves_V1_0_Pair_p/spes-heavy.gloves.htm)
 3. [St Mark Koning Glove](https://www.saintmark.se/product/the-koning-glove/)
 4. [Hoof and Mitten gloves by Sparring Gloves](http://hemasupplies.com/product-category/gloves/)
 5. [Egg Armor Gauntlets](http://eggarmor.net/html/01.html)
+6. [Age of Craft Visby Gauntlets](http://ageofcraft.com/armor/hand-armor/visby-gauntlets-type-1) and [Brigg Mittens](http://ageofcraft.com/armor/hand-armor/brigg-mittens)
 
 None of these examples of equipment is necessarily an endorsement of the product.
 
