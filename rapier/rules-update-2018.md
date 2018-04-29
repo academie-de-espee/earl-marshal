@@ -14,7 +14,7 @@ layout: default
 
 # Latest Society Rapier Marshal changes
 
-The Society Rapier Marshal (SRM) published an approved update to the [society rapier rules](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf). This update includes additional requirements for hand protection for those participating in Cut & Thrust. These rules will be not be enforced until the start of Pennsic 2018 (July 27th, 2018). As such, you have a short period of time to bring your kit into compliance with the new rules.
+The Society Rapier Marshal (SRM) published an approved update to the [society rapier rules](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf). This update includes additional requirements for hand protection for those participating in Cut & Thrust. These rules will not be enforced until the start of Pennsic 2018 (July 27th, 2018). As such, you have a short period of time to bring your kit into compliance with the new rules.
 
 Specifically, the rules have the following additional requirements:
 
