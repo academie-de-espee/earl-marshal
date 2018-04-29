@@ -3,6 +3,15 @@ title: Society Rules Update - April 2018
 layout: default
 ---
 
+* TOC
+{:toc}
+
+**Author**: Master Brian de Moray, KRM
+
+**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+
+**Revision**: {{ site.git.last_commit.short_sha }}
+
 # Latest Society Rapier Marshal changes
 
 The Society Rapier Marshal (SRM) published an approved update to the society rapier rules [1]. This update includes additional requirements for hand protection for those participating in Cut & Thrust. These rules will be not be enforced until the start of Pennsic 2018 (July 27th, 2018). As such, you have a short period of time to bring your kit into compliance with the new rules.
@@ -50,12 +59,14 @@ In the future, this page will include pictures of weapons and armor that meet th
 
 # Armor that meets these requirements
 
-None of these examples of equipment is necessarily an endorsement of the product.
+The following are examples of appropriate armor for use when fighting with a two-handed weapon.
 
-1. [http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=56&products_id=606](Darkwood Armory Wisby Gauntlet)
-2. [http://www.woodenswords.com/SPES_Heavy_Gloves_V1_0_Pair_p/spes-heavy.gloves.htm](SPES Heavy Gloves)
-3. [https://www.saintmark.se/product/the-koning-glove/](St Mark Koning Glove)
-4. [http://hemasupplies.com/product-category/gloves/](Hoof and Mitten gloves by Sparring Gloves)
+1. [Darkwood Armory Wisby Gauntlet](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=56&products_id=606)
+2. [SPES Heavy Gloves](http://www.woodenswords.com/SPES_Heavy_Gloves_V1_0_Pair_p/spes-heavy.gloves.htm)
+3. [St Mark Koning Glove](https://www.saintmark.se/product/the-koning-glove/)
+4. [Hoof and Mitten gloves by Sparring Gloves](http://hemasupplies.com/product-category/gloves/)
+
+None of these examples of equipment is necessarily an endorsement of the product.
 
 # References
 
