@@ -6,7 +6,7 @@ layout: default
 To become a warranted marshal in Atlantia, you must follow the following process.
 
 1.  Become an SCA member.  All marshals must maintain an active SCA membership.
-2.  Become authorized in the discipline in question.  (Exceptions to this are made on acase by case basis)
+2.  Become authorized in the discipline in question.  (Exceptions to this are made on a case by case basis)
 3.  Find a Sponsiring Marshal to guide you through the process.
 4.  Request a disipline specific marshal warrant, indicating your training is in progress, in the [Atlantian Warrant Registry](https://warrant.atlantia.sca.org/warrants/request/1).
 5.  Print out and read the rules.
