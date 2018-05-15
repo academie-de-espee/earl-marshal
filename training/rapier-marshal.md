@@ -21,13 +21,6 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Attempt to ensure a uniformity of training and experience among the marshallate such that rules are being enforced in the same way across the Kingdom.
 * Provide new marshals with the mental toolkit necessary to manage fights and uphold armor and weapons standards in potentially stressful situations
 
-### Training
-* **A Marshal in Training (MIT) is not a marshal.**
-* An MIT cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.
-* An MIT is expected to perform the tasks of a marshal but under the direct supervision of a warranted marshal and with the approval of discipline-marshal- in-charge.
-* Warranted marshals supervising an MIT should be performing the task of a rapier marshal with the MIT, either directly supervising their work or having the MIT shadow the rapier marshal.  The intent is that the supervising marshal and MITs observe the same exchanges, weapons, and interactions.  If any such issues arise the supervising marshal needs to be able to immediately step in and correct the mistakes of the MIT.
-* MITs should not be used to fill marshal positions in order to complete necessary marshal tasks during any activity.
-
 ### Requirements
 * This class
 * Field Marshal 201
@@ -39,6 +32,14 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * A copy of the [rules](/rapier/)
 * When finished, request a rapier marshal warrant with the completed MIT form via the [Kingdom Warrant Website](https://warrant.atlantia.sca.org)
 * Renewal of the class is required every three years.
+
+### Training
+* **A Marshal in Training (MIT) is not a marshal.**
+* An MIT cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.
+* An MIT is expected to perform the tasks of a marshal but under the direct supervision of a warranted marshal and with the approval of discipline-marshal- in-charge.
+* Warranted marshals supervising an MIT should be performing the task of a rapier marshal with the MIT, either directly supervising their work or having the MIT shadow the rapier marshal.  The intent is that the supervising marshal and MITs observe the same exchanges, weapons, and interactions.  If any such issues arise the supervising marshal needs to be able to immediately step in and correct the mistakes of the MIT.
+* MITs should not be used to fill marshal positions in order to complete necessary marshal tasks during any activity.
+
 
 ## Protective Gear
 ### Materials
@@ -69,17 +70,17 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Masks and helms must be inspected at each event and each day for multi-day events. Combatants with masks and helms that do not meet society minimum requirements should be given the opportunity to correct the issue, but if they are unable or unwilling, they cannot be allowed to fight in that mask or helm.
 * Must be secured as to not be dislodged or removed during combat.
     * Specifically, a snug-fit mask and spring-tongue is not sufficient to meet this requirement.
-* They must have either padding or a suspension system sufficient to prevent internal components of the mask that may cause "injurious contact" from contacting the combatant's head, neck or body during normal combat.  The interior of fencing masks and helms without a suspension system must have a minimum of .25 inches (6.35mm) open-cell foam or equivalent resilient padding to create separation between the mask and the wearer.
+* They must have either padding or a suspension system sufficient to prevent internal components of the mask that may cause "injurious contact" from contacting the combatant's head, neck or body during normal combat.  The interior of fencing masks and helms without a suspension system must have a minimum of 1/4" (6mm) open-cell foam or equivalent resilient padding to create separation between the mask and the wearer.
     * A FIE/USFA approved fencing mask in good repair is sufficient to meet this requirement.
 * They should not show signs of rust, broken welds, spread open mesh, internal protrusions, or sharp edges that could injure the wearer.
 * Helmet faceplates must not have holes  larger than 1/8" in diameter,  with a minimum offset of 3/16"
 * If there is concern about the face mesh of a modern fencing mask, it should be tested using a standard commercial 12kg mask punch. Marshals doing the testing shall be trained in the use of the punch.
-* For CUT & THRUST – the back of the head must be covered by rigid material lined by at least ¼ inch (6mm) of closed cell foam or an equivalent padding.
+* For CUT & THRUST – the back of the head must be covered by rigid material lined by at least 1/4" (6mm) of closed cell foam or an equivalent padding.
 * All other areas of the head and neck must be covered by puncture resistant material.
-* Marshals, please perform inspections at your local practices such that combatants are not caught unaware at an event. We would be well served if each of us carry extra appropriate foam padding in our kit as to assist in repairs.
 
 #### Neck
-* For heavy rapier and cut and thrust rapier, additional throat protection is required; it shall consist of rigid material, covering the entire throat, and shall be backed by either puncture resistant material (as a hood), one quarter inch (1/4") (6 mm) of open cell foam, or their equivalents. The cervical vertebrae shall also be protected by rigid material, provided by some combination of gorget, helm, and/or hood insert.
+* For heavy rapier and cut and thrust rapier, additional throat protection is required; it shall consist of rigid material, covering the entire throat, and shall be backed by either puncture resistant material or the equivalent of 1/4" (6 mm) of open cell foam.
+* The cervical vertebrae must be protected by rigid material, provided by some combination of gorget, helm, and/or hood insert.
 
 #### Torso
 * The entire torso (the chest, back, abdomen, groin, and sides up to and including the armpits) must be covered with at least puncture-resistant material.
@@ -88,9 +89,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Male fighters shall wear rigid groin protection.
 
 #### Legs & Arms
-* Abrasion-resistant material is required on arms (save as noted above for armpits), legs, and any area not otherwise mentioned in these rules.
-* Feet shall be protected by boots, shoes, or sandals, comprised of at least abrasion-resistant material.
-* Hands shall be protected by gloves, made of abrasion resistant material.
+* All other areas not discussed previously must be covered in abrasion-resistant material, including feet and hands.
 * No bare skin should show.
 * For cut and thrust, elbows must be further protected by a minimum of an athletic pad or equivalent materials.
 
@@ -98,17 +97,19 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### Blades
 * Blades must be no longer than 48" as measured from the tip to the top of the tang (i.e. where the tang and forte meet)
 * Blades must flex to the standard as defined in Society Rapier Rules.
-* Steel blades will not be altered in way that could significantly alter their temper, flexibility or durability. Normal combat stresses and blade care do not violate this rule. Exceptions include, tang modification, cutting down heavy rapier blades, wielding a blunt tip on so long as it does not affect the temper of the blade.
-* Light rapier blades must be a foil blade, epee blade, or similar variant (such as a double-wide epee or musketeer blades) from an established commercial manufacturer.
-* Light rapier blades are not allowed in Heavy Rapier, nor Cut & Thrust combat. In addition, flexi-daggers are not allowed for Cut & Thrust combat.
-* Rigid steel "parrying-only" daggers such as those made from cut down blades will not be allowed
+* Steel blades will not be altered in way that could significantly alter their temper, flexibility or durability.  Exceptions include, tang modification, cutting down heavy rapier blades, wielding a blunt tip on so long as it does not affect the temper of the blade.
+* Light rapier blades must be a foil blade, epee blade, or similar variant from an established commercial manufacturer.
+* Light rapier blades are not allowed in Heavy Rapier, nor Cut & Thrust combat. 
+* Flexi-daggers are not allowed for Cut & Thrust combat.
+* Rigid steel "parrying-only" daggers such as those made from cut down blades will not be allowed.
 * All blade ends must be capped with rubber, plastic, or leather
 * All blade tips must include adequate protection against punch-through of the blade. Examples include, but are not limited to:
     * A metal disc (such as a washer) placed between the end of the blade and the tip.
-    *  A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
-    * The Darkwood heavy rapier tips are allowed, as long as they are installed per the manufacturer's instructions and do not need a washer or nut.
+    * A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
+    * Exception: The Darkwood heavy rapier tips are allowed, as long as they are installed per the manufacturer's instructions and do not need a washer or nut.
 * Tips must be firmly taped or glued in place. The tip must be of a color contrasting with the blade so that the tip's absence is readily apparent. If tape is used, it must contrast with both blade and tip
-* Any blade with kinks, sharp bends, or cracks fails. We do not allow blades with burs on the field. Should burs occur on a blade they should be filed down before the blade is allowed on the field.
+* Any blade with kinks, sharp bends, or cracks fails.
+* All burs on a blade must be removed prior to use.
 
 ### Rigid Parry
 * Rigid parrying devices will be made of sturdy, lightweight materials, resistant to breakage & splintering and does not have any sharp edges.
@@ -172,7 +173,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
    * The level of skill required and described above should be considered:  "competence"
 
 ### Criteria for passing for cut and thrust combat authorization
-   *  "Competence" as described above
+   * "Competence" as described above
    * A higher standard applies as the addition of percussive cuts requires a greater degree of skill to ensure safety for the fighter and opponents
    * Authorizing fighter must demonstrate the ability to conduct attacks in series, incorporating multiple blows and/or feints
    * Authorizing fighter must demonstrate a defense capable of protecting against complex attacks such as described above
@@ -186,7 +187,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Marshals (generally speaking) are not physicians, but do have a responsibility to the safety of fighters under their management.  Fighters should be allowed to monitor their own level of injury and gauge their ability to engage in combat activities.  Some special cases, however, are mentioned below:
 
 ### Bloodborne pathogens
-   * Fighters with freely flowing wounds must be removed from the field until the wounds can be dressed in such a way to prevent blood (or vomit) from coming into contact with other participants in the activities of the day.
+   * Fighters with freely flowing wounds must be removed from the field until the wounds can be dressed in such a way to prevent blood (or vomit) from coming into contact with other participants.
    * Marshals should seek to identify the root cause of any cut or bloody injury to confirm that the armor and weapons of the participants continue to meet Society standards.
 
 ### Concussions
@@ -220,11 +221,11 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### Melees
 * In melees, fighters are engaged with all opponents immediately upon the call to lay on.
 * Fighters may strike any opponent with any legal blow if they are within the 180 degree arc of the opponent's front. A fighter who approaches an opponent from behind shall not deliver a blow until the fighter is within that frontal arc. A fighter may never deliberately strike an opponent from behind.
-* Killing from behind is allowed if it has been announced beforehand.Per society rules for "death from behind" in melees shall be: a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice.  The opponent will be deemed "killed" the instant the blade touches his shoulder.
+* Killing from behind is allowed if it has been announced beforehand.  Per society rules for "death from behind" in melees shall be: a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice.  The opponent will be deemed "killed" the instant the blade touches his shoulder.
 
 
 ## Event reporting
-* Anyone can file a report using the form on the marshal's website for any marshal activity. You don't have to be the MiC, or even a marshal to bring things to the attention of the Kingdom marshallate..
+* Anyone can file a report using the form on the marshal's website for any marshal activity. You don't have to be the MiC, or even a marshal to bring things to the attention of the Kingdom marshallate.
 * File reports within 10 days of the event.
 * If there is an injury you must fill this out within 24 hours.
 * Discipline MiCs should file the report and then inform the overall event MiC that it has been done; event MiCs should make sure all discipline reports are filed.
