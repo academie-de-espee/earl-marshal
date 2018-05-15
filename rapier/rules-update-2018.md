@@ -74,8 +74,21 @@ The following are examples of appropriate armor for use when fighting with a two
 
 The following are examples of appropriate armor for use when fighting with a one-handed weapon against another one handed weapon.  Other equipment may meet the above requirements.
 
-1. [Revival Padded Gloves](http://www.revivalclothing.com/paddedgloves.aspx)
-2. [Purple Heart Padded Gloves](http://www.woodenswords.com/Gloves_Rapier_and_Singlestick_p/glove.rapier.htm)
-3. [STX Stallion 300 Lacrosse Gloves](https://www.voodoolacrosse.com/gloves/227-stx-stallion-300-lacrosse-gloves.html)
+1. [STX Stallion 300 Lacrosse Gloves](https://www.voodoolacrosse.com/gloves/227-stx-stallion-300-lacrosse-gloves.html)
 
 None of these examples of equipment is necessarily an endorsement of the product.
+
+# Instructions for making equipment
+
+For those looking to make demi-gauntlets, the following patterns may help.
+1. [Demi-Gauntlet Pattern](http://www.armourarchive.org/patterns/demigaunt/)
+2. [Articulated Demi-Gauntlet Pattern](http://www.armourarchive.org/patterns/demi_rainald/)
+3. [How to make Kydex Demi-Gauntlets Instruction Video](https://www.youtube.com/watch?v=vnhLUBrPiSI)
+
+Society rapier rules define rigid materials with the following guidelines:
+
+    Rigid material: resistant material that will not significantly flex, spread apart, or deform under pressure of 12 Kg applied by a standard mask tester, repeatedly to any single point. Examples of rigid material are:
+    * 22 gauge stainless steel (0.8 mm)
+    * 20 gauge mild steel (1.0 mm)
+    * 16 gauge aluminum, copper, or brass (1.6 mm)
+    * one layer of hardened heavy leather (8 ounce, 3.18 mm)
