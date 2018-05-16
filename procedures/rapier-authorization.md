@@ -3,6 +3,9 @@ title: Becoming an authorized rapier fighter
 layout: default
 ---
 
+**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+**Revision**: {{ site.git.last_commit.short_sha }}
+
 * TOC
 {:toc}
 
