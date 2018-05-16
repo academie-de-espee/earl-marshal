@@ -126,6 +126,9 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * If an authorizing fighter does not meet this standard find out who is running their practice and talk to that marshal.
 
 ## Authorizations
+
+The process to authorize in rapier is defined on the [marshal's website](/procedures/rapier-authorization/).  Rather than iterate over the procedure in detail, the following are important items to take into account when running an authorization.
+
 ### Selecting an usher
    * Try to select a fighter with at least three years of experience
    * They should be unflappable in personality and controlled in their fighting
@@ -147,17 +150,6 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
       * Have you gone through event check in?
       * Have you signed in the MOL?
       * Have you read the rules for rapier combat?
-
-### Phases
-   * Provide clear instruction to both the authorizing fighter and the user:
-      * Phase 1: the usher is primarily defensive, and the authorizing fighter fighters to the best of his/her ability.  Both fighters should call the location of a blow and whether it is light or good
-         * Phase 1 should be relatively brief - does the fighter show baseline competence and the ability to throw, and recognize,  a telling blow
-      * Phase 2: the usher is expected to be much more active on offense.  Both fighters should call the location of a blow and whether it is light or good.
-         * Phase 2 is longer than Phase 1 and includes real pressure from the usher.  The goal is to confirm that the authorizing fighter will not react to stress in an unsafe manner.
-      * Phase 3: the usher and authorizing fighter act out and acknowledge all blows as in a tournament
-         * Phase 3 will include more pressure from the usher as if they were fighting a real tournament.
-      * In between each phase call a hold, the usher and marshals should confer privately the results of each phase.
-      * If at any point the usher or marshal determine the fighter is not safe, the authorization must halt.
 
 ### Criteria for passing for light rapier and heavy rapier
    * Comprehension and application of the SCA Rules of the List, SCA Rapier Marshal's Handbook, and the "General Policies" and "Rapier Combat" sections of the "Policies of the Kingdom Earl Marshal" in the Atlantian Book of Policy.
