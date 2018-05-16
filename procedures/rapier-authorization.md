@@ -36,6 +36,8 @@ the actual test.
 * Read and understand the [rules](/rapier/).
 * Participate in at least one mock authorization with your local marshals.  (recommended)
 
+If you are new to Atlantia, you should create an account in the [Authorization Database](https://authorizations.mol.atlantia.sca.org/) prior to authorization, which will spead up the paperwork process.
+
 ## Authorizing Day
 Ask your more experienced friends for a good event to go authorize at.
 There need to be at least two marshals there who are not your regular
