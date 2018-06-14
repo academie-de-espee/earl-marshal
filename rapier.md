@@ -35,6 +35,8 @@ At events, all equipment or clothing used by participants on the list field must
 9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
 10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
 11. No more than four (4) fighters may attack a single (1) opponent.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-July/022710.html)
+12. If a fighter is unable to continue fighting, they should grasp their weapons by the blade near the hilt with the tip pointed directly at the ground, and walk off the field without disrupting the flow of battle.  If the fighter is unable to safely remove themselves from the field of combat, the fighter should kneel while holding their weapons as previously described until they are able to remove themselves from the field. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2018-June/022787.html)
+
 
 ## Procedures
 
