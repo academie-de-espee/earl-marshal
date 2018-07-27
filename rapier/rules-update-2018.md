@@ -36,13 +36,30 @@ Marshals inspecting C&T armor to follow these new rules will need to do the foll
 * For any fight where either combatant is using a two-handed weapon, both fighters must have rigid components that cover the back of their wrists (to one inch past the points), fingers, and hands that provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
 * For any fight where both combatants are *not* using a two-handed weapon, both fighters must have padding equivalent to 1/4" open cell foam that cover the back of their wrists (to one inch past the points), fingers, and hands that provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
 
-## How to inspect
-1. Ask the combatant to hold their weapon as they would in combat.
-2. Identify the location of one inch past points of the wrist of the combatant.
-4. Verify the armor, hilt, and shield protects the back of the hands, fingers, and area on the wrist identified earlier from percusive cuts from *normal* and *reasonable* angles that will occur in a fight are protected.
+## Inspection Procedure
+
+For the purposes of the inspection, you will be using a true-edge, vertical, and direct falling cut. You can perform this with a dagger or sword.
+
+1. Ask the fighter to grasp the sword normally, then position their hand with their thumb up.
+2. From parallel to the weapon, perform the specified cut slowly, impacting with the tip 4 inches past crossbar or quillion.  Identify if you can strike areas without the required armor. Then perform the same action from 45 degrees to the right of the weapon, then 45 degrees to the left of the weapon.
+3. Then do the same three strikes with the fighter holding their weapon palm up, then again holding their weapon palm down.
+4. If in any of these cuts, you can strike areas without the required armor, then the armor does not pass.
 5. A shield alone may be considered an equivalent to full hand protection only if no part of the gloved hand or wrist is within 4 inches (10.2 cm) of the edge of the shield while the shield is in use.
 
-In the future, this page will include pictures of weapons and armor that meet these requirements.
+### Example Inspection
+
+The following pictures show a fighter holding a swept hilt rapier with a demi gauntlet, with the marshal striking from a 45 degree to the right in the 3 hand positions.  A complete inspection would repeat the same checks being parallel and 45 degrees to the left of the blade.
+
+This picture is showing a strike with the palm down, from 45 degrees to the right.   In this picture, the guard and demi gauntlet are acceptable.
+![Palm Down]({{ "/images/rapier/palm-down-small.jpg" | absolute_url }})
+
+The second, palm up, 45 degrees to the right.   In this picture, the guard and demi gauntlet are acceptable.
+![Palm Up]({{ "/images/rapier/palm-up-small.jpg" | absolute_url }})
+
+The third, thumb up, 45 degrees to the right.  In this picture, the back of the thumb is exposed.
+![Thumb Up]({{ "/images/rapier/thumb-up-small.jpg" | absolute_url }})
+
+When facing a single handed weapon, this fighter would need to add the equivalent of 1/4" open cell foam to the exposed area on of their thumb. When facing a two-handed weapon, this fighter would need to add rigid component to the exposed area of their thumb.
 
 # How will this impact you?
 
