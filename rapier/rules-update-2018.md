@@ -28,15 +28,14 @@ The wording could use work, but evidence collected from a society level shows a 
 
 When evaluating protection needed, please understand the additional protection is intended to address percussive blows, not thrusts.
 
-
-# Inspection Requirements
+# Requirements
 
 Marshals inspecting C&T armor to follow these new rules will need to do the following:
 
 * For any fight where either combatant is using a two-handed weapon, both fighters must have rigid components that cover the back of their wrists (to one inch past the points), fingers, and hands that provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
 * For any fight where both combatants are *not* using a two-handed weapon, both fighters must have padding equivalent to 1/4" open cell foam that cover the back of their wrists (to one inch past the points), fingers, and hands that provide protection from typical percussive cuts.  These components can be made up of the hilt, armor, and shields.
 
-## Inspection Procedure
+# Inspection Procedure
 
 For the purposes of the inspection, you will be using a true-edge, vertical, and direct falling cut. You can perform this with a dagger or sword.
 
@@ -46,7 +45,7 @@ For the purposes of the inspection, you will be using a true-edge, vertical, and
 4. If in any of these cuts, you can strike areas without the required armor, then the armor does not pass.
 5. A shield alone may be considered an equivalent to full hand protection only if no part of the gloved hand or wrist is within 4 inches (10.2 cm) of the edge of the shield while the shield is in use.
 
-### Example Inspection
+## Example Inspection
 
 The following pictures show a fighter holding a swept hilt rapier with a demi gauntlet, with the marshal striking from a 45 degree to the right in the 3 hand positions.  A complete inspection would repeat the same checks being parallel and 45 degrees to the left of the blade.
 
