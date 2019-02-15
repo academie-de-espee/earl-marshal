@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Rules
-* [Kingdom Earl Marshal's Policy (as of 2019-01-28)](/documents/Earl-Marshal-policy-2019-01-28.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.
+* [Kingdom Earl Marshal's Policy (as of 2019-02-15)](/documents/Earl-Marshal-policy-2019-02-15.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.
 * [Society Earl Marshal's Handbook](http://www.sca.org/officers/marshal/docs/marshal_handbook.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
