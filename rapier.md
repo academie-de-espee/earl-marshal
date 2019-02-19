@@ -47,6 +47,7 @@ At events, all equipment or clothing used by participants on the list field must
 * [Field Marshal 201 Class Outline](/training/field-marshal/)
 
 ## Information
+* [Rapier Marshal Meeting Notes - Unevent 2018](/rapier/unevent-2018/)
 * [Society Rules Update - April 2018](/rapier/rules-update-2018/)
 * [Rapier Marshal Meeting Notes - Unevent 2017](/rapier/unevent-2017/)
 * [Notes on Deputy KRM responsibilities](/rapier/deputy-krm/)
