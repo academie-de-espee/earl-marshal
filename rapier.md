@@ -14,14 +14,16 @@ layout: default
 
 Rapier fighting in Atlantia is governed by an ordered hierarchy of rules.
 
-1. Kingdom Rapier Rules, defined in [Section 3.11](https://atlantia.sca.org/134-offices/seneschal/policies-and-laws/atlantian-book-of-policy/marshal-pages/116-3-11-section-xi-rapier-combat) of the Atlantian [Book of Policy](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/seneschal).  These rules define Atlantia's specific rapier conventions and take precidence over all other rules.
-2. Kingdom Marshal Rules, defined in [Section 3](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal) of the Atlantian [Book of Policy](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/seneschal), excluding the components specific to other forms of combat.  These rules define Atlantia's overall marshal conventions.
+1. Kingdom Rapier Rules, defined in [Section 3.11 of the Kingdom Earl Marshal’s Policy](/paperwork/).  These rules define Atlantia's specific rapier conventions and take precidence over all other rules.
+2. Kingdom Marshal Rules, defined in [Section 3 of the Kingdom Earl Marshal’s Policy](/paperwork/), excluding the components specific to other forms of combat.  These rules define Atlantia's overall marshal conventions.
 3. Society Rapier Rules, defined in the [SCA's Rapier Marshal's Handbook](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf).  These rules define the SCA's rapier conventions.
 4. Society Marshal's rules, defined in the [SCA's Marshal's Handbook](http://www.sca.org/officers/marshal/docs/marshal_handbook.pdf), excluding the components specific to other forms of combat.  These rules define the Society's overall marshal conventions.
 
-In some melee combat scenarios, combat archery may be employed.  Combat Archery rules are defined in [Section 3.5.3](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=KingdomMarshal4) of the Atlantian [Book of Policy](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/seneschal).
+In some melee combat scenarios, combat archery may be employed.  Combat Archery rules are defined in [Section 3.5.3](https://marshal.atlantia.sca.org/paperwork/) of the Atlantian Book of Policy.
 
-At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance per [Section 3.5.1](/documents/Earl-Marshal-policy-changes-2017-06-02.pdf) of the Atlantian [Book of Policy](https://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=KingdomMarshal4).  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
+At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance per [Section 3.5.1](/paperwork/) of the Atlantian Book of Policy.  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
+
+For youth rapier fighters, additional rules apply as defined in [Section 3.9 of Kingdom Earl Marshal’s Policy](/paperwork/) and the [Society Youth Marshal Handbook](https://www.sca.org/officers/marshal/youthcombat/docs/YouthMartialHandbook.pdf).
 
 ## Policy interpretations and addendums
 1. All rapier-MICs must submit an event report even if they are not the MIC. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-October/022561.html).
@@ -45,6 +47,7 @@ At events, all equipment or clothing used by participants on the list field must
 * [Youths fighting as Adults](/procedures/youth-as-adult-rapier/)
 * [Rapier Marshal 101 Class Outline](/training/rapier-marshal/)
 * [Field Marshal 201 Class Outline](/training/field-marshal/)
+* [Youth Marshal 101 Class Outline](/training/youth-rapier-marshal/)
 
 ## Information
 * [Rapier Marshal Meeting Notes - Unevent 2018](/rapier/unevent-2018/)

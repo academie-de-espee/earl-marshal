@@ -24,12 +24,11 @@ Youth Armored Combat is divided into three divisions based on age, armor, and we
 Youth Rapier Combat is divided into four divisions based on age, armor, and weapons. The recommended age ranges are:
 
 * Division 1: Ages 6-9
-* Division 2: Ages 10-11
-* Division 3: Ages 12-17
-* Division 4: Ages 12-17 with experience
+* Division 2: Ages 10-13
+* Division 3: Ages 14-17
 
 #### Resources
-* [Kingdom rules for youth rapier](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=Herald7)
+* [Section 3.9 of the Kingdom Earl Marshal’s Policy](/paperwork/)
 
 
 </div>
