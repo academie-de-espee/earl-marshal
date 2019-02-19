@@ -61,7 +61,7 @@ The goal of Youth Rapier is to recreate pre-17th century fencing.
 3. Adults working with children must follow the same weapon and armor standards.
 4. Adults may only work with children in controlled practice or training situations.
 
-# Additional Policies:
+# Additional Policies
 1. SCA policies relating to the attendance and participation of children at events and activities are found in the Seneschal’s Handbook. Nothing in this document will be construed to overrule, change, or substitute for those policies.
 
 # Divisions
