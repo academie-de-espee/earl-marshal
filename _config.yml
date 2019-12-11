@@ -8,8 +8,10 @@ markdown: kramdown
 excerpt_separator: <!-- more -->
 permalink:   pretty
 exclude:
-    - README.txt
-    - Rakefile
+    - README.md
+    - Makefile
+    - Gemfile
+    - Gemfile.lock
     - vendor
 nav:
     - text: Event Report
