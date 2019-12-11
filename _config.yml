@@ -1,4 +1,4 @@
-lsi:         false
+lsi: false
 name: Kingdom of Atlantia - Earl Marshal
 description: Marshal Activities within the Kingdom of Atlantia
 url: http://marshal.atlantia.sca.org
@@ -10,6 +10,7 @@ permalink:   pretty
 exclude:
     - README.txt
     - Rakefile
+    - vendor
 nav:
     - text: Event Report
       href: https://warrant.atlantia.sca.org/reports/new/1
