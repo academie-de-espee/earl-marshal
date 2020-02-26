@@ -112,7 +112,7 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
     * Did they have any problems?
         1. Safety issues (broken blades, stray arrows, injuries)
         2. Troublesome or belligerent individuals (You need to get the SCA name of these people and include them in your report.)
-    * Remind them to file their event reports within 10 days. Ask for a copy.
+    * Remind them to file their event reports within 7 days. Ask for a copy.
     * Make sure they have help for cleanup.
 * File your event report within 10 days.
     * This is not optional—the report must be filed within that time span.

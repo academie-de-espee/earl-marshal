@@ -218,7 +218,7 @@ The process to authorize in rapier is defined on the [marshal's website](/proced
 
 ## Event reporting
 * Anyone can file a report using the form on the marshal's website for any marshal activity. You don't have to be the MiC, or even a marshal to bring things to the attention of the Kingdom marshallate.
-* File reports within 10 days of the event.
+* File reports within 7 days of the event.
 * If there is an injury you must fill this out within 24 hours.
 * Discipline MiCs should file the report and then inform the overall event MiC that it has been done; event MiCs should make sure all discipline reports are filed.
 * Please be certain to report any of the following events:
