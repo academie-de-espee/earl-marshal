@@ -31,7 +31,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * MIT Form
 * A copy of the [rules](/rapier/)
 * When finished, request a rapier marshal warrant with the completed MIT form via the [Kingdom Warrant Website](https://warrant.atlantia.sca.org)
-* Renewal of the class is required every three years.
+* Renewal of the class is required every three years (the Unevent meeting counts).
 
 ### Training
 * **A Marshal in Training (MIT) is not a marshal.**
@@ -91,13 +91,13 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 #### Legs & Arms
 * All other areas not discussed previously must be covered in abrasion-resistant material, including feet and hands.
 * No bare skin should show.
-* For cut and thrust, elbows must be further protected by a minimum of an athletic pad or equivalent materials.
+* For cut and thrust, elbows must be further protected by a minimum of an athletic pad or equivalent materials.  Hands must also have padded gloves or full rigid if one combatant is using a two-handed weapon.
 
 ## Weapon Standards and Inspections
 ### Blades
 * Blades must be no longer than 48" as measured from the tip to the top of the tang (i.e. where the tang and forte meet)
 * Blades must flex to the standard as defined in Society Rapier Rules.
-* Steel blades will not be altered in way that could significantly alter their temper, flexibility or durability.  Exceptions include, tang modification, cutting down heavy rapier blades, wielding a blunt tip on so long as it does not affect the temper of the blade.
+* Steel blades will not be altered in way that could significantly alter their temper, flexibility or durability.  Exceptions include, tang modification, cutting down heavy rapier blades, welding a blunt tip on so long as it does not affect the temper of the blade.
 * Light rapier blades must be a foil blade, epee blade, or similar variant from an established commercial manufacturer.
 * Light rapier blades are not allowed in Heavy Rapier, nor Cut & Thrust combat. 
 * Flexi-daggers are not allowed for Cut & Thrust combat.
@@ -107,7 +107,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
     * A metal disc (such as a washer) placed between the end of the blade and the tip.
     * A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
     * Exception: The Darkwood heavy rapier tips are allowed, as long as they are installed per the manufacturer's instructions and do not need a washer or nut.
-* Tips must be firmly taped or glued in place. The tip must be of a color contrasting with the blade so that the tip's absence is readily apparent. If tape is used, it must contrast with both blade and tip
+* Tips must be firmly taped or glued in place. The tip must be of a color contrasting with the blade so that the tip's absence is readily apparent. If tape is used, it must contrast with both blade and tip.  Do NOT tape over the end of the tip.
 * Any blade with kinks, sharp bends, or cracks fails.
 * All burs on a blade must be removed prior to use.
 
@@ -223,7 +223,7 @@ The process to authorize in rapier is defined on the [marshal's website](/proced
 * Discipline MiCs should file the report and then inform the overall event MiC that it has been done; event MiCs should make sure all discipline reports are filed.
 * Please be certain to report any of the following events:
     * Equipment failure (armor, weapon or other)
-    * Report and failed mask/helm and why it failed.
+    * Report any failed mask/helm and why it failed.
     * Injury (any event that requires the fighter to leave the field)
     * Conflict issues (disrespect for, or arguments with, any fighter, marshal or support staff)
     * Rules confusion (misunderstanding of or disregard for any rule)
