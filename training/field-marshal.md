@@ -40,7 +40,7 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
 * Take into account a variety of factors.
     1. Wishes of the principals
     2. Weather
-    3. Available time
+    3. Available time (include time for authorizations)
     4. Likely participants
 * Keep in mind, no one likes standing around.
 * Have a backup plan.
@@ -66,6 +66,8 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
 * Your personal gear: watch, writing utensils, full set of the rules, safety goggles
 * Spare marshal staves and tabards
 * Spare safety goggles if there will be combat archery
+* Loaner equipment
+* Basic repair/maintenance equipment
 
 ### Be nice to your field staff.
 
@@ -112,9 +114,10 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
     * Did they have any problems?
         1. Safety issues (broken blades, stray arrows, injuries)
         2. Troublesome or belligerent individuals (You need to get the SCA name of these people and include them in your report.)
-    * Remind them to file their event reports within 10 days. Ask for a copy.
+    * Remind them to file their event reports within 7 days. Ask for a copy.
     * Make sure they have help for cleanup.
-* File your event report within 10 days.
+* File your event report within 7 days.
+    * If there are any injuries, the report must be filed within 24 hours
     * This is not optional—the report must be filed within that time span.
     * Besides, you’ll forget what happened if you don’t do it then, anyway.
 * Thank-you notes are a nice touch.
