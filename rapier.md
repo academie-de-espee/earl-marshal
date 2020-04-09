@@ -14,7 +14,7 @@ layout: default
 
 Rapier fighting in Atlantia is governed by an ordered hierarchy of rules.
 
-1. Kingdom Rapier Rules, defined in [Section 3.11 of the Kingdom Earl Marshal’s Policy](/paperwork/).  These rules define Atlantia's specific rapier conventions and take precidence over all other rules.
+1. Kingdom Rapier Rules, defined in [Section 3.11 of the Kingdom Earl Marshal’s Policy](/paperwork/).  These rules define Atlantia's specific rapier conventions and take precedence over all other rules.
 2. Kingdom Marshal Rules, defined in [Section 3 of the Kingdom Earl Marshal’s Policy](/paperwork/), excluding the components specific to other forms of combat.  These rules define Atlantia's overall marshal conventions.
 3. Society Rapier Rules, defined in the [SCA's Rapier Marshal's Handbook](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf).  These rules define the SCA's rapier conventions.
 4. Society Marshal's rules, defined in the [SCA's Marshal's Handbook](http://www.sca.org/officers/marshal/docs/marshal_handbook.pdf), excluding the components specific to other forms of combat.  These rules define the Society's overall marshal conventions.
