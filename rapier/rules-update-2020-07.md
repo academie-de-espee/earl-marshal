@@ -40,7 +40,7 @@ In C&T, blows to the leg are no longer considered "fighting-ending".  Participan
 
 # Updated guidance for armor coverage
 
-The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes images that explicity define the minimum armor coverage required for torso armor, gorget, and mask coverage on pages 19, 20, and 21 respectively.  All participants must meet these standards.
+The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes images that explicity defines the minimum armor coverage required for torso armor, gorget, and mask coverage on pages 19, 20, and 21 respectively.  All participants must meet these standards.
 
 # Thrown Cloaks
 
@@ -58,6 +58,6 @@ This includes:
 
 # Projectile Weapons
 
-The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defining projectile weapons, including RGBs, Bows, and Crossbows.
+The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines projectile weapons, including RGBs, Bows, and Crossbows.
 
 All projectile equipment must be inspected by a warranted Combat Archery marshal and combat actively marshalled by a Combat Archery marshal following Combat Archery policies and procedures.
