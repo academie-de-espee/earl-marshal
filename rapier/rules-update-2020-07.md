@@ -30,7 +30,7 @@ Knee-Walking is allowed by society policy at all times.  The marshal-in-charge o
 
 # C&T Melee
 
-The new society rules allow for melees using C&T combat.  All participants in C&T melee must hold an active C&T authorization and must be actively marshaled by someone approved to marshal C&T combat in Atlantia.  Participants with a Rapier Spear authorization without a C&T authorization may participate in C&T melees only Rapier Spears.  
+The new society rules allow for melees using C&T combat.  All participants in C&T melee must hold an active C&T authorization and must be actively marshaled by someone approved to marshal C&T combat in Atlantia.  Participants with a Rapier Spear authorization without a C&T authorization may participate in C&T melees using only a Rapier Spear.
 
 All those marshalling C&T melee should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during C&T melee activities.
 
