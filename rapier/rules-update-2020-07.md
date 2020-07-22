@@ -12,8 +12,11 @@ layout: default
  
 **Revision**: {{ site.git.last_commit.short_sha }}
 
-In addition to adding Rapier Spears, there are multiple changes to Rapier Combat with the latest society rules.
+# Rubber-tipped Spears
 
+Atlantia now allows for the use of rubber-tipped spears in both rapier and C&T combat.  Rapier Spears are specifically precluded from use in light rapier.  For the forseeable future, all Rapier Spear activities must be actively marshalled by a rapier marshal with a Rapier Spear authorization.
+
+All those marshalling Rapier Spear activity should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during Rapier Spear activities.
 
 # Parry-Only Daggers
 
@@ -25,7 +28,9 @@ Knee-Walking is allowed by society policy at all times.  The marshal-in-charge o
 
 # C&T Melee
 
-The new society rules allow for melees using C&T combat.  All participants in C&T melee must hold an active C&T authorization and must be actively marshaled by someone approved to marshal C&T combat in Atlantia.  Participants with a Rapier Spear authorization without a C&T authorization may participate in C&T melees only Rapier Spears.
+The new society rules allow for melees using C&T combat.  All participants in C&T melee must hold an active C&T authorization and must be actively marshaled by someone approved to marshal C&T combat in Atlantia.  Participants with a Rapier Spear authorization without a C&T authorization may participate in C&T melees only Rapier Spears.  
+
+All those marshalling C&T melee should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during C&T melee activities.
 
 # C&T blows to the legs
 
