@@ -14,9 +14,9 @@ layout: default
 
 # Rubber-tipped Spears
 
-Atlantia now allows for the use of rubber-tipped spears in both rapier and C&T combat.  Rapier Spears are specifically precluded from use in light rapier.  For the forseeable future, all Rapier Spear activities must be actively marshalled by a rapier marshal with a Rapier Spear authorization.
+Atlantia now allows for the use of rubber-tipped spears in both rapier and C&T combat.  Rapier Spears are specifically precluded from use in light rapier.  For the foreseeable future, all Rapier Spear activities must be actively marshaled by a rapier marshal with a Rapier Spear authorization.
 
-All those marshalling Rapier Spear activity should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during Rapier Spear activities.
+All those marshaling Rapier Spear activity should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during Rapier Spear activities.
 
 The marshal-in-charge of an activity may limit Rapier Spears on a per-activity basis as long as the limitation is widely announced.  As an example, after bringing all participants together, announce: "For the next melee, you may not use Rapier Spears."
 
@@ -32,7 +32,7 @@ Knee-Walking is allowed by society policy at all times.  The marshal-in-charge o
 
 The new society rules allow for melees using C&T combat.  All participants in C&T melee must hold an active C&T authorization and must be actively marshaled by someone approved to marshal C&T combat in Atlantia.  Participants with a Rapier Spear authorization without a C&T authorization may participate in C&T melees using only a Rapier Spear.
 
-All those marshalling C&T melee should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during C&T melee activities.
+All those marshaling C&T melee should record and submit detailed feedback in the Event Report as to the efficacy, safety, and any issues raised during C&T melee activities.
 
 # C&T blows to the legs
 
@@ -40,7 +40,7 @@ In C&T, blows to the leg are no longer considered "fighting-ending".  Participan
 
 # Updated guidance for armor coverage
 
-The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes images that explicity defines the minimum armor coverage required for torso armor, gorget, and mask coverage on pages 19, 20, and 21 respectively.  All participants must meet these standards.
+The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes images that explicitly defines the minimum armor coverage required for torso armor, gorget, and mask coverage on pages 19, 20, and 21 respectively.  All participants must meet these standards.
 
 # Thrown Cloaks
 
@@ -48,7 +48,7 @@ Cloaks may be thrown towards an opponent, but may specifically not throw cloaks 
 
 # New "Front 180" rules
 
-The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines where participants can strike their opponents:
+The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines where participants can strike their opponents:
 
 This includes:
 * 5.3.2. Combatants may strike any single opponent they can safely reach with any legal blow if they are within a 180 degree arc of the opponent’s front as defined by the opponent’s shoulders, and at an angle they can be reasonably seen by the opponent.
@@ -58,6 +58,6 @@ This includes:
 
 # Projectile Weapons
 
-The [new society handblook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines projectile weapons, including RGBs, Bows, and Crossbows.
+The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines projectile weapons, including RGBs, Bows, and Crossbows.
 
-All projectile equipment must be inspected by a warranted Combat Archery marshal and combat actively marshalled by a Combat Archery marshal following Combat Archery policies and procedures.
+All projectile equipment must be inspected by a warranted Combat Archery marshal and combat actively marshaled by a Combat Archery marshal following Combat Archery policies and procedures.
