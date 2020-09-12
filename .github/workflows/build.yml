@@ -38,3 +38,4 @@ jobs:
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
         RSYNC_KNOWN_HOSTS: ${{ secrets.RSYNC_KNOWN_HOSTS }}
+      if: ${{ github.ref == 'refs/heads/master' }}
