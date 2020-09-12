@@ -1,16 +1,15 @@
 --- 
-title: Updates from latest Society Rules - July 2020
+title: Updates from latest Society Rules - September 2020
 layout: default 
 --- 
+
+**Author**: Master Brian de Moray, KRM 
+**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+**Revision**: {{ site.git.last_commit.short_sha }}
  
 * TOC 
 {:toc} 
  
-**Author**: Master Brian de Moray, KRM 
- 
-**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
- 
-**Revision**: {{ site.git.last_commit.short_sha }}
 
 ## Current Authorizations
 
