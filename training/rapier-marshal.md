@@ -88,13 +88,13 @@ Using Projectile Weapons within rapier combat is now governed by Combat Archery 
 * For CUT & THRUST – the back of the head must be covered by rigid material lined by at least 1/4" (6mm) of closed cell foam or an equivalent padding.
 * All other areas of the head and neck must be covered by puncture resistant material.
 
-![Coverage Requirements]({{ "/images/rapier/mask.png" | absolute_url }})
+![Head Coverage Requirements]({{ "/images/rapier/mask.png" | absolute_url }})
 
 #### Neck
 * For rapier and cut and thrust rapier, additional throat protection is required; it shall consist of rigid material, covering the entire throat, and shall be backed by either puncture resistant material or the equivalent of 1/4" (6 mm) of open cell foam.
 * The cervical vertebrae must be protected by rigid material, provided by some combination of gorget, helm, and/or hood insert.
 
-![Coverage Requirements]({{ "/images/rapier/gorget.png" | absolute_url }})
+![Neck Coverage Requirements]({{ "/images/rapier/gorget.png" | absolute_url }})
 
 #### Torso
 * The entire torso (the chest, back, abdomen, groin, and sides up to and including the armpits) must be covered with at least puncture-resistant material.
@@ -102,7 +102,7 @@ Using Projectile Weapons within rapier combat is now governed by Combat Archery 
 * Ask the fighter to step forward and lunge.  Make sure that the torso is still covered by least puncture-resistant material
 * External reproductive organs and hemangioma must be covered in rigid armor.
 
-![Coverage Requirements]({{ "/images/rapier/body-armor.png" | absolute_url }})
+![Torso Coverage Requirements]({{ "/images/rapier/body-armor.png" | absolute_url }})
 
 #### Legs & Arms
 * All other areas not discussed previously must be covered in abrasion-resistant material, including feet and hands.
