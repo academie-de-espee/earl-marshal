@@ -4,7 +4,6 @@ description: Marshal Activities within the Kingdom of Atlantia
 url: http://marshal.atlantia.sca.org
 highlighter: true
 encoding: "UTF-8"
-markdown: kramdown
 excerpt_separator: <!-- more -->
 permalink:   pretty
 exclude:

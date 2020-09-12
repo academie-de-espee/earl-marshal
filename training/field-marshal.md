@@ -80,6 +80,8 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
 
 ### Start on time.
 * Manage authorizations.
+    1. Coordinate with MOL, marshals, & ushers throughout the process
+    2. Upon completion, publicly recognize all successful authorizations.  Anyone joining our game should be celebrated. 
 * Coordinate with dignitaries.
 
 ### Managing participants
