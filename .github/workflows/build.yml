@@ -34,7 +34,7 @@ jobs:
         chmod 600 ${HOME}/.ssh/*
         eval `ssh-agent -s`
         ssh-add ${HOME}/.ssh/id_rsa
-        rsync -avr --delete-after --exclude=.well-known/* --delete-excluded _site/ atlantia_marshal@marshal.atlantia.sca.org:marshal.atlantia.sca.org/
+        rsync -avr --delete-after --exclude=./.well-known/acme-challenge --delete-excluded _site/ atlantia_marshal@marshal.atlantia.sca.org:marshal.atlantia.sca.org/
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
         RSYNC_KNOWN_HOSTS: ${{ secrets.RSYNC_KNOWN_HOSTS }}
