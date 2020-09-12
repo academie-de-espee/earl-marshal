@@ -53,6 +53,16 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Rigid Material: puncture-resistant material that will not significantly flex, spread apart, or deform under pressure of 12 Kg applied by a standard mask tester, repeatedly to any single point.
 * Marshals should acquire and bring appropriate armor and mask testing equipment to practices and events they run.
 
+## Authorizations
+
+* Light Rapier
+* Rapier (previously known as Heavy Rapier)
+* Rapier with a two-handed sword
+* Cut & Thrust
+* Cut & Thrust with a two handed sword
+* Rapier Spear (Allows user to participate in combat using spears against rapier, C&T, or spear opponents)
+
+Using Projectile Weapons within rapier combat is now governed by Combat Archery marshals, including Rubber Band Guns, Bows, Crossbows, and thrown weapons.  To use Projectile Weapons in Rapier Combat, the combat must be marshaled by a rapier marshal AND a combat archery marshal.
 
 ## Armor Standards and Inspections
 
@@ -78,15 +88,21 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * For CUT & THRUST – the back of the head must be covered by rigid material lined by at least 1/4" (6mm) of closed cell foam or an equivalent padding.
 * All other areas of the head and neck must be covered by puncture resistant material.
 
+![Coverage Requirements]({{ "/images/rapier/mask.png" | absolute_url }})
+
 #### Neck
-* For heavy rapier and cut and thrust rapier, additional throat protection is required; it shall consist of rigid material, covering the entire throat, and shall be backed by either puncture resistant material or the equivalent of 1/4" (6 mm) of open cell foam.
+* For rapier and cut and thrust rapier, additional throat protection is required; it shall consist of rigid material, covering the entire throat, and shall be backed by either puncture resistant material or the equivalent of 1/4" (6 mm) of open cell foam.
 * The cervical vertebrae must be protected by rigid material, provided by some combination of gorget, helm, and/or hood insert.
+
+![Coverage Requirements]({{ "/images/rapier/gorget.png" | absolute_url }})
 
 #### Torso
 * The entire torso (the chest, back, abdomen, groin, and sides up to and including the armpits) must be covered with at least puncture-resistant material.
 * Acceptable minimum armpit coverage is provided by a triangle extending from the armpit seam, covering the lower half of the sleeve at the seam, and extending down the inner/under arm, one-third the distance to the fighter's elbow
 * Ask the fighter to step forward and lunge.  Make sure that the torso is still covered by least puncture-resistant material
-* Male fighters shall wear rigid groin protection.
+* External reproductive organs and hemangioma must be covered in rigid armor.
+
+![Coverage Requirements]({{ "/images/rapier/body-armor.png" | absolute_url }})
 
 #### Legs & Arms
 * All other areas not discussed previously must be covered in abrasion-resistant material, including feet and hands.
@@ -97,19 +113,26 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 ### Blades
 * Blades must be no longer than 48" as measured from the tip to the top of the tang (i.e. where the tang and forte meet)
 * Blades must flex to the standard as defined in Society Rapier Rules.
-* Steel blades will not be altered in way that could significantly alter their temper, flexibility or durability.  Exceptions include, tang modification, cutting down heavy rapier blades, welding a blunt tip on so long as it does not affect the temper of the blade.
+* Steel blades will not be altered in way that could significantly alter their temper, flexibility or durability.  Exceptions include, tang modification, cutting down rapier blades, welding a blunt tip on so long as it does not affect the temper of the blade.
 * Light rapier blades must be a foil blade, epee blade, or similar variant from an established commercial manufacturer.
-* Light rapier blades are not allowed in Heavy Rapier, nor Cut & Thrust combat. 
+* Light rapier blades are not allowed in Rapier, nor Cut & Thrust combat.
 * Flexi-daggers are not allowed for Cut & Thrust combat.
 * Rigid steel "parrying-only" daggers such as those made from cut down blades will not be allowed.
 * All blade ends must be capped with rubber, plastic, or leather
 * All blade tips must include adequate protection against punch-through of the blade. Examples include, but are not limited to:
     * A metal disc (such as a washer) placed between the end of the blade and the tip.
     * A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
-    * Exception: The Darkwood heavy rapier tips are allowed, as long as they are installed per the manufacturer's instructions and do not need a washer or nut.
+    * Exception: The Darkwood rapier tips are allowed, as long as they are installed per the manufacturer's instructions and do not need a washer or nut.
 * Tips must be firmly taped or glued in place. The tip must be of a color contrasting with the blade so that the tip's absence is readily apparent. If tape is used, it must contrast with both blade and tip.  Do NOT tape over the end of the tip.
 * Any blade with kinks, sharp bends, or cracks fails.
 * All burs on a blade must be removed prior to use.
+
+#### Spear
+* Rubber headed spears, mounted on rattan between 1 1/8th and 1 3/8th inch diameter.
+* Head must flex to 90 degrees with hand pressure
+* Combined length of 9 feet.
+* Minimum diameter inserted into the head end is 1/2 inch.
+* Heads must be friction fit with tape including bright contrasting colored tape or ribbon at the base of the the spear head for visual contrast.
 
 ### Rigid Parry
 * Rigid parrying devices will be made of sturdy, lightweight materials, resistant to breakage & splintering and does not have any sharp edges.
@@ -151,7 +174,7 @@ The process to authorize in rapier is defined on the [marshal's website](/proced
       * Have you signed in the MOL?
       * Have you read the rules for rapier combat?
 
-### Criteria for passing for light rapier and heavy rapier
+### Criteria for passing for light rapier and rapier
    * Comprehension and application of the SCA Rules of the List, SCA Rapier Marshal's Handbook, and the "General Policies" and "Rapier Combat" sections of the "Policies of the Kingdom Earl Marshal" in the Atlantian Book of Policy.
       * The fighter must know the intent and spirit of the law. They do not need to know the letter of the law.
    * Ability to properly execute and acknowledge various valid blows.
@@ -164,12 +187,13 @@ The process to authorize in rapier is defined on the [marshal's website](/proced
          * striking the usher repeatedly with excessive blows
    * The level of skill required and described above should be considered:  "competence"
 
-### Criteria for passing for cut and thrust combat authorization
+### Criteria for passing for Cut & Thrust or Spear combat authorization
    * "Competence" as described above
    * A higher standard applies as the addition of percussive cuts requires a greater degree of skill to ensure safety for the fighter and opponents
    * Authorizing fighter must demonstrate the ability to conduct attacks in series, incorporating multiple blows and/or feints
    * Authorizing fighter must demonstrate a defense capable of protecting against complex attacks such as described above
-   * Must show control over the weapon and the power generated when throwing percussive cuts
+   * Must show control over the weapon and the power generated when throwing form specific blows.
+   * For spear, must show control when abruptly charged by their opponent.
 
 ### Paperwork
    * It is the responsibility of the authorizing fighter to obtain all appropriate signatures on paperwork upon conclusion of the authorization
@@ -212,8 +236,9 @@ The process to authorize in rapier is defined on the [marshal's website](/proced
 
 ### Melees
 * In melees, fighters are engaged with all opponents immediately upon the call to lay on.
-* Fighters may strike any opponent with any legal blow if they are within the 180 degree arc of the opponent's front. A fighter who approaches an opponent from behind shall not deliver a blow until the fighter is within that frontal arc. A fighter may never deliberately strike an opponent from behind.
-* Killing from behind is allowed if it has been announced beforehand.  Per society rules for "death from behind" in melees shall be: a fighter does so by laying the rapier blade over the opponent's shoulder, to at least a third of the blade, while calling "Dead, my lord" (or other short, courteous phrases) in a loud, clear voice.  The opponent will be deemed "killed" the instant the blade touches his shoulder.
+* Combatants may strike any single opponent they can safely reach with any legal blow if they are within a 180 degree arc of the opponent’s front as defined by the opponent’s shoulders, and at an angle they can be reasonably seen by the opponent.
+* Combatants may strike any opponent who is part of a line if the attack is delivered within a 180 degree arc relative to the local line the opponent is a part of.
+* Killing from behind is allowed if it has been announced beforehand.  Per society rules for "death from behind" in melees shall be:  Killing from behind is achieved by laying the weapon over the opponent's shoulder, so that the tip is visible to the opponent, while calling out clearly “You have been killed from behind” or other short clear phrase. The combatant must take care not to strike their opponent with the quillons, guard, or other part of the weapon.
 
 
 ## Event reporting
