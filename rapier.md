@@ -51,6 +51,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 * [Youth Marshal 101 Class Outline](/training/youth-rapier-marshal/)
 
 ## Information
+* [Rapier Marshal Rules Update - University September 2020](/rapier/rules-update-2020-09/)
 * [Rapier Marshal Meeting Notes - Unevent 2019](/rapier/unevent-2019/)
 * [Rapier Marshal Meeting Notes - Unevent 2018](/rapier/unevent-2018/)
 * [Society Rules Update - April 2018](/rapier/rules-update-2018/)
