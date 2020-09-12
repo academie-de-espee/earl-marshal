@@ -35,7 +35,7 @@ In melee: The marshal-in-charge of an activity may limit Rapier Spears on a per-
 
 ### Concerns in Spears
 
-1. The only valid blow with a spear is a thrust.  You may *not* deliver a cut with a spear.
+1. The only valid blow with a spear is a thrust.  Spears may *not* be used to deliver any type of cut.
 2. Grasping equipment isn't specifically banned, but easily becomes grappling.  Our working definition of what constitutes banned grappling/brawling tactics is "meaningfully alter your opponent's balance".
 3. Significantly less armor to protect against incidental contact.  Knees, elbows, fingers, and heads have significantly higher armor standards on the armored field, which mitigate incidental impacts.
 4. Stiff parries & beats may cause incidental impacts, not just on the person direclty across from the combatant, but to neighboring combatants.
