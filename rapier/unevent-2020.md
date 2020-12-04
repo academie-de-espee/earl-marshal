@@ -20,6 +20,8 @@ layout: default
 
 Note: This does not include 70 marshals with lapsed memberships.
 
+Specific thanks to the deputy KRMs, Master Geoffrey Clwyd stepping up as Emergency-KRM, and Lord Lord Percival Aldridge for the support.
+
 ## Authorizations
 * 111 Light Rapier (30% decrease)
 * 312 Rapier (25% decrease)
