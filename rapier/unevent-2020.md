@@ -1,15 +1,15 @@
---- 
+---
 title: Rapier Marshal Meeting - Unevent 2020
-layout: default 
---- 
- 
-* TOC 
-{:toc} 
- 
-**Author**: Master Brian de Moray, KRM 
- 
+layout: default
+---
+
+* TOC
+{:toc}
+
+**Author**: Master Brian de Moray, KRM
+
 **Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
- 
+
 **Revision**: {{ site.git.last_commit.short_sha }}
 
 # Stats
@@ -51,10 +51,10 @@ None
 * Highlights:
     * "Masks are required for all in-person attendance. Masks are required to be worn at all times, indoors and outside, and during all physical activities."
     * Wear disposable gloves for the inspection of each fighter.
-    * Punch test kits that are used to check rapier protective clothing will be cleaned with alcohol wipes between inspections. DO NOT use wipes containing bleach or peroxide as they may damage or discolor the fabric of a fighter’s kit.  
+    * Punch test kits that are used to check rapier protective clothing will be cleaned with alcohol wipes between inspections. DO NOT use wipes containing bleach or peroxide as they may damage or discolor the fabric of a fighter’s kit.
     * An alcohol wipe or paper towel in a gloved hand should be used to check a blade, thrown weapon, or shield for burrs. If the wipe snags on a burr, the fighter will need to file down the problem area and submit it for reinspection.
-    * Disagreements regarding the suitability of a particular mask or other disagreements that may arise from these additional policies may be appealed and addressed following the same processes as are in place for other questions that arise during martial activities.  Refusal to wear a mask that meets the criteria stated above is to be considered a “severe” safety hazard per section 3.2 of the Policies of the Kingdom Early Marshal.  Repeated failures to observe other Kingdom reopening policies also are to be considered a “severe” safety hazard.
-* Be mindful of the lack of training and excercise of participants.  
+    * Disagreements regarding the suitability of a particular mask or other disagreements that may arise from these additional policies may be appealed and addressed following the same processes as are in place for other questions that arise during martial activities.  Refusal to wear a mask that meets the criteria stated above is to be considered a “severe” safety hazard per section 3.2 of the Policies of the Kingdom Earl Marshal.  Repeated failures to observe other Kingdom reopening policies also are to be considered a “severe” safety hazard.
+* Be mindful of the lack of training and excercise of participants.
 * Be specifically observant and remind people to use concern and care for all participants.
 
 
@@ -81,3 +81,16 @@ Tip cuts are *still* optional.  Last year, we discussed exploring using tip cuts
 
 ## Changes in our rules since 2019
 See [Updates from latest Society Rules - September 2020](/rapier/rules-update-2020-09/)
+
+
+## Q&A from meeting
+### To authorize rapier spear, do both marshals have to have rapier spear authorizations?
+Currently, to authorize in any form of rapier, three people that already have the authorization are required to run an authorization for a new participant.  (Two marshals and one usher).
+
+We will putting forward an update to kingdom policy to the crowns such that two rapier marshals and one usher are required, but only one of the marshals and the usher must already have the authorization.  This change will align the policy Rapier and Marshal authorization requirements.
+
+### What materials are allowed for spear shafts in rapier?
+Spear shafts must be made via rattan shafts following society guidelines.
+
+### How will we be training spears?
+More detailed guidance will be forthcoming regarding spears.  Given the kingdom will not have fought for almost a year, we will be delaying the roll-out of spears once combat has resumed.  The office of the KRM will publish authorization guidelines, inspection guide videos, and in-person training focusing on spear at every kingdom university and major event for at least one year once we are able to reopen cross-group fighting in Atlantia.
