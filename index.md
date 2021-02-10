@@ -29,6 +29,10 @@ subpages:
     name: Youth Combat
     image: images/youth.gif
     text: Be it in armored or rapier, our next generation learn the art of combat.
+  - url: /steel-combat
+    name: Steel Combat
+    image: images/steel-combat.jpg
+    text: Using blunt steel weapons in armored combat, recreating buhurt style combat.
   - url: /paperwork
     name: Paperwork
     image: images/paperwork.gif
