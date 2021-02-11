@@ -1,3 +1,8 @@
+---
+title: Steel Fighting Equipment Vendors
+layout: default
+---
+
 # Steel Fighting Equipment Vendors 
 
 The lists below are by no means comprehensive. Armour vendors tend to be small businesses. As such they are subject change far more than established corporations. I will provide links as I can but these links tend to only be good for about a year or two. 
