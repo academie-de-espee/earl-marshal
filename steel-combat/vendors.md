@@ -3,7 +3,7 @@ title: Steel Fighting Equipment Vendors
 layout: default
 ---
 
-# Steel Fighting Equipment Vendors 
+Author: Sir G. Tascius
 
 The lists below are by no means comprehensive. Armour vendors tend to be small businesses. As such they are subject change far more than established corporations. I will provide links as I can but these links tend to only be good for about a year or two. 
 
@@ -58,3 +58,6 @@ The number of providers available is beyond the scope of this list. I will stick
 * [HBC Armor Shop](https://hbcarmorshop.com/): This is an Indian armor shop. They have good quality tempers on their spring steel equipment but you HAVE to be sure that the spring steel option is available and clicked. There is also a mix of fantasy armor here. Take care. 
 * [Wild Armoury](http://wildarmoury.com/):
 * [Quilted Armour](https://www.facebook.com/groups/quiltedarmour/): Considered the best source for gambesons. Especially custom print designs.
+
+**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+**Revision**: {{ site.git.last_commit.short_sha }}
