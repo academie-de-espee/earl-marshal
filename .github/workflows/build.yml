@@ -1,6 +1,8 @@
 name: Jekyll site CI
 
-on: [push]
+on: 
+  push:
+  workflow_dispatch:
 
 jobs:
   build:
