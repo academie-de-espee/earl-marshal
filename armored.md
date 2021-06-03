@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Staff
-* Kingdom Armored Marshal - [Sir Joscelin d'Outremer](https://warrant.atlantia.sca.org/user/709)
+* Kingdom Armored Marshal - [Sir Carlyle Jamesson](https://warrant.atlantia.sca.org/user/922)
 
 ## Rules
 
