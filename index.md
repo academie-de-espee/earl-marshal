@@ -40,7 +40,7 @@ subpages:
 ---
 
 <p>
-<center><h2><a href="https://atlantia.sca.org/wp-content/uploads/2021/06/Atlantia-Covid-Marshal-Policies-v1-5.1.pdf">Atlantia's COVID-19 Marshal Reopening Policy</a></h2></center>
+<center><h2><a href="https://atlantia.sca.org/reopening-atlantia/">Atlantia's COVID-19 Reopening Policy</a></h2></center>
 </p>
 
 <hr>
