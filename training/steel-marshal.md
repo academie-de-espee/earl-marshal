@@ -43,11 +43,11 @@ This document is a bare outline of training for this discipline and must be used
         1. Rigid knee protection that covers the three points
         1. Rigid shin protection (greaves)
 3.  Weapons and shields inspections
-        1. There will be no sharp protrusions or edges that could cause injury
-        1. Swords will be checked for burrs before and after each bout
-        1. Guards on swords may not protrude more than 35MM past the gauntlet while being held.
-        1. Slivers and burrs once noticed must be removed immediately with a file
-        1. Verify the shields fall within the parameters set forth in the rules
+    1. There will be no sharp protrusions or edges that could cause injury
+    1. Swords will be checked for burrs before and after each bout
+    1. Guards on swords may not protrude more than 35MM past the gauntlet while being held.
+    1. Slivers and burrs once noticed must be removed immediately with a file
+    1. Verify the shields fall within the parameters set forth in the rules
 
 > Note: The use of modern materials is acceptable as long as they meet the requirements noted above and maintain a reasonable appearance of pre 16th century armor and clothing.   Unlike HMB, IMCF and similar organizations we do not have an 'authenticity test.'
 
@@ -94,7 +94,7 @@ This document is a bare outline of training for this discipline and must be used
 1. Ensure that the MOL is able to collect scores.
 > Note: As field staff is being built for this discipline, marshals may participate in the tournaments as well as marshal.  This exception will be rescinded once the available pool of marshals increases to above 15.
 
-## Upon Completion of Tournament:
+## Upon Completion of Tournament
 1. Check field for discarded armor, weapons, tools, etc.
 1. File Steel Marshal Activity report:
     1. Document any injuries
@@ -152,6 +152,7 @@ Marshals (generally speaking) are not physicians, but do have a responsibility t
         1. Memory loss of event trauma before, during, or after injury occurred
         1. Slurred/unclear speech
         1. Vomiting
+
 ## Training Requirement for Steel Marshal 101
 1. Trainees must complete a Steel Marshal 101 class.
 1. Trainees must complete an MIT experience. Trainees need to complete an observation period of at least 4 events, one of which is outside of their “region” in Atlantia, under the mentorship of an experienced steel marshal/mentor.  This period will include training in all duties required for a tournament. More experience may be required at the discretion of the training marshal/mentor, Deputy Marshal of Steel Combat or Kingdom Earl Marshal.

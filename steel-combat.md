@@ -21,7 +21,7 @@ At events, all equipment or clothing used by participants on the list field must
 * [Instructions for Marshalling](/documents/training/Marshaling_Instructions.pdf)
 
 ## Information
-* [Steel Marshal 101 Class Outline](/training/stee-marshal-101/)
+* [Steel Marshal 101 Class Outline](/training/steel-marshal/)
 * [Equipment availability](/steel-combat/vendors)
 * Video demonstrations - coming soon
 
