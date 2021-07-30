@@ -9,13 +9,13 @@ layout: default
 * TOC
 {:toc}
 
-# Introduction
+### Introduction
 
 While marshalling armored steel combat has commonalities with rapier or rattan marshaling, the training will concentrate on safety to a higher degree because of the potential for injury from faulty equipment.  MITs can expect to shadow experienced marshals at several events and demonstrate understanding of the rules, armor requirements, how to run tournaments, and how to control fights.
 
 This document is a bare outline of training for this discipline and must be used in conjunction with a copy of the rules. Marshals in Training should have read the rules prior to attending this class to simplify discussions.
 
-## Inspection Duties
+### Inspection Duties
 1. A few tools will be required to complete inspections
     1. A small measuring tape and a thickness gauge
     2. A metal file
@@ -51,7 +51,7 @@ This document is a bare outline of training for this discipline and must be used
 
 > Note: The use of modern materials is acceptable as long as they meet the requirements noted above and maintain a reasonable appearance of pre 16th century armor and clothing.   Unlike HMB, IMCF and similar organizations we do not have an 'authenticity test.'
 
-## Event Marshal
+### Event Marshal
 1. Determine the tournament format(s) for the day
     1. Timed for most counted blows
     1. Count to X blows
@@ -67,7 +67,7 @@ This document is a bare outline of training for this discipline and must be used
 1. Ensure the list is set up per the rules
 1. File an event report for each day of fighting
 
-## Field Marshal
+### Field Marshal
 1. Perform armor and weapons inspections.
 1. Call fighters to the field.
 1. Brief inspection of combatants armor and weapons as they take the field
@@ -94,7 +94,7 @@ This document is a bare outline of training for this discipline and must be used
 1. Ensure that the MOL is able to collect scores.
 > Note: As field staff is being built for this discipline, marshals may participate in the tournaments as well as marshal.  This exception will be rescinded once the available pool of marshals increases to above 15.
 
-## Upon Completion of Tournament
+### Upon Completion of Tournament
 1. Check field for discarded armor, weapons, tools, etc.
 1. File Steel Marshal Activity report:
     1. Document any injuries
@@ -102,7 +102,7 @@ This document is a bare outline of training for this discipline and must be used
     1. Document armor failures (Include picture, age and maker information)
     1. Document weapons failures (include picture, age and maker information
 
-## Authorizations
+### Authorizations
 1. Selecting an usher
     1. Try to select a fighter with at least three years of experience if possible.
     1. They should be unflappable in personality and controlled in their fighting.
@@ -134,7 +134,7 @@ This document is a bare outline of training for this discipline and must be used
     1. The level of skill required and described above should be considered: “competence.”
 1. Paperwork: It is the responsibility of authorizing fighters to obtain all appropriate signatures on paperwork before the end of the event day
 
-## Injuries on the field
+### Injuries on the field
 
 Marshals (generally speaking) are not physicians, but do have a responsibility to the safety of fighters under their management. Fighters should be allowed to monitor their own level of injury and gauge their ability to engage in combat activities. Some special cases, however, are mentioned below:
 
@@ -153,7 +153,7 @@ Marshals (generally speaking) are not physicians, but do have a responsibility t
         1. Slurred/unclear speech
         1. Vomiting
 
-## Training Requirement for Steel Marshal 101
+### Training Requirement for Steel Marshal 101
 1. Trainees must complete a Steel Marshal 101 class.
 1. Trainees must complete an MIT experience. Trainees need to complete an observation period of at least 4 events, one of which is outside of their “region” in Atlantia, under the mentorship of an experienced steel marshal/mentor.  This period will include training in all duties required for a tournament. More experience may be required at the discretion of the training marshal/mentor, Deputy Marshal of Steel Combat or Kingdom Earl Marshal.
 1. Role of mentors:
@@ -162,6 +162,6 @@ Marshals (generally speaking) are not physicians, but do have a responsibility t
  
 > REMEMBER: MITs are NOT marshals and cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.
 
-## Purpose of this program
+### Purpose of this program
 1. To ensure a uniformity of training and experience among the marshallate such that rules are being enforced in the same way across the kingdom.
 1. Provide new marshals with the mental toolkit necessary to manage fights and uphold armor and weapons standards in potentially stressful situations.
