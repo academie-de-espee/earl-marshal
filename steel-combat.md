@@ -23,7 +23,13 @@ At events, all equipment or clothing used by participants on the list field must
 ## Information
 * [Steel Marshal 101 Class Outline](/training/steel-marshal/)
 * [Equipment availability](/steel-combat/vendors)
-* Video demonstrations - coming soon
+
+## Introduction Videos
+* [An Introduction to Steel Fighting in the SCA](https://youtu.be/cHWfEXQ-5jk)
+* [How blows are counted in SCA Steel Fighting](https://youtu.be/WuPQeWE3kSM)
+* [Legal SCA Steel Weapons Guidelines](https://youtu.be/VukoPQEpunw)
+* [Why No Thrusting!?!](https://youtu.be/qYOdsnFC5xc)
+* [Sample of Judging with slow motion](https://youtu.be/LW2OtlKsT_Q)
 
 **Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
 **Revision**: {{ site.git.last_commit.short_sha }}
