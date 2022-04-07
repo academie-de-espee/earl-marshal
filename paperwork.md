@@ -5,7 +5,8 @@ layout: default
 
 # Rules
 * [Atlantia COVID-19 Marshal Reopening Policy](https://atlantia.sca.org/wp-content/uploads/2021/06/Atlantia-Covid-Marshal-Policies-v1-5.1.pdf)
-* [Kingdom Earl Marshal's Policy (as of 2020-08-06)](/documents/Earl-Marshal-policy-2020-08-06.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.
+* [Kingdom Earl Marshal's Policy (as of 2022-04-06)](/documents/Earl-Marshal-policy-2022-04-06.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.
+* [Kingdom Earl Marshal's Policy changes in the latest revision](/documents/Earl-Marshal-policy-change-comparison-2022-04-06.pdf) - This documents shows all of the changes made from the previous version posted in 2020-08-06.
 * [Society Earl Marshal's Handbook (as of 2020-07-01)](https://www.sca.org/wp-content/uploads/2020/01/marshal_handbook.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
