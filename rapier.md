@@ -53,6 +53,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 ## Information
 * [Extreme Heat Guidance for Marshals](/documents/heat-guidance/for-marshals.pdf)
 * [Extreme Heat Guidance for Participants](/documents/heat-guidance/for-participants.pdf)
+* [Rapier Marshal Rules Update - Kingdom Policy Updates April 2022](/rapier/rules-update-2022-04/)
 * [Rapier Marshal Meeting Notes - Unevent 2021](/rapier/unevent-2021/)
 * [Rapier Marshal Meeting Notes - Unevent 2020](/rapier/unevent-2020/)
 * [Rapier Marshal Rules Update - University September 2020](/rapier/rules-update-2020-09/)
