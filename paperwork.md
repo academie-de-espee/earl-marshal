@@ -27,9 +27,8 @@ All combat in the SCA must be overseen by a warranted Marshal.
 
 # Forms
 
-All combat in the Kingdom of Atlantia must be monitored by a warranted marshal.  All those wishing to become marshals print out the [Marshal In Training (MIT) Program Paperwork](/documents/forms/mit.docx).
-
-Youth combat in Atlantia has its own set of policies, procedures, and forms specific to minors.  For more information regarding youth combat, see the [Youth Combat resources](/youth-combat/).
+* [Marshal In Training (MIT) Program Form](/documents/forms/mit.docx). All combat in the Kingdom of Atlantia must be monitored by a warranted marshal.  This form should be printed out by the MIT and brought to all events they intend to perform MIT training.
+* [Youth Combat resources](/youth-combat/).  Youth combat in Atlantia has its own set of policies, procedures, and forms specific to minors.
 
 # Marshal Class Materials
 
