@@ -39,8 +39,8 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Siege Marshaling Guidelines](/documents/training/SiegeGuidelines.pdf)
 * Youth Rapier (not available online)
 * [Field Marshaling 201](/training/field-marshal/)
-
-* [Equestrian Marshals class](/equestrian-marshal-101.docx) (known as "Book of the Horse Class Supplemental")
+* [Equestrian Marshals classes](/documents/training/equestrian-marshal-101.docx).  Contains Equestrian Marshals 101 (required for marshals) and Ground Crew 101 (required for Ground Crew authorizations).
+ (known as "Book of the Horse Class Supplemental")
 * Hounds 101 (not available online)
 * [Target Archery Handbook](http://archery.atlantia.sca.org/images/Atlantia_Target_Archery_Handbook_2-0.pdf)
 * [Thrown Weapons 101](/documents/training/ThrownWeaponsMarshal101.pdf)
