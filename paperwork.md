@@ -7,7 +7,7 @@ layout: default
 * [Atlantia COVID-19 Marshal Reopening Policy](https://atlantia.sca.org/wp-content/uploads/2021/06/Atlantia-Covid-Marshal-Policies-v1-5.1.pdf)
 * [Kingdom Earl Marshal's Policy (as of 2022-04-06)](/documents/Earl-Marshal-policy-2022-04-06.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.
 * [Kingdom Earl Marshal's Policy changes in the latest revision](/documents/Earl-Marshal-policy-change-comparison-2022-04-06.pdf) - This documents shows all of the changes made from the previous version posted in 2020-08-06.
-* [Society Earl Marshal's Handbook (as of 2020-07-01)](https://www.sca.org/wp-content/uploads/2020/01/marshal_handbook.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
+* [Society Earl Marshal's Handbook (as of 2021-07-01)](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
 All combat in the SCA must be overseen by a warranted Marshal.
@@ -27,15 +27,7 @@ All combat in the SCA must be overseen by a warranted Marshal.
 
 # Forms
 
-All combat in the Kingdom of Atlantia must be monitored by a warranted marshal.
-The following forms are part of the required process to become a warranted
-marshal.
-
-* [Marshal In Training, Armored Combat](/documents/forms/mit/armored.pdf)
-* [Marshal In Training, Combat Archery](/documents/forms/mit/ca.pdf)
-* [Marshal In Training, Rapier Combat](/documents/forms/mit/rapier.pdf)
-* [Marshal In Training, Siege Weapon Combat](/documents/forms/mit/siege.pdf)
-* [Marshal In Training, Youth Armored Combat](/documents/forms/mit/yc-armored.pdf)
+All combat in the Kingdom of Atlantia must be monitored by a warranted marshal.  All those wishing to become marshals print out the [Marshal In Training (MIT) Program Paperwork](/documents/forms/mit.docx).
 
 Youth combat in Atlantia has its own set of policies, procedures, and forms specific to minors.  For more information regarding youth combat, see the [Youth Combat resources](/youth-combat/).
 
@@ -49,8 +41,7 @@ Youth combat in Atlantia has its own set of policies, procedures, and forms spec
 * Youth Rapier (not available online)
 * [Field Marshaling 201](/training/field-marshal/)
 
-* [Equestrian Marshals class](/training/equestrian-marshal)
-* [Equestrian Safety class](/training/equestrian-safety)
+* [Equestrian Marshals class](/equestrian-marshal-101.docx) (known as "Book of the Horse Class Supplemental")
 * Hounds 101 (not available online)
 * [Target Archery Handbook](http://archery.atlantia.sca.org/images/Atlantia_Target_Archery_Handbook_2-0.pdf)
 * [Thrown Weapons 101](/documents/training/ThrownWeaponsMarshal101.pdf)

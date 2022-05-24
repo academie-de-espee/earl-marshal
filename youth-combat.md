@@ -69,7 +69,7 @@ There are numerous forms that parents must fill out prior to a child engaging in
 
 ### Marshal Resources
 
-* [Marshal In Training, Youth Armored Combat](/documents/forms/mit/yc-armored.pdf)
+* [Marshal In Training, Youth Armored Combat](/documents/forms/mit.docx)
 * [Event Report Form](https://warrant.atlantia.sca.org/reports/new/1)
 * [Guidance on Modern Items](/procedures/modern)
 * [Background Check Form](https://www.sca.org/resources/document-library/backgroundcheckauthformfillable/)

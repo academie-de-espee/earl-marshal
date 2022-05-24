@@ -11,7 +11,7 @@ The lists below are by no means comprehensive. Armour vendors tend to be small b
 
 First some guidelines. Always consult the current SCA Society rules for Steel Fighting. You will find the Steel specific rules in section IX. Kingdom specific rules addendums should also be consulted. Currently (12/2020) Atlantia has no additional rules. Note SCA Steel tournaments will tend to require reasonable historic appearance standards. Plastics for example would need to be hidden should they appear clearly modern. 
 
-[Society Marshal Handbook](https://www.sca.org/wp-content/uploads/2020/01/marshal_handbook.pdf)
+[Society Marshal Handbook](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf)
 
 ### Helmets
 The rules call for 12 gauge mild steel or material of equivalent strength. Beware of getting a helmet that is made of a strong but light material. Titanium for example is strong enough but just doesn't have the mass to properly protect against concussion. Most traditional SCA merchants sell mild steel or stainless (304) steel helmets. Lastly, the SCA helmet standards closely mirror the standards of US steel fighting organizations such as the IMCF,ACS or ACW. Merchants in other countries are not necessarily constructing helmets that meet our safety standards. This is especially true with regard to face guards. A good rule of thumb, if you can pass a quarter (quarter held face on, not edge on) through the face guard or a blade can enter a slot more than 1.5 inches long, that guard is almost certainly not compliant with our rules. 
