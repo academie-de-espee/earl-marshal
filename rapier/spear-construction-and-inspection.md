@@ -51,11 +51,11 @@ rubber unencumbered from the haft.
 
 * Inserting 1/2" dowel into the head to mark depth of insertion.
 
-![Dowel inserted]({{ "/images/rapier/spear/small-spear-measure.jpg" | absolute_url }})
+![Dowel inserted]({{ "/images/rapier/spear/small-spear-dowel-measure.jpg" | absolute_url }})
 
 * Marking the depth the dowel was inserted onto the rattan.
 
-![Insertion mark on rattan]({{ "/images/rapier/spear/small-spear-mark.jpg" | absolute_url }})
+![Insertion mark on rattan]({{ "/images/rapier/spear/small-spear-dowel-mark.jpg" | absolute_url }})
 
 # Inspection Guide
 
