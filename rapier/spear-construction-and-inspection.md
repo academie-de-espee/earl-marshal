@@ -30,7 +30,7 @@ The intent of this guide is to provide a repeatable and reasonable way to inspec
 
 ![Spear flex at socket]({{ "/images/rapier/spear/small-spear-base-head.jpg" | absolute_url }})
 
-* In this photo, the head is pressed with hand pressure at the base of the blade before the socket, with a kick that occurs in the socket, causing the entire head to fold over.  In this example the rattan was only inserted 4", rather than the possible 7.5" possible with this particular head.  The kink in the socket, rather than gradual bend seen in the pictures showing the blade portion flexing, is the critical failure point.
+* In this photo, the head is pressed with hand pressure at the base of the blade before the socket, with a kink that occurs in the socket, causing the entire head to fold over.  In this example the rattan was only inserted 4", rather than the possible 7.5" possible with this particular head.  The kink in the socket, rather than gradual bend seen in the pictures showing the blade portion flexing, is the critical failure point.
 
 ![Failed spear flex test]({{ "/images/rapier/spear/small-spear-base-head-bad.jpg" | absolute_url }})
 
