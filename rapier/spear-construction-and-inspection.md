@@ -3,6 +3,15 @@ title: Rapier Spear Construction and Inspection Guide
 layout: default
 ---
 
+* TOC
+{:toc}
+
+**Author**: Master Brian de Moray, KRM
+
+**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
+
+**Revision**: {{ site.git.last_commit.short_sha }}
+
 The intent of this guide is to provide a repeatable and reasonable way to construct rapier spears.
 
 # Constructing Spears
@@ -23,24 +32,29 @@ Spears should be constructed such that the *maximum*, rather than *minimum*
 amount of haft is inserted into the head while still leaving at least 4" of
 rubber unencumbered from the haft.
 
-Construction guide:
+## Construction guide:
 1. Insert a 1/2" dowel into the head such that at least 4" of rubber remains encumbered when the head is pushed from the side.
 2. Mark the depth the dowel is inserted.
 3. Use the mark on the down to indicate the depth the rattan should be inserted into the head.
 4. Shave down the rattan such that it fits into the head, taking careful note to not shave the narrower than 1/2" in diameter.
-  * Hints:
-    1. Draw a 1/2" diameter circle on the end of the rattan to provide a guide.
-    2. Shave down the rattan a small amount at a time, repeatedly checking the minimum diamater  and depth the rattan fits into the socket.  
-    3. Take care to follow the shape of the socket in the spear head such that the head can be friction fit.
+    * Hints:
+        1. Draw a 1/2" diameter circle on the end of the rattan to provide a guide.
+        2. Shave down the rattan a small amount at a time, repeatedly checking the minimum diamater  and depth the rattan fits into the socket.  
+        3. Take care to follow the shape of the socket in the spear head such that the head can be friction fit.
 5. Once the rattan can be fully inserted into the socket and is friction fit, add reinforced tape to ensure the head stays attached.
 6. Add band of constrasting tape at the base of the head.
 
 ## Construction photos
 * 1/2" dowel next to head and rattan.
+
 ![Dowel and rattan]({{ "/images/rapier/spear/small-spear-dowel.jpg" | absolute_url }})
+
 * Inserting 1/2" dowel into the head to mark depth of insertion.
+
 ![Dowel inserted]({{ "/images/rapier/spear/small-spear-measure.jpg" | absolute_url }})
+
 * Marking the depth the dowel was inserted onto the rattan.
+
 ![Insertion mark on rattan]({{ "/images/rapier/spear/small-spear-mark.jpg" | absolute_url }})
 
 # Inspection Guide
@@ -52,8 +66,13 @@ Construction guide:
 ## Inspection photos
 
 * Checking spear head flex at the tip
+
 ![Spear flex]({{ "/images/rapier/spear/small-spear-bend.jpg" | absolute_url }})
+
 * Checking spear head socket does not flex by pressing at the base of the blade.
+
 ![Spear flex at socket]({{ "/images/rapier/spear/small-spear-base-head.jpg" | absolute_url }})
+
 * Spear head that was installed incorrectly such that it flexes in the socket.  The rattan was only inserted 4", rather than the possible 7.5" possible with this particular head.
+
 ![Failed spear flex test]({{ "/images/rapier/spear/small-spear-base-head-bad.jpg" | absolute_url }})
