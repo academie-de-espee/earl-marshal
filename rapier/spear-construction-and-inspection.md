@@ -77,3 +77,5 @@ rubber unencumbered from the haft.
 
 ![Insertion mark on rattan]({{ "/images/rapier/spear/small-spear-dowel-mark.jpg" | absolute_url }})
 
+# Links:
+* [3d printable Spear Diameter Gauge](https://www.thingiverse.com/thing:4625364): Published by Xandra Rozina Xiberras Galea (Rozi), this is an SDL (3d printing file) that can be used to create a tool intended to check the minimum and maxmimum diameter of a rattan shaft for use in rapier combat.
