@@ -52,7 +52,7 @@ Spears should be constructed such that the *maximum*, rather than *minimum*
 amount of haft is inserted into the head while still leaving at least 4" of
 rubber unencumbered from the haft.
 
-## Construction guide:
+## Construction guide
 1. Insert a 1/2" dowel into the head such that at least 4" of rubber remains encumbered when the head is pushed from the side.
 2. Mark the depth the dowel is inserted.
 3. Use the mark on the down to indicate the depth the rattan should be inserted into the head.
