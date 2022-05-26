@@ -79,4 +79,5 @@ rubber unencumbered from the haft.
 
 # Links
 * [3d printable Spear Diameter Gauge](https://www.thingiverse.com/thing:4625364): Published by Xandra Rozina Xiberras Galea (Rozi), this is an SDL (3d printing file) that can be used to create a tool intended to check the minimum and maxmimum diameter of a rattan shaft for use in rapier combat.
-* [SCA Rapier Spears Facebook Group](https://www.facebook.com/groups/168150690486673)
+* [SCA Rapier Spears Facebook Group](https://www.facebook.com/groups/168150690486673): This group hosts information from the experiment that resulted in the inclusion of rubber-headed spears in rapier.
+* [Spears in SCA Fencing Facebook Group](https://www.facebook.com/groups/sca.fencing.spears): This group is intended to foster society-wide discussion for the adoption of spears in rapier. 
