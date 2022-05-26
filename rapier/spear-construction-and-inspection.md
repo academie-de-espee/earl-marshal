@@ -12,7 +12,27 @@ layout: default
 
 **Revision**: {{ site.git.last_commit.short_sha }}
 
-The intent of this guide is to provide a repeatable and reasonable way to construct rapier spears.
+The intent of this guide is to provide a repeatable and reasonable way to inspect spears as well as an example method to construct spears that passes the inspection guide.
+
+# Inspection Guide
+
+1. Check that the spear meets diameter, length, and taping requirements.
+2. Check the spear head flexes with hand pressure to 90 degrees and substantially return to it's original shape within 3 seconds.
+3. Spear heads with seperate socket and blade components should not flex in the socket portion when hand pressure is used at the base of the blade.
+
+## Inspection photos
+
+* Checking spear head flex at the tip by adding hand pressure at the tip.  In this photo, the head is only pressed slightly to show the type of flex that is expected, a gradual curve across the blade portion of the head.  During inspections, the head must be able to flex to a full 90 degrees with hand pressure.
+
+![Spear flex]({{ "/images/rapier/spear/small-spear-bend.jpg" | absolute_url }})
+
+* In this photo, the head is pressed with hand pressure at the base of the blade before the socket with no meaningful bend or flex of the socket.  In this example, the rattan was inserted to the maximum depth of the socket.
+
+![Spear flex at socket]({{ "/images/rapier/spear/small-spear-base-head.jpg" | absolute_url }})
+
+* In this photo, the head is pressed with hand pressure at the base of the blade before the socket, with a kick that occurs in the socket, causing the entire head to fold over.  In this example the rattan was only inserted 4", rather than the possible 7.5" possible with this particular head.  The kink in the socket, rather than gradual bend seen in the pictures showing the blade portion flexing, is the critical failure point.
+
+![Failed spear flex test]({{ "/images/rapier/spear/small-spear-base-head-bad.jpg" | absolute_url }})
 
 # Constructing Spears
 
@@ -57,22 +77,3 @@ rubber unencumbered from the haft.
 
 ![Insertion mark on rattan]({{ "/images/rapier/spear/small-spear-dowel-mark.jpg" | absolute_url }})
 
-# Inspection Guide
-
-1. Check that the spear meets diameter, length, and taping requirements.
-2. Check the spear head flexes with hand pressure to 90 degrees and substantially return to it's original shape within 3 seconds.
-3. Spear heads with seperate socket and blade components should not flex in the socket portion when hand pressure is used at the base of the blade.
-
-## Inspection photos
-
-* Checking spear head flex at the tip
-
-![Spear flex]({{ "/images/rapier/spear/small-spear-bend.jpg" | absolute_url }})
-
-* Checking spear head socket does not flex by pressing at the base of the blade.
-
-![Spear flex at socket]({{ "/images/rapier/spear/small-spear-base-head.jpg" | absolute_url }})
-
-* Spear head that was installed incorrectly such that it flexes in the socket.  The rattan was only inserted 4", rather than the possible 7.5" possible with this particular head.
-
-![Failed spear flex test]({{ "/images/rapier/spear/small-spear-base-head-bad.jpg" | absolute_url }})
