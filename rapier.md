@@ -6,7 +6,6 @@ layout: default
 ## Staff
 
 * Kingdom Rapier Marshal - [Magister Percival Aldridge](https://warrant.atlantia.sca.org/user/300)
-* Deputy Kingdom Rapier Marshal - [Master Geoffrey Clwyd](https://warrant.atlantia.sca.org/user/1065)
 * Rapier Marshals - [Roster](https://warrant.atlantia.sca.org/warrants/type/14)
 
 ## Rules
