@@ -36,28 +36,41 @@ Keep in mind the SCA is only allowing long swords and arming swords. The reason 
 * [Kyle Harris](https://www.facebook.com/kyle.harris.737001?fref=gf&dti=2004030089735668): Armory that has supplied many US steel fighters.
 * [Aesir Metalwyrks](https://aesirmetalwyrks.com/): Be sure to mention that you're fighting steel. Aesir has supplied many US steel fighters.
 * [Valkyrie Forge](https://valkyrieforge.com/): Be sure to mention that you're fighting steel. Usually has an inventory of steel fighting equipment and accessories.
+* [Therion Arms](http://www.therionarms.com/): Has some suitable soft kit and blunt/stage combat swords.
 
 This is a partial list. There are many US armor shops that can make equipment to SCA steel fighting specifications, the list above is of armories that I know have done so. 
 
 ## Outside the US Providers 
 The number of providers available is beyond the scope of this list. I will stick with the better known to be reliable providers. For ALL of these providers be sure to specify that your order must meet US armor requirements. (Especially for helmet face grills/shields.) Most are familiar with ACS/ACW/ACL/IMCF requirements. 
 
-* [Age of Craft(W)](https://ageofcraft.com/): Possibly the largest armor supplier for steel. Good reputation Be sure to specify US requirements especially with regards to face plates/shields.
-* [Armoury Al-Master](https://aldwarf.io.ua/): High end armourer. Good reputation His battle optimized designs are some of the best available.
-* [Armory Smith](http://www.armorysmith.com/):
-* [Jolly Knight Armoury](https://www.facebook.com/groups/JollyknightArmoury/):
-* [Medieval Extreme(W)](https://medievalextreme.com/): Good reputation
-* [Buhurt Tech(W)](https://www.buhurttech.com/): Good reputation 
-* [Fabri Armoury(W)](http://www.fabri-armorum.com/en/homepage/): Good value but be sure you're buying Steel Fighting equipment!! 
-* [Hardy Manufactury](http://www.hardymanufacture.com/): Considered one of the best armor values.  
-* [Aleksey Perebeynos](https://www.facebook.com/aleksey.perebeynos):  Great value and quality.
-* [Andrey Galevskyi](https://www.facebook.com/andrey.galevskyi): Great value and quality. Be sure to check his (FB) Armour. Custom & InStock From Andrey Galevskiy page as he often has auctions.
-* [Master Uley-(W)](https://master-uley.com/): Tends to specialize in eastern equipment but capable of making nearly any armor.
-* [Oleg Yanchuk](https://www.facebook.com/oleg.yanchuk.1):
-* [Volodymyr Shlenchak](https://www.facebook.com/profile.php?id=100014012289323): Known for good titanium equipment and excellent gambesons. https://www.facebook.com/profile.php?id=100014012289323 
+* [Age of Craft(W)](https://ageofcraft.com/): Possibly the largest armor supplier for steel. Good reputation Be sure to specify US requirements especially with regards to face plates/shields. (Currently not in production due to the Russo/Ukraine war.)
+* [Armoury Al-Master](https://aldwarf.io.ua/): High end armourer. Good reputation His battle optimized designs are some of the best available.  Located in Kyiv Ukraine.
+* [Armory Smith](http://www.armorysmith.com/): Creative and talented armorer Located in Kyiv Ukraine.
+* [Jolly Knight Armoury](https://www.facebook.com/groups/JollyknightArmoury/): Located in Ukraine, this armory may be out of production currently
+* [Medieval Extreme(W)](https://medievalextreme.com/): Good reputation, located in Ukraine but still in full production.
+* [Buhurt Tech(W)](https://www.buhurttech.com/): Good reputation, located in Ukraine but still in production. 
+* [Fabri Armoury(W)](http://www.fabri-armorum.com/en/homepage/): Good value but be sure you're buying Steel Fighting equipment!!  Located in the Czech Republic
+* [Hardy Manufactury](http://www.hardymanufacture.com/): Considered one of the best armor values.  Located in Poland.
+* [Aleksey Perebeynos](https://www.facebook.com/aleksey.perebeynos):  Great value and quality. Located in Ukraine and still in production.
+* [Andrey Galevskyi](https://www.facebook.com/andrey.galevskyi): Great value and quality. Be sure to check his (FB) Armour. Custom & InStock From Andrey Galevskiy page as he often has auctions.  Located in Ukraine but still in production.
+* [Master Uley-(W)](https://master-uley.com/): One of the mainstays of steel fighting equipment.  Tends to specialize in eastern equipment but capable of making nearly any armor.  Currently not in production as the shop in Ukraine has been destroyed.
+* [Oleg Yanchuk](https://www.facebook.com/oleg.yanchuk.1): Located in a safer section of Ukraine but no recent posts.
+* [Volodymyr Shlenchak](https://www.facebook.com/profile.php?id=100014012289323): Known for good titanium equipment and excellent gambesons.  Currently fighting in the Ukraine army and production has been geared towards modern ballistic armor. https://www.facebook.com/profile.php?id=100014012289323 
 * [HBC Armor Shop](https://hbcarmorshop.com/): This is an Indian armor shop. They have good quality tempers on their spring steel equipment but you HAVE to be sure that the spring steel option is available and clicked. There is also a mix of fantasy armor here. Take care. 
-* [Wild Armoury](http://wildarmoury.com/):
-* [Quilted Armour](https://www.facebook.com/groups/quiltedarmour/): Considered the best source for gambesons. Especially custom print designs.
+* [Wild Armoury](http://wildarmoury.com/): Located in Ukraine and still appears to be in production.
+* [Quilted Armour](https://www.facebook.com/groups/quiltedarmour/): Considered the best source for gambesons. Especially custom print designs.  Located in Russia so expect customs delays.
+* [White Rose Armoury](https://www.facebook.com/White-Rose-Armoury-238278722879012/?ref=br_rs): Located in the UK. 
+* [White Well Arms](https://www.facebook.com/White-Rose-Armoury-238278722879012/?ref=br_rs): Custom sword maker in the UK. 
+* [SPES Medieval Market](https://medieval-market.com/goods.php?kategoria=19&kat2=For%20fighting): Good source for softkit.  Located in Poland.
+* [Sharukhan Market](https://www.sharukhanmarket.com/): Prolific steel combat provider located in Ukraine. Still active though orders have slowed down. 
+* [Historicum](https://historicum.pl/): Excellent armory located in Poland with an extremely large catalog of equipment.
+* [Forge of Svan](https://forgeofsvan.com/): An excellent armory in Ukraine. Production is slowing due to the Ukraine/Russo war.  
+* [Art of Steel](https://www.facebook.com/aos.rv.ua/?ref=br_rs): Located in Ukraine this armory is still in production.  Excellent equipment.
+* [Armeria del So](https://www.facebook.com/ArmeriadelSol/?hc_location=ufi):  An excellent armorer located in Mexico.
+* [GoHurt Armory](https://gohurt-shop.com/): Appears to be a sales venue for a consortium of armorers.  EU based but many of the items listed are recognizably from Ukraine shops.  This allows for on-line payments that are not available in Ukraine.
+* [Irongate Armory](https://irongatearmory.com/?s=buhurt): Finnish based reseller that has some Buhurt equipment. 
+* [Tylko, Sylwester](https://www.facebook.com/HUSAR-Sylwester-Tylko-1598975217001717/): One of the best sword makers for steel combat but language/communications is a problem.  It's best to use a go between.  [Shoshana Shellans](https://www.facebook.com/shoshana.shellans): is one that has proved reliable. 
+* [Kult of Athena](https://www.kultofathena.com/): One of the largest resellers for swords, KofA has some applicable swords and armor under the heading of “stage combat”.  Some of these are Age of Craft products.  Make sure the desired sword or armor is listed as “in stock” as new supply is unlikely for a while.
 
 **Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
 **Revision**: {{ site.git.last_commit.short_sha }}
