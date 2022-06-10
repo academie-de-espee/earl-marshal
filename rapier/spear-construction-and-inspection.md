@@ -36,7 +36,7 @@ The intent of this guide is to provide a repeatable and reasonable way to inspec
 
 # Constructing Spears
 
-Spears are constructed using a rubber head mounted on a rattan half.  
+Spears are constructed using a rubber head mounted on a rattan haft.  
 
 Society policy requires the following as to how the haft is inserted into the head:
 * The haft of a spear must be inserted at least 2" into the head.
