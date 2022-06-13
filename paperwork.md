@@ -35,6 +35,7 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Armored Marshaling 101](/training/armored-marshal/)
 * [Combat Archery 101](/documents/training/combat-archery-training-101.pdf)
 * [Rapier Marshaling 101 Class Outline](/training/rapier-marshal/)
+* [Youth Marshal 101 Class Outline](/training/youth-rapier-marshal/)
 * [Siege Marshaling 101](/documents/training/Siege-101_Outline.pdf)
 * [Siege Marshaling Guidelines](/documents/training/SiegeGuidelines.pdf)
 * Youth Rapier (not available online)
