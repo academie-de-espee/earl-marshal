@@ -4,9 +4,8 @@ layout: default
 ---
 
 # Rules
-* [Atlantia COVID-19 Marshal Reopening Policy](https://atlantia.sca.org/wp-content/uploads/2021/06/Atlantia-Covid-Marshal-Policies-v1-5.1.pdf)
 * [Kingdom Earl Marshal's Policy (as of 2022-21-01)](/documents/Earl-Marshal-policy-2022-12-01.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.  (Rule updates from the previous revision in bold).
-* [Society Earl Marshal's Handbook (as of 2021-07-01)](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
+* [Society Earl Marshal's Handbook](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
 All combat in the SCA must be overseen by a warranted Marshal.
