@@ -30,7 +30,6 @@ layout: default
     * Light Rapier: 152
     * C&T: 124
     * C&T 2H: 38
-    * C&T: 124
     * Rapier Spear: 30
 * Reminder that we have no "longsword" authorization in rapier
 
