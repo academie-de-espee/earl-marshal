@@ -89,7 +89,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
     * Will not be dislodged easily
     * Contrasting color tape is used
     * **NO** tape covers the end of the tip
-    * Has adequate protection against punch-through (i.e., metal in the tip)
+    * Has adequate protection against punch-through (e.g., metal in the tip)
 * If flex of a blade is questioned, be prepared to test it to Society standards
 * Light rapier blades & flexidaggers must not have "S" curves
 * Light rapier blades are not allowed in Rapier nor Cut & Thrust combat.
