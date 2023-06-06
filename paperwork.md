@@ -10,7 +10,7 @@ layout: default
 # Marshals
 All combat in the SCA must be overseen by a warranted Marshal.
 
-* [Procedure to become an authorized marshal](/procedures/mit)
+* [Procedure to become a warranted marshal](/procedures/mit)
 * [Procedure to become a Group Knight Marshal](/procedures/knight-marshal)
 
 # Resources for Marshals
