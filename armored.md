@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Staff
-* Kingdom Armored Marshal - [Sir Carlyle Jamesson](https://warrant.atlantia.sca.org/user/922)
+* Kingdom Armored Marshal - [Duke Cuan MacDaige](mailto:dukecuan@hotmail.com)
 
 ## Rules
 

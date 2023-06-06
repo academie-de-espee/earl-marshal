@@ -5,7 +5,7 @@ layout: default
 
 ## Staff
 
-* Deptuy Earl Marshal for Steel Combat - [Sir G. Tascius](https://warrant.atlantia.sca.org/user/275)
+* Deptuy Earl Marshal for Steel Combat - [Master Giacomo Luciano Saviour Vincènti di Firenze](mailto:jimtoscano1@comcast.net)
 
 ## Rules
 
