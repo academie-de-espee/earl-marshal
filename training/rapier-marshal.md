@@ -11,7 +11,9 @@ layout: default
 
 # Introduction and Course Goals
 
-The goal of the Rapier 101 class is to provide individuals with the basic background required to begin a successful journey toward a marshal's warrant.  While we do touch on many rules, it is not an instruction in all rules of rapier combat.  This outline, in fact, assumes that the instructor and students are thoroughly familiar with the most recent edition of the Society Marshal's Handbook and Kingdom Policy as it relates to rapier combat. Prospective MITs are required to complete both Rapier 101 and Field 201 before taking the field as MITs.
+The goal of the Rapier 101 class is to provide individuals with the basic background required to begin a successful journey toward a marshal's warrant.  While we do touch on many rules, it is not an instruction in all rules of rapier combat.  This outline, in fact, assumes that the instructor and students are thoroughly familiar with the most recent edition of the Society Marshal's Handbook and Kingdom Policy as it relates to rapier combat.
+
+Prospective MITs are required to complete both Rapier 101 and Field 201 before taking the field as MITs.
 
 Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-training@atlantia.sca.org) and the [Deputy Earl Marshal for Rapier](mailto:dem-rapier@atlantia.sca.org).
 
@@ -21,28 +23,14 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Attempt to ensure a uniformity of training and experience among the marshallate such that rules are being enforced in the same way across the Kingdom.
 * Provide new marshals with the mental toolkit necessary to manage fights and uphold armor and weapons standards in potentially stressful situations
 * **REMEMBER**: MITs are **NOT** marshals and cannot, on their own, monitor fights, inspect weapons, sign off on paperwork, or perform any other marshal duties
-
-## Requirements
-* Discipline Marshal 101 (e.g., Rapier Marshal 101, this class)
-* Field Marshal 201
-* A sponsoring marshal
-    * Provide guidance and practical instruction to the MIT
-    * Certify the competence of the MIT
-* 3+ events, two outside your local group, one outside your region, one with melee activity
-* [MIT Form](/documents/forms/mit.docx)
-* A copy of the [rules](/rapier/)
-* When finished, request a rapier marshal warrant with the completed MIT form via the [Kingdom Warrant Website](https://warrant.atlantia.sca.org)
-* Renewal of the class is required every three years (the Unevent meeting counts)
+* Refer to [Becoming a Marshal](/procedures/mit/)
 
 # Armor Standards and Inspections
 
 ## Materials
-* Know your material types:
-  * Abrasion-resistant material
-  * Puncture-resistant material
-    * MUST be tested every two years per the Society Fencing Marshal's Handbook and must be tested the first time new gear is used or if no marshal on the field knows a given piece of gear to have been tested. They may also be tested at the marshal's discretion.
-    * UnderArmour, Spandex and other similar stretchy materials are not suitable as puncture-resistant materials. In addition, Kevlar is not an acceptable material as it degrades rapidly.
-  * Rigid Material
+* Know your material types
+   * MUST be tested every two years per the Society Fencing Marshal's Handbook and must be tested the first time new gear is used or if no marshal on the field knows a given piece of gear to have been tested. They may also be tested at the marshal's discretion.
+   * UnderArmour, Spandex and other similar stretchy materials are not suitable as puncture-resistant materials. In addition, Kevlar is not an acceptable material as it degrades rapidly.
 * Marshals should acquire and bring appropriate testing equipment to practices and events they run.
 
 ## How to Inspect
@@ -50,10 +38,9 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * If you wish to provide an opinion on an item, such as one that may be legal, but close to failure, be clear in your language so that the fighter understands that the information that you are offering is your opinion, not a requirement.
 * Conduct the inspection in the same order every time as this will help you avoid making errors
     * Have you signed in with the MOL?
-    * Are you wearing personal protection as required?
-    * Has your armor passed a punch test in the last 2 years?
-    * Armor first, head to toes, then weapons
-* Inspections must occur at each event, practice, and every day for multi-day events
+    * Are you wearing any required personal protection?
+    * Has your armor been tested in the last 2 years?
+* Inspections must occur at each event, practice, and **every** day for multi-day events
 
 ## Head
 * Check masks and helms for fit, wear, and padding. Mask and helms should be inspected both on **AND** off the combatant.  If there is concern about the face mesh of a modern fencing mask, it should be tested using a standard commercial 12kg mask punch by a marshal trained in the use of the punch
@@ -66,8 +53,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * Chain mail shirts are legal provided they pass the punch test.  Verify there are no missing rings in vital areas.  If you can't see it because the fighter is wearing a shirt over, politely ask them to return to you so you can check it without any covering.  Again, especially check the underarms
 
 ## Legs & Arms
-* For cut and thrust, verify at least soft elbows are being worn
-* Also for cut and thrust, verify hands have padded gloves or full rigid if one combatant is using a two-handed weapon.
+* For cut and thrust, verify at least soft elbows are being worn and appropriate hand protection for the weapons forms
 
 # Weapon Standards and Inspections
 ## Blades
@@ -123,7 +109,7 @@ Using Projectile Weapons within rapier combat is now governed by Combat Archery 
 ## Questions
    * Authorizing fighter must have read the rules of the list and must demonstrate a command of them.
    * Marshals will not answer questions for fighters, nor provide hints
-   * Authorizing fighter should be encouraged to demonstrate a point (of say, how to obtain engagement) if they cannot express the requirements clearly verbally
+   * Authorizing fighter should be encouraged to demonstrate a point (of say, how to obtain engagement) if they cannot clearly express the requirements verbally
    * Authorizing fighter will not proceed to the fighting phases unless the fighter has demonstrated a thorough knowledge of the rules of the list, including engagement, valid blows, etc.
 
 ## Criteria for passing for light rapier and rapier
@@ -140,7 +126,7 @@ Using Projectile Weapons within rapier combat is now governed by Combat Archery 
    * As above, but also:
    * A higher standard applies as the addition of percussive cuts requires a greater degree of skill to ensure safety for the fighter and opponents
    * Authorizing fighter must demonstrate the ability to conduct attacks in series, incorporating multiple blows and/or feints
-   * Authorizing fighter must demonstrate a defense capable of protecting against complex attacks such as described above
+   * Must demonstrate a defense capable of protecting against complex attacks such as described above
    * Must show control over the weapon and the power generated when throwing form specific blows.
    * For spear, must show control when abruptly charged by their opponent.
 
