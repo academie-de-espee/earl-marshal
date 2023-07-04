@@ -10,7 +10,7 @@ layout: default
 # Marshals
 All combat in the SCA must be overseen by a warranted Marshal.
 
-* [Procedure to become an authorized marshal](/procedures/mit)
+* [Procedure to become a warranted marshal](/procedures/mit)
 * [Procedure to become a Group Knight Marshal](/procedures/knight-marshal)
 
 # Resources for Marshals
@@ -33,10 +33,10 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Armored Marshaling 101](/training/armored-marshal/)
 * [Combat Archery 101](/documents/training/combat-archery-training-101.pdf)
 * [Rapier Marshaling 101 Class Outline](/training/rapier-marshal/)
-* [Youth Marshal 101 Class Outline](/training/youth-rapier-marshal/)
+* [Youth Rapier Marshal 101 Class Outline](/training/youth-rapier-marshal/)
 * [Siege Marshaling 101](/documents/training/Siege-101_Outline.pdf)
 * [Siege Marshaling Guidelines](/documents/training/SiegeGuidelines.pdf)
-* Youth Rapier (not available online)
+* Youth Combat (not available online)
 * [Field Marshaling 201](/training/field-marshal/)
 * [Equestrian Marshals classes](/documents/training/equestrian-marshal-101.docx).  Contains Equestrian Marshals 101 (required for marshals) and Ground Crew 101 (required for Ground Crew authorizations).
  (known as "Book of the Horse Class Supplemental")
