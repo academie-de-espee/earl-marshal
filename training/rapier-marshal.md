@@ -50,7 +50,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 
 ## Torso
 * Verify the armpits have puncture-resistant coverage, as this is where people most often forget.
-* Chain mail shirts are legal provided they pass the punch test.  Verify there are no missing rings in vital areas.  If you can't see it because the fighter is wearing a shirt over, politely ask them to return to you so you can check it without any covering.  Again, especially check the underarms.
+* Chain mail shirts are legal.  Verify there are no missing rings in vital areas.  If you can't see it because the fighter is wearing a shirt over, politely ask them to return to you so you can check it without any covering.  Again, especially check the underarms.
 
 ## Hands & Arms
 * For cut and thrust, verify at least soft elbows and appropriate hand protection for the weapons forms are being worn.
