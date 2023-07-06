@@ -2,6 +2,7 @@ name: Jekyll site CI
 
 on: 
   push:
+  pull_request:
   workflow_dispatch:
 
 jobs:
