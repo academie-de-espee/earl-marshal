@@ -40,7 +40,7 @@ subpages:
 ---
 
 <p>
-<center><h2><a href="https://atlantia.sca.org/reopening-atlantia/">Atlantia's COVID-19 Reopening Policy</a></h2></center>
+<center><h2><a href="/documents/air-quality-guidance.pdf">Air Quality Index Guidance</a></h2></center>
 </p>
 
 <hr>
