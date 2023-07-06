@@ -19,6 +19,7 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Pratice Waivers](http://atlantia.sca.org/offices/seneschal/atlantia-waiver-secretary) (Must be submitted quarterly)
 * [Guidance on Modern Items](/procedures/modern)
 * [Extreme Heat Guidance for Marshals](/documents/heat-guidance/for-marshals.pdf)
+* [Air Quality Index Guidance](/documents/air-quality-guidance.pdf)
 
 # Resources for Participants
 * [Extreme Heat Guidance for Participants](/documents/heat-guidance/for-participants.pdf)
