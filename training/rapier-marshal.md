@@ -164,7 +164,7 @@ Projectile Weapons within rapier combat are governed by Combat Archery marshals,
 
 ## Showmanship and field presence
 * Marshals will conduct themselves in a calm and chivalrous manner at all times.
-* Marshals cannot both marshal and fight in the same activity. If an event has multiple rapier activities occurring at a given event, they marshal one activity and fight in a separate activity.
+* Marshals cannot both marshal and fight in the same activity. If an event has multiple rapier activities occurring at a given event, they may marshal one activity and fight in a separate activity.
 * At the end of each bout, the Marshals will ask each fighter if they are satisfied with the conduct of the bout.
 * Marshals should be identifiable to spectators and fighters as a marshal from a distance by wearing the badge of the office and having a marshal's staff.
 
@@ -196,9 +196,9 @@ Projectile Weapons within rapier combat are governed by Combat Archery marshals,
 * BE NICE TO YOUR FIELD STAFF
 
 # Paperwork
-* Become familiar with the earl marshal website: https://warrant.atlantia.sca.org.
+* Become familiar with the [earl marshal website](https://marshal.atlantia.sca.org) and the [warrant site](https://warrant.atlantia.sca.org).
 * If you are running a practice, familiarize yourself with the waiver reporting requirements.
-* Be sure to go to earl marshal page and use "request a new warrant" to tell KRM you took this class.
+* Be sure to go to the warrant page and use "request a new warrant" to tell KRM you took this class.
   * You are required to have an AEL account.
   * Specify if you are starting your MIT process or completing your training requirements.
 * Print the rules, keep them with you at every event you marshal.
