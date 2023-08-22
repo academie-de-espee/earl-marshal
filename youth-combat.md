@@ -62,7 +62,7 @@ At 16, children may become an authorized adult rapier combat fighter.
 <div class="col-sm-6" markdown="1">
 
 ### Permission Forms
-There are numerous forms that parents must fill out prior to a child engaging in any combat within the SCA.  Please see the [For Parents](http://mol.atlantia.sca.org/ForParents/index.html) section of the Kingdom of Atlantia The Minister of the List website.
+There are numerous forms that parents must fill out prior to a child engaging in any combat within the SCA.  Please see the [For Parents](https://mol.atlantia.sca.org/information-for-fighters/#parents) section of the Kingdom of Atlantia The Minister of the List website.
 
 </div>
 <div class="col-sm-6" markdown="1">
