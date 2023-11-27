@@ -12,6 +12,7 @@ Have updates? [Submit a change](https://github.com/academie-de-espee/rapier-mars
     <th> Days </th>
     <th> Time
     <th> Address </th>
+    <th> Last Updated </th>
 </tr>
 {% for p in site.data.practices %}
 <tr>
@@ -20,5 +21,6 @@ Have updates? [Submit a change](https://github.com/academie-de-espee/rapier-mars
     <td> {{ p.days }} </td>
     <td> {{ p.start }} - {{ p.end }} </td>
     <td> {{ p.address }} </td>
+    <td> {{ p.updated }} </td>
 {% endfor %}
 </table>
