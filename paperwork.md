@@ -42,7 +42,8 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Equestrian Marshals classes](/documents/training/equestrian-marshal-101.docx).  Contains Equestrian Marshals 101 (required for marshals) and Ground Crew 101 (required for Ground Crew authorizations).
  (known as "Book of the Horse Class Supplemental")
 * Hounds 101 (not available online)
-* [Target Archery Handbook](http://archery.atlantia.sca.org/images/Atlantia_Target_Archery_Handbook_2-0.pdf)
+* [Target Archery Handbook](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Farchery.atlantia.sca.org%2Fimages%2FTA_Handbook_v5.1.docx&wdOrigin=BROWSELINK)
 * [Thrown Weapons 101](/documents/training/ThrownWeaponsMarshal101.pdf)
 * [Marshals Class Sign-in Form](/documents/forms/marshal-class-roster.pdf)
 * [Marshaling Instructions](/documents/training/Marshaling_Instructions.pdf)
+* [Roster Waiver](https://www.sca.org/wp-content/uploads/2019/12/rosterwaiver.pdf)
