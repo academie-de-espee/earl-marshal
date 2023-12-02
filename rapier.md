@@ -50,11 +50,13 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 * [Youths fighting as Adults](/procedures/youth-as-adult-rapier/)
 * [Rapier Marshal 101 Class Outline](/training/rapier-marshal/)
 * [Field Marshal 201 Class Outline](/training/field-marshal/)
-* [Youth Marshal 101 Class Outline](/training/youth-rapier-marshal/)
+* [Youth Rapier Marshal 101 Class Outline](/training/youth-rapier-marshal/)
+* [Rapier Experiments](/rapier/experiments/main/)
 
 ## Information
 * [Extreme Heat Guidance for Marshals](/documents/heat-guidance/for-marshals.pdf)
 * [Extreme Heat Guidance for Participants](/documents/heat-guidance/for-participants.pdf)
+* [Rapier Marshal Meeting Notes - Unevent 2023](/rapier/unevent-2023/)
 * [Rapier Marshal Meeting Notes - Unevent 2022](/rapier/unevent-2022/)
 * [Rapier Marshal Rules Update - Kingdom Policy Updates April 2022](/rapier/rules-update-2022-04/)
 * [Rapier Marshal Meeting Notes - Unevent 2021](/rapier/unevent-2021/)
