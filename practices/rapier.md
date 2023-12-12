@@ -7,7 +7,7 @@ Have updates? [Submit a change](https://github.com/academie-de-espee/earl-marsha
 
 <table width="100%">
 <tr>
-<th> Group </th> <th> Marshal in Charge </th> <th> Days </th> <th> Time <th> Address </th>
+<th> Group </th> <th> Marshal in Charge </th> <th> Days </th> <th> Time <th> Address <th> Last Updated </th>
 {% for p in site.data.practices %}
 <tr>
     <td> {{ p.group }} </td>
