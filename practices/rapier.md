@@ -15,5 +15,6 @@ Have updates? [Submit a change](https://github.com/academie-de-espee/earl-marsha
     <td> {{ p.days }} </td>
     <td> {{ p.start }} - {{ p.end }} </td>
     <td> {{ p.address }} </td>
+    <td> {{ p.updated }} </td>
 </tr>
 {% endfor %}
