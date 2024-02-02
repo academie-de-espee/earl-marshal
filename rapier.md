@@ -17,7 +17,7 @@ Rapier fighting in Atlantia is governed by an ordered hierarchy of rules.
 
 1. Kingdom Rapier Rules, defined in [Section 3.12 of the Kingdom Earl Marshal’s Policy](/paperwork/).  These rules define Atlantia's specific rapier conventions and take precedence over all other rules.
 2. Kingdom Marshal Rules, defined in [Section 3 of the Kingdom Earl Marshal’s Policy](/paperwork/), excluding the components specific to other forms of combat.  These rules define Atlantia's overall marshal conventions.
-3. Society Rapier Rules, defined in the [SCA's Fencing Marshal's Handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf).  These rules define the SCA's rapier conventions.
+3. Society Rapier Rules, defined in the [SCA's Fencing Marshal's Handbook](https://www.sca.org/wp-content/uploads/2024/01/Fencing-Marshals-Handbook_Jan2024.pdf).  These rules define the SCA's rapier conventions.
 4. Society Marshal's rules, defined in the [SCA's Marshal's Handbook](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf), excluding the components specific to other forms of combat.  These rules define the Society's overall marshal conventions.
 
 In some melee combat scenarios, combat archery may be employed.  Combat Archery rules are defined in [Section 3.12.5](https://marshal.atlantia.sca.org/paperwork/) of the Atlantian Book of Policy.
