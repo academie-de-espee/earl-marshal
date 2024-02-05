@@ -1,20 +1,20 @@
-group,mic,email,days,start,end,address,updated
-Black Diamond,???,knight-marshal@black-diamond.atlantia.sca.org,Thursday,6:00 pm,9:00 pm,"3591 Windsor Rd, Roanoke, VA 24018",2023-11-24
-Caer Mear,Steffan von Musbach,KnightsMarshal@caermear.atlantia.sca.org,Sunday,11:00 am,1:00 pm,"Rockwood Park, 3401 Courthouse Rd, Richmond, VA 23236",2023-11-24
-Dun Carraig,Marguerite de Lyon,knightmarshal@duncarraig.net,Wednesday,6:30 pm,8:30 pm,"20 Appeal Lane, Lusby MD 20657",2023-11-24
-Hawkwood,Aleksandr Tomasovic,druzhina.aleksandr@gmail.com,Sundays,2:00 pm or 3:00 pm,,"Location rotates between Weaver Park, Asheville, NC, and Fae Nectar, Lake Lure, NC.  Please contact MIC.",2023-11-24
-Isenfir,Geoffrey Gamble,ljmorgan1588@embarqmail.com,Thursday,6:00 pm,8:00 pm,"Location rotates between Charlottesville, VA and Staunton, VA. Please contact MIC",2023-11-24
-Kappellenberg,Magister Percival Aldridge,cdsnell@gmail.com,Sunday,1:00 pm,,"Piney Wood Park, Durham, NC",2023-12-13
-"Kappellenberg (Summer only)",Magister Percival Aldridge,cdsnell@gmail.com,Thursday,6:00 pm,,"Piney Wood Park, Durham, NC",2023-12-13
-Lochmere,Yrsa Eds dottir,knightmarshal@lochmere.atlantia.sca.org,Tuesday,7:00 pm,9:00 pm,"8132 New Cut Road, Severn, MD 21144",2023-11-24
-Marinus,Lord Jean Maurice le Marinier,knightmarshal@baronyofmarinus.org,Sunday,1:00 pm,,"",
-"Ponte Alto (Summer)",???,rapier@pontealto.atlantia.sca.org,Thursday,6:00 pm,Dark,"2017 Peach Orchard Drive, Falls Church, VA",2023-11-24
-"Ponte Alto (Fall, Winter, Spring)",???,rapier@pontealto.atlantia.sca.org,Thursday,6:00 pm,9:00 pm,"7525 Shreve Rd. Falls Church VA",2023-11-24
-Roxbury Mill,William of Glencoe,marshall@roxburymill.atlantia.sca.org,Wednesday,7:00 pm,9:00 pm,"2200 Baltimore Rd, Rockville, MD 20851",2023-11-24
-Sacred Stone,Christian,marshal@sacredstone.atlantia.sca.org,Sunday,12:00 pm, 3:00 pm,"Rankin Lake Park, 1750 Rankin Lake Rd, Gastonia, NC 28052",2023-11-24
-Sacred Stone,Colette Vitalis,marshal@sacredstone.atlantia.sca.org,Thursday,6:30 pm,8:30 pm,"Bethel Lutheran Church, 5759 Bolick Rd, Claremont, NC 28610",2024-02-04
-Seven Hills,???,???,Monday,6:00 pm,9:00 pm,"1912 Izaak Walton Rd, Madison Heights VA 24572",2024-02-04
-Stierbach,Ulfarr Refskegg,???,Tuesday and Thursday,8:00 pm,10:00 pm,"UMW Fitness Center Aux Gym, 1701 College Avenue, Fredericksburg VA",2024-01-22
-Storvik,Celric d’Ravelle,knightmarshal@storvik.atlantia.sca.org,Monday,7:00 pm,9:30 pm,"4512 College Avenue College Park, MD 20740",2023-11-24
-Tir-y-Don,Master Llwyd Aldrydd,baronllwyd@gmail.com,Sunday,1:00 pm,3:00 pm,"100 Long Green Blvd., Yorktown, VA 23693",
-Windmasters Hill,Magister Percival Aldridge,cdsnell@gmail.com,3rd Sunday,1:00 pm,,"Lion's Club, Garner, NC",2023-12-13
+group,activities,mic,email,days,start,end,address,updated
+Black Diamond,,???,knight-marshal@black-diamond.atlantia.sca.org,Thursday,6:00 pm,9:00 pm,"3591 Windsor Rd, Roanoke, VA 24018",2023-11-24
+Caer Mear,,Steffan von Musbach,KnightsMarshal@caermear.atlantia.sca.org,Sunday,11:00 am,1:00 pm,"Rockwood Park, 3401 Courthouse Rd, Richmond, VA 23236",2023-11-24
+Dun Carraig,,Marguerite de Lyon,knightmarshal@duncarraig.net,Wednesday,6:30 pm,8:30 pm,"20 Appeal Lane, Lusby MD 20657",2023-11-24
+Hawkwood,,Aleksandr Tomasovic,druzhina.aleksandr@gmail.com,Sundays,2:00 pm or 3:00 pm,,"Location rotates between Weaver Park, Asheville, NC, and Fae Nectar, Lake Lure, NC.  Please contact MIC.",2023-11-24
+Isenfir,,Geoffrey Gamble,ljmorgan1588@embarqmail.com,Thursday,6:00 pm,8:00 pm,"Location rotates between Charlottesville, VA and Staunton, VA. Please contact MIC",2023-11-24
+Kappellenberg,,Magister Percival Aldridge,cdsnell@gmail.com,Sunday,1:00 pm,,"Piney Wood Park, Durham, NC",2023-12-13
+"Kappellenberg (Summer only)",,Magister Percival Aldridge,cdsnell@gmail.com,Thursday,6:00 pm,,"Piney Wood Park, Durham, NC",2023-12-13
+Lochmere,Armored & Rapier,Yrsa Eds dottir,knightmarshal@lochmere.atlantia.sca.org,Tuesday,7:00 pm,9:00 pm,"8132 New Cut Road, Severn, MD 21144",2023-11-24
+Marinus,,Lord Jean Maurice le Marinier,knightmarshal@baronyofmarinus.org,Sunday,1:00 pm,,"",
+"Ponte Alto (Summer)",Armored & Rapier,???,rapier@pontealto.atlantia.sca.org,Thursday,6:00 pm,Dark,"2017 Peach Orchard Drive, Falls Church, VA",2023-11-24
+"Ponte Alto (Fall, Winter, Spring)",Rapier,???,rapier@pontealto.atlantia.sca.org,Thursday,6:00 pm,9:00 pm,"7525 Shreve Rd. Falls Church VA",2023-11-24
+Roxbury Mill,Rapier,William of Glencoe,marshall@roxburymill.atlantia.sca.org,Wednesday,7:00 pm,9:00 pm,"2200 Baltimore Rd, Rockville, MD 20851",2023-11-24
+Sacred Stone,,Christian,marshal@sacredstone.atlantia.sca.org,Sunday,12:00 pm, 3:00 pm,"Rankin Lake Park, 1750 Rankin Lake Rd, Gastonia, NC 28052",2023-11-24
+Sacred Stone,,Colette Vitalis,marshal@sacredstone.atlantia.sca.org,Thursday,6:30 pm,8:30 pm,"Bethel Lutheran Church, 5759 Bolick Rd, Claremont, NC 28610",2024-02-04
+Seven Hills,,???,???,Monday,6:00 pm,9:00 pm,"1912 Izaak Walton Rd, Madison Heights VA 24572",2024-02-04
+Stierbach,,Ulfarr Refskegg,???,Tuesday and Thursday,8:00 pm,10:00 pm,"UMW Fitness Center Aux Gym, 1701 College Avenue, Fredericksburg VA",2024-01-22
+Storvik,Armored & Rapier,Celric d’Ravelle,knightmarshal@storvik.atlantia.sca.org,Monday,7:00 pm,9:30 pm,"4512 College Avenue College Park, MD 20740",2023-11-24
+Tir-y-Don,,Master Llwyd Aldrydd,baronllwyd@gmail.com,Sunday,1:00 pm,3:00 pm,"100 Long Green Blvd., Yorktown, VA 23693",
+Windmasters Hill,,Magister Percival Aldridge,cdsnell@gmail.com,3rd Sunday,1:00 pm,,"Lion's Club, Garner, NC",2023-12-13
