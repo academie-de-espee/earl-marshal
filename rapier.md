@@ -67,7 +67,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 * [Society Rules Update - April 2018](/rapier/rules-update-2018/)
 * [Rapier Marshal Meeting Notes - Unevent 2017](/rapier/unevent-2017/)
 * [Notes on Deputy KRM responsibilities](/rapier/deputy-krm/)
-* [Rapier Practices](/practices/rapier/), official practices with rapier combat held throughout the kingdom.
+* [Practices](/practices/), official practices with held throughout the kingdom, many which have rapier included.
 * [Atlantian Rapiernet](https://groups.yahoo.com/neo/groups/atlantianrapiernet/info), the primary mailing list for rapier activity within Atlantia.
 * [Academie d'Espee](http://www.academiedespee.com/), the premiere rapier guild in Atlantia.
 * [Academie d'Espee on Facebook](https://www.facebook.com/groups/608693275816448/), the Facebook group for the Academie d'Espee guild.
