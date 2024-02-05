@@ -11,7 +11,7 @@ Have updates? [Submit a change](https://github.com/academie-de-espee/earl-marsha
 {% for p in site.data.practices %}
 <tr>
     <td> {{ p.group }} </td>
-    <th> {{ p.activities }} </td>
+    <td> {{ p.activities }} </td>
     <td> <a href='mailto:{{p.email}}'>{{ p.mic }}</a> </td>
     <td> {{ p.days }} </td>
     <td> {{ p.start }} - {{ p.end }} </td>
