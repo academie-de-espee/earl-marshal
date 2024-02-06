@@ -3,7 +3,7 @@ title: Official Practices
 layout: default
 ---
 
-Have updates? [Submit a change](https://github.com/academie-de-espee/earl-marshal/blob/master/_data/practices.csv) or [Let us known](https://github.com/academie-de-espee/earl-marshal/issues/new)
+Have updates? [Submit a change](https://github.com/academie-de-espee/earl-marshal/blob/master/_data/practices.csv) or [Let us know](https://github.com/academie-de-espee/earl-marshal/issues/new)
 
 <table width="100%">
 <tr>
