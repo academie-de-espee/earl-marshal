@@ -1,5 +1,5 @@
 ---
-title: Rapier Marshal Meeting - Unevent 2023
+title: Rapier Marshal Meeting - Unevent 2024
 layout: default
 ---
 * TOC
