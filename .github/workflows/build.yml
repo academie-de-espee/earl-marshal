@@ -26,7 +26,7 @@ jobs:
         docker run \
             -v ${PWD}:/srv/jekyll \
             -v ${PWD}/vendor/bundle:/usr/local/bundle \
-            jekyll/builder:3.8 \
+            jekyll/builder:4 \
             /bin/bash -c "chmod 777 /srv/jekyll; jekyll build"
     - name: deploy via ssh
       run: |
