@@ -7,10 +7,6 @@ layout: default
 
 **Author**: Magister Percival Aldridge, KRM
 
-**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
-
-**Revision**: {{ site.git.last_commit_short_sha }}
-
 ## Staff
 * Kingdom Earl Marshal: Master Gordon Kinloch
 * Deputy for Rapier: Magister Percival Aldridge
