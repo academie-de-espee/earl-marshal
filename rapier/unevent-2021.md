@@ -8,10 +8,6 @@ layout: default
 
 **Author**: Master Brian de Moray, KRM
 
-**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
-
-**Revision**: {{ site.git.last_commit.short_sha }}
-
 ## Stats
 * 77 Rapier marshals (11% increase!)
 * 15 MITs (15% increase!)
