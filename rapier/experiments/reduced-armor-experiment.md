@@ -19,9 +19,4 @@ If you are participating in the experiment, you are required to use the [Unified
 
 **Author**: Magister Percival Aldridge, KRM
 
-**Last Modified**: {{ page.last_modified_at | date: '%Y-%m-%d' }}
-
-**Revision**: {{ site.git.last_commit_short_sha }}
-
-
 
