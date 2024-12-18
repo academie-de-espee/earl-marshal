@@ -11,25 +11,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-
-#    - name: Cache jekyll vendor
-#      uses: actions/cache@v4
-#      with:
-#        path: ./vendor
-#        key: ${{ runner.os }}-build-${{ hashFiles('Gemfile') }}
-#        restore-keys: |
-#          ${{ runner.os }}-build-${{ hashFiles('Gemfile') }}
-#          ${{ runner.os }}-build-
-#          ${{ runner.os }}-
-#    - name: Build the site in the jekyll/builder container
-#      run: |
-#        docker run \
-#            -v ${PWD}:/srv/jekyll \
-#            -v ${PWD}/vendor/bundle:/usr/local/bundle \
-#            jekyll/builder:4 \
-#            /bin/bash -c "chmod 777 /srv/jekyll; git config --global --add safe.directory /srv/jekyll; jekyll build"
-    - name: Build
-      uses: actions/jekyll-build-pages@v1
+    - name: Build the site in the jekyll/builder container
+      run: docker run -v ${PWD}:/srv/jekyll jekyll/jekyll:latest bash -c "chmod 777 /srv/jekyll; git config --global --add safe.directory /srv/jekyll; jekyll build"
+#    - name: Build
+#      uses: actions/jekyll-build-pages@v1
     - name: deploy via ssh
       run: |
         mkdir -p ${HOME}/.ssh
