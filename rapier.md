@@ -5,10 +5,9 @@ layout: default
 
 ## Staff
 
-* Kingdom Rapier Marshal - [Magister Percival Aldridge](https://warrant.atlantia.sca.org/user/300)
-* Deputy Kingdom Rapier Marshal - [Master Cailin Blackwood](https://warrant.atlantia.sca.org/user/1171)
-* Deputy Kingdom Rapier Marshal - [Master Dante di Pietro](https://warrant.atlantia.sca.org/user/606)
-* Deputy Kingdom Rapier Marshal - [Master Geoffrey Gamble](https://warrant.atlantia.sca.org/user/36)
+* Kingdom Rapier Marshal - [Master Geoffrey Gamble](https://warrant.atlantia.sca.org/user/36)
+* Deputy Kingdom Rapier Marshal - [Mistress Symone de la Rochelle](https://warrant.atlantia.sca.org/user/903)
+* Deputy Kingdom Rapier Marshal - [Master Tiberius Aufidius Crispus](https://warrant.atlantia.sca.org/user/1545)
 * Rapier Marshals - [Roster](https://warrant.atlantia.sca.org/warrants/type/14)
 
 ## Rules
