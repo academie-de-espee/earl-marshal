@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Rules
-* [Kingdom Earl Marshal's Policy (as of 2022-21-01)](/documents/Earl-Marshal-policy-2022-12-01.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.  (Rule updates from the previous revision in bold).
+* [Kingdom Earl Marshal's Policy (as of 2024-06-05)](https://atlantia.sca.org/wp-content/uploads/2024/11/Kingdom-of-Atlantia-Policy-8-20-2024.pdf) - This document incorporates the policies and rules for all marshal activities.
 * [Society Earl Marshal's Armored Combat Marshal’s Handbook](https://www.sca.org/wp-content/uploads/2023/10/Armored_Combat_Handbook-Oct_2023.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
