@@ -26,12 +26,12 @@ At events, all equipment or clothing used by participants on the list field must
 For youth rapier fighters, additional rules apply as defined in [Section 3.9 of Kingdom Earl Marshal’s Policy](/paperwork/) and the [Society Youth Marshal Handbook](https://www.sca.org/officers/marshal/youthcombat/docs/YouthMartialHandbook.pdf).
 
 ## Policy interpretations and addendums
-1. All rapier-MICs must submit an event report even if they are not the MIC. [Original Ruling](/rapier/interpretations/1).
+1. All rapier-MICs must submit an event report even if they are not the MIC. [Original Ruling](/rapier/interpretations/1)
 2. Anyone that marshals rapier combat at all during an event must meet with the rapier-MIC to discuss the activities they observed and convey any concerns or issues. [Original Ruling](/rapier/interpretations/1)
 3. Individuals may not fight and marshal in the same activity (melee or tournament).  If multiple activities occur in a single day, individuals may fight in one and marshal another provided they are not the marshal in charge.  [Original Ruling](/rapier/interpretations/1)
-4. Warranted rapier marshals may only perform inspections and authorizations for all rapier forms they hold a valid authorization. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-April/022472.html), [Follow-up clarification](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-February/022640.html).
-5. Marshals may not act as an MOL for a tournament they are actively marshalling. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2016-March/022439.html).
-6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2012-July/014154.html)
+4. Warranted rapier marshals may only perform inspections and authorizations for all rapier forms they hold a valid authorization. [Original Ruling](/rapier/interpretations/2), [Follow-up clarification](/rapier/interpretations/3)
+5. Marshals may not act as an MOL for a tournament they are actively marshalling. [Original Ruling](/rapier/interpretations/4)
+6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](/rapier/interpretations/5)
 7. Out-of-area regions for MIT purposes are defined as North (Maryland and DC), North-Central (Virginia), South-Central (North Carolina), and South (South Carolina and Border Vale Keep). [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2015-January/022315.html), [Clarification](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2015-January/022317.html)
 8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2017-February/022641.html)
 9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
