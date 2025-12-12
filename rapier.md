@@ -47,7 +47,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 * [Becoming an authorized rapier fighter](/procedures/rapier-authorization/)
 * [Becoming a marshal](/procedures/mit/)
 * [Youths fighting as Adults](/procedures/youth-as-adult-rapier/)
-* [Rapier Marshal 101 Class Outline](/documentation/rapier-marshal-101-2025-12-01.pdf)
+* [Rapier Marshal 101 Class Outline](/documents/rapier-marshal-101-2025-12-01.pdf)
 * [Field Marshal 201 Class Outline](/training/field-marshal/)
 * [Youth Rapier Marshal 101 Class Outline](/training/youth-rapier-marshal/)
 * [Rapier Experiments](/rapier/experiments/main/)
