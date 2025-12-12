@@ -47,7 +47,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 * [Becoming an authorized rapier fighter](/procedures/rapier-authorization/)
 * [Becoming a marshal](/procedures/mit/)
 * [Youths fighting as Adults](/procedures/youth-as-adult-rapier/)
-* [Rapier Marshal 101 Class Outline](/training/rapier-marshal/)
+* [Rapier Marshal 101 Class Outline](/documentation/rapier-marshal-101-2025-12-01.pdf)
 * [Field Marshal 201 Class Outline](/training/field-marshal/)
 * [Youth Rapier Marshal 101 Class Outline](/training/youth-rapier-marshal/)
 * [Rapier Experiments](/rapier/experiments/main/)
@@ -55,6 +55,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 ## Information
 * [Extreme Heat Guidance for Marshals](/documents/heat-guidance/for-marshals.pdf)
 * [Extreme Heat Guidance for Participants](/documents/heat-guidance/for-participants.pdf)
+* [Rapier Marshal Meeting Notes - Unevent 2025](/rapier/unevent-2025/)
 * [Rapier Marshal Meeting Notes - Unevent 2024](/rapier/unevent-2024/)
 * [Rapier Marshal Meeting Notes - Unevent 2023](/rapier/unevent-2023/)
 * [Rapier Marshal Meeting Notes - Unevent 2022](/rapier/unevent-2022/)
