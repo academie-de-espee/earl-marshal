@@ -14,7 +14,7 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Procedure to become a Group Knight Marshal](/procedures/knight-marshal)
 
 # Resources for Marshals
-* [Kingdom Marshal mailing list](http://seahorse.atlantia.sca.org/listinfo.cgi/marshalls-atlantia.sca.org)
+* [Kingdom Marshal mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/marshals)
 * [Non-Member waiver](http://www.sca.org/docs/pdf/rosterwaiver.pdf)
 * [Pratice Waivers](http://atlantia.sca.org/offices/seneschal/atlantia-waiver-secretary) (Must be submitted quarterly)
 * [Guidance on Modern Items](/procedures/modern)
