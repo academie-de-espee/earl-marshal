@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
     - name: Build the site in the jekyll/builder container
       run: docker run -v ${PWD}:/srv/jekyll jekyll/jekyll:latest bash -c "chmod 777 /srv/jekyll; git config --global --add safe.directory /srv/jekyll; jekyll build"
 #    - name: Build
