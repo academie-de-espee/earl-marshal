@@ -23,7 +23,7 @@ In some melee combat scenarios, combat archery may be employed.  Combat Archery 
 
 At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance per [Section 3.4](/paperwork/) of the Atlantian Book of Policy.  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
 
-For youth rapier fighters, additional rules apply as defined in [Section 3.9 of Kingdom Earl Marshal’s Policy](/paperwork/) and the [Society Youth Marshal Handbook](https://www.sca.org/officers/marshal/youthcombat/docs/YouthMartialHandbook.pdf).
+For youth rapier fighters, additional rules apply as defined in [Section 3.9 of Kingdom Earl Marshal’s Policy](/paperwork/) and the [Society Youth Combat Handbook](https://www.sca.org/wp-content/uploads/2024/07/Youth-Combat-Handbook-July-2024.pdf).
 
 ## Policy interpretations and addendums
 1. All rapier-MICs must submit an event report even if they are not the MIC. [Original Ruling](/rapier/interpretations/1)
@@ -34,8 +34,8 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](/rapier/interpretations/5)
 7. Out-of-area regions for MIT purposes are defined as North (Maryland and DC), North-Central (Virginia), South-Central (North Carolina), and South (South Carolina and Border Vale Keep). [Original Ruling](/rapier/interpretations/6), [Clarification](/rapier/interpretations/7)
 8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](/rapier/interpretations/8)
-9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
-10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
+9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling (link dead)](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
+10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling (link dead)](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
 11. No more than four (4) fighters may attack a single (1) opponent.  [Original Ruling](/rapier/interpretations/9)
 12. If a fighter is unable to continue fighting, they should grasp their weapons by the blade near the hilt with the tip pointed directly at the ground, and walk off the field without disrupting the flow of battle.  If the fighter is unable to safely remove themselves from the field of combat, the fighter should kneel while holding their weapons as previously described until they are able to remove themselves from the field. [Original Ruling](/rapier/interpretations/10)
 13. [Procedures for inspecting Cut & Thrust hand protection](/rapier/cut-and-thrust-hand-inspection/)

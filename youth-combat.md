@@ -14,8 +14,8 @@ Youth Armored Combat is divided into three divisions based on age, armor, and we
 * Division 3: Ages 14-17
 
 #### Resources
-* [Society rules for youth combat](http://www.sca.org/officers/marshal/youthcombat/docs/SocietyYCRules.pdf)
-* [Kingdom rules for youth combat](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=Herald7)
+* [Society Youth Combat Handbook](https://www.sca.org/wp-content/uploads/2024/07/Youth-Combat-Handbook-July-2024.pdf)
+* [Kingdom rules for youth combat](https://atlantia.sca.org/wp-content/uploads/2026/02/Kingdom-of-Atlantia-Policy-2-2-26.pdf)
 
 </div>
 <div class="col-sm-6" markdown="1">
@@ -40,9 +40,9 @@ Youth Rapier Combat is divided into four divisions based on age, armor, and weap
 At 16, children may become an authorized adult armored combat fighter.
 
 #### Resources
-* [Society rules for armored combat](http://www.sca.org/officers/marshal/docs/marshal_handbook.pdf)
-* [Kingdom rules for armored combat](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal)
-* [Society rules for youth combat](http://www.sca.org/officers/marshal/youthcombat/docs/SocietyYCRules.pdf)
+* [Society rules for armored combat](https://www.sca.org/wp-content/uploads/2025/07/Armored_Combat_Rattan_Handbook-_Approved-June-2025.pdf)
+* [Kingdom rules for armored combat](https://atlantia.sca.org/wp-content/uploads/2026/02/Kingdom-of-Atlantia-Policy-2-2-26.pdf)
+* [Society Youth Combat Handbook](https://www.sca.org/wp-content/uploads/2024/07/Youth-Combat-Handbook-July-2024.pdf)
 
 </div>
 <div class="col-sm-6" markdown="1">
@@ -51,10 +51,10 @@ At 16, children may become an authorized adult armored combat fighter.
 At 16, children may become an authorized adult rapier combat fighter.
 
 #### Resources
-* [Kingdom rules for adult rapier](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=Herald10)
-* [Society rules for adult rapier combat](http://www.sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf)
-* [Kingdom rules for youth combat](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=Herald7)
-* [Society rules for youth combat](http://www.sca.org/officers/marshal/youthcombat/docs/SocietyYCRules.pdf)
+* [Kingdom rules for adult rapier](https://atlantia.sca.org/wp-content/uploads/2026/02/Kingdom-of-Atlantia-Policy-2-2-26.pdf)
+* [Society rules for adult rapier combat](https://www.sca.org/wp-content/uploads/2024/01/Fencing-Marshals-Handbook_Jan2024.pdf)
+* [Kingdom rules for youth combat](https://atlantia.sca.org/wp-content/uploads/2026/02/Kingdom-of-Atlantia-Policy-2-2-26.pdf)
+* [Society Youth Combat Handbook](https://www.sca.org/wp-content/uploads/2024/07/Youth-Combat-Handbook-July-2024.pdf)
 
 </div>
 </div>
