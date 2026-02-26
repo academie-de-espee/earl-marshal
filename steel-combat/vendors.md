@@ -11,7 +11,7 @@ The lists below are by no means comprehensive. Armour vendors tend to be small b
 
 First some guidelines. Always consult the current SCA Society rules for Steel Fighting. You will find the Steel specific rules in section IX. Kingdom specific rules addendums should also be consulted. Currently (12/2020) Atlantia has no additional rules. Note SCA Steel tournaments will tend to require reasonable historic appearance standards. Plastics for example would need to be hidden should they appear clearly modern. 
 
-[Society Marshal Handbook](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf)
+[Society Marshal Handbook](https://www.sca.org/wp-content/uploads/2025/07/Armored_Combat_Rattan_Handbook-_Approved-June-2025.pdf)
 
 ### Helmets
 The rules call for 12 gauge mild steel or material of equivalent strength. Beware of getting a helmet that is made of a strong but light material. Titanium for example is strong enough but just doesn't have the mass to properly protect against concussion. Most traditional SCA merchants sell mild steel or stainless (304) steel helmets. Lastly, the SCA helmet standards closely mirror the standards of US steel fighting organizations such as the IMCF,ACS or ACW. Merchants in other countries are not necessarily constructing helmets that meet our safety standards. This is especially true with regard to face guards. A good rule of thumb, if you can pass a quarter (quarter held face on, not edge on) through the face guard or a blade can enter a slot more than 1.5 inches long, that guard is almost certainly not compliant with our rules. 
@@ -44,24 +44,22 @@ This is a partial list. There are many US armor shops that can make equipment to
 The number of providers available is beyond the scope of this list. I will stick with the better known to be reliable providers. For ALL of these providers be sure to specify that your order must meet US armor requirements. (Especially for helmet face grills/shields.) Most are familiar with ACS/ACW/ACL/IMCF requirements. 
 
 * [Age of Craft(W)](https://ageofcraft.com/): Possibly the largest armor supplier for steel. Good reputation Be sure to specify US requirements especially with regards to face plates/shields. (Currently not in production due to the Russo/Ukraine war.)
-* [Armoury Al-Master](https://aldwarf.io.ua/): High end armourer. Good reputation His battle optimized designs are some of the best available.  Located in Kyiv Ukraine.
+* Armoury Al-Master (https://al-master.com/Stock): High end armourer. Good reputation His battle optimized designs are some of the best available.  Located in Kyiv Ukraine.
 * [Armory Smith](http://www.armorysmith.com/): Creative and talented armorer Located in Kyiv Ukraine.
 * [Jolly Knight Armoury](https://www.facebook.com/groups/JollyknightArmoury/): Located in Ukraine, this armory may be out of production currently
 * [Medieval Extreme(W)](https://medievalextreme.com/): Good reputation, located in Ukraine but still in full production.
 * [Buhurt Tech(W)](https://www.buhurttech.com/): Good reputation, located in Ukraine but still in production. 
-* [Fabri Armoury(W)](http://www.fabri-armorum.com/en/homepage/): Good value but be sure you're buying Steel Fighting equipment!!  Located in the Czech Republic
-* [Hardy Manufactury](http://www.hardymanufacture.com/): Considered one of the best armor values.  Located in Poland.
+* [Fabri Armoury(W)](https://www.fabri-armorum.com/en/home/): Good value but be sure you're buying Steel Fighting equipment!!  Located in the Czech Republic
 * [Aleksey Perebeynos](https://www.facebook.com/aleksey.perebeynos):  Great value and quality. Located in Ukraine and still in production.
 * [Andrey Galevskyi](https://www.facebook.com/andrey.galevskyi): Great value and quality. Be sure to check his (FB) Armour. Custom & InStock From Andrey Galevskiy page as he often has auctions.  Located in Ukraine but still in production.
 * [Master Uley-(W)](https://master-uley.com/): One of the mainstays of steel fighting equipment.  Tends to specialize in eastern equipment but capable of making nearly any armor.  Currently not in production as the shop in Ukraine has been destroyed.
 * [Oleg Yanchuk](https://www.facebook.com/oleg.yanchuk.1): Located in a safer section of Ukraine but no recent posts.
 * [Volodymyr Shlenchak](https://www.facebook.com/profile.php?id=100014012289323): Known for good titanium equipment and excellent gambesons.  Currently fighting in the Ukraine army and production has been geared towards modern ballistic armor. https://www.facebook.com/profile.php?id=100014012289323 
 * [HBC Armor Shop](https://hbcarmorshop.com/): This is an Indian armor shop. They have good quality tempers on their spring steel equipment but you HAVE to be sure that the spring steel option is available and clicked. There is also a mix of fantasy armor here. Take care. 
-* [Wild Armoury](http://wildarmoury.com/): Located in Ukraine and still appears to be in production.
 * [Quilted Armour](https://www.facebook.com/groups/quiltedarmour/): Considered the best source for gambesons. Especially custom print designs.  Located in Russia so expect customs delays.
 * [White Rose Armoury](https://www.facebook.com/White-Rose-Armoury-238278722879012/?ref=br_rs): Located in the UK. 
 * [White Well Arms](https://www.facebook.com/White-Rose-Armoury-238278722879012/?ref=br_rs): Custom sword maker in the UK. 
-* [SPES Medieval Market](https://medieval-market.com/goods.php?kategoria=19&kat2=For%20fighting): Good source for softkit.  Located in Poland.
+* [SPES Medieval Market](https://medieval-market.com/en/146-protective): Good source for softkit.  Located in Poland.
 * [Sharukhan Market](https://www.sharukhanmarket.com/): Prolific steel combat provider located in Ukraine. Still active though orders have slowed down. 
 * [Historicum](https://historicum.pl/): Excellent armory located in Poland with an extremely large catalog of equipment.
 * [Forge of Svan](https://forgeofsvan.com/): An excellent armory in Ukraine. Production is slowing due to the Ukraine/Russo war.  

@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Rules
-* [Kingdom Earl Marshal's Policy (as of 2024-06-05)](https://atlantia.sca.org/wp-content/uploads/2024/11/Kingdom-of-Atlantia-Policy-8-20-2024.pdf) - This document incorporates the policies and rules for all marshal activities.
+* [Kingdom Earl Marshal's Policy (as of 2026-02-02)](https://atlantia.sca.org/wp-content/uploads/2026/02/Kingdom-of-Atlantia-Policy-2-2-26.pdf) - This document incorporates the policies and rules for all marshal activities.
 * [Society Earl Marshal’s Armored Combat Marshal’s Handbook](https://www.sca.org/wp-content/uploads/2025/07/Armored_Combat_Rattan_Handbook-_Approved-June-2025.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
@@ -16,7 +16,7 @@ All combat in the SCA must be overseen by a warranted Marshal.
 # Resources for Marshals
 * [Kingdom Marshal mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/marshals)
 * [Non-Member waiver](https://www.sca.org/wp-content/uploads/2019/12/rosterwaiver.pdf)
-* [Pratice Waivers](http://atlantia.sca.org/offices/seneschal/atlantia-waiver-secretary) (Must be submitted quarterly)
+* [Pratice Waivers](https://atlantia.sca.org/officers/seneschal/waiver-secretary/) (Must be submitted quarterly)
 * [Guidance on Modern Items](/procedures/modern)
 * [Extreme Heat Guidance for Marshals](/documents/heat-guidance/for-marshals.pdf)
 * [Air Quality Index Guidance](/documents/air-quality-guidance.pdf)
