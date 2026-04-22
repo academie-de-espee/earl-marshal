@@ -32,7 +32,12 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 4. Warranted rapier marshals may only perform inspections and authorizations for all rapier forms they hold a valid authorization. [Original Ruling](/rapier/interpretations/2), [Follow-up clarification](/rapier/interpretations/3)
 5. Marshals may not act as an MOL for a tournament they are actively marshalling. [Original Ruling](/rapier/interpretations/4)
 6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](/rapier/interpretations/5)
-7. Out-of-area regions for MIT purposes are defined as North (Maryland and DC), North-Central (Virginia), South-Central (North Carolina), and South (South Carolina and Border Vale Keep). [Original Ruling](/rapier/interpretations/6), [Clarification](/rapier/interpretations/7)
+7. Out-of-area regions for MIT purposes are defined as:
+    1. North East (Bright Hills, Caer Mear, Dun Carraig, Lochmere, Marinus, Ponte Alto, Roxbury Mill, Spiaggia Levantina, Storvik, Tir-y-don)
+    2. North West (Black Diamond, Highland Forde, Isenfir, Stierbach)
+    3. South East (Hidden Mountain, Ravens Cove, Seareach, Ursus Bay, Windmasters Hill)
+    4. South West (Border Vale Keep, Hawkwood, Nottinghill Coill, Sacred Stone)
+    5. War of the Wings is considered “other region” for everyone
 8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](/rapier/interpretations/8)
 9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling (link dead)](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
 10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling (link dead)](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
