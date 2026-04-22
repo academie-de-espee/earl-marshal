@@ -34,7 +34,7 @@ I am actively seeking candidates to act as Deputy KRMs.  See the announcement in
 * The deputy earl marshal for youth rapier is now a deputy to the deputy earl marshal for rapier (KRM).
 * Seaking a DKRM for youth rapier to replace Master Flaithri.  See the announcement in the Acorn for details.  Decisions will be made and announced by 1/2018.
 * All youth rapier marshals are required to have a background check.
-* A [new ruleset](http://sca.org/officers/marshal/youthcombat/docs/YouthMartialHandbook.pdf) is available from Society.  Updates to Atlantia's policies to reflect he changes are in progress.
+* A [new ruleset](https://www.sca.org/wp-content/uploads/2024/07/Youth-Combat-Handbook-July-2024.pdf) is available from Society.  Updates to Atlantia's policies to reflect he changes are in progress.
 
 # News from Society
 

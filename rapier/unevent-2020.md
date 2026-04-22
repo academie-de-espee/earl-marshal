@@ -43,7 +43,7 @@ None
 
 # Discussion Topics
 ## Reopening policy
-* Please read the [Marshal Policy for Reopening](http://atlantia.sca.org/component/jdownloads/send/1-root/178-reopening-atlantial-marshal-policies-v1-2)
+* Please read the [Marshal Policy for Reopening](http://atlantia.sca.org/component/jdownloads/send/1-root/178-reopening-atlantial-marshal-policies-v1-2) (link dead)
 * Highlights:
     * "Masks are required for all in-person attendance. Masks are required to be worn at all times, indoors and outside, and during all physical activities."
     * Wear disposable gloves for the inspection of each fighter.

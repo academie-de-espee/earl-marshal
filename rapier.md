@@ -17,13 +17,13 @@ Rapier fighting in Atlantia is governed by an ordered hierarchy of rules.
 1. Kingdom Rapier Rules, defined in [Section 3.12 of the Kingdom Earl Marshal’s Policy](/paperwork/).  These rules define Atlantia's specific rapier conventions and take precedence over all other rules.
 2. Kingdom Marshal Rules, defined in [Section 3 of the Kingdom Earl Marshal’s Policy](/paperwork/), excluding the components specific to other forms of combat.  These rules define Atlantia's overall marshal conventions.
 3. Society Rapier Rules, defined in the [SCA's Fencing Marshal's Handbook](https://www.sca.org/wp-content/uploads/2024/01/Fencing-Marshals-Handbook_Jan2024.pdf).  These rules define the SCA's rapier conventions.
-4. Society Marshal's rules, defined in the [SCA's Marshal's Handbook](https://www.sca.org/wp-content/uploads/2020/01/MarshalHandbookforRattanCombat.pdf), excluding the components specific to other forms of combat.  These rules define the Society's overall marshal conventions.
+4. Society Marshal's rules, defined in the [SCA's Marshal's Handbook](https://www.sca.org/wp-content/uploads/2025/07/Armored_Combat_Rattan_Handbook-_Approved-June-2025.pdf), excluding the components specific to other forms of combat.  These rules define the Society's overall marshal conventions.
 
 In some melee combat scenarios, combat archery may be employed.  Combat Archery rules are defined in [Section 3.12.5](https://marshal.atlantia.sca.org/paperwork/) of the Atlantian Book of Policy.
 
 At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance per [Section 3.4](/paperwork/) of the Atlantian Book of Policy.  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
 
-For youth rapier fighters, additional rules apply as defined in [Section 3.9 of Kingdom Earl Marshal’s Policy](/paperwork/) and the [Society Youth Marshal Handbook](https://www.sca.org/officers/marshal/youthcombat/docs/YouthMartialHandbook.pdf).
+For youth rapier fighters, additional rules apply as defined in [Section 3.9 of Kingdom Earl Marshal’s Policy](/paperwork/) and the [Society Youth Combat Handbook](https://www.sca.org/wp-content/uploads/2024/07/Youth-Combat-Handbook-July-2024.pdf).
 
 ## Policy interpretations and addendums
 1. All rapier-MICs must submit an event report even if they are not the MIC. [Original Ruling](/rapier/interpretations/1)
@@ -34,8 +34,8 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 6. Fighting can continue even when one fighter has three points of contact on the ground.  A hold must be called when a fighter's torso touches the ground.  [Original Ruling](/rapier/interpretations/5)
 7. Out-of-area regions for MIT purposes are defined as North (Maryland and DC), North-Central (Virginia), South-Central (North Carolina), and South (South Carolina and Border Vale Keep). [Original Ruling](/rapier/interpretations/6), [Clarification](/rapier/interpretations/7)
 8. Masks and helms must be checked for for safety both on and off the fighter each day of fighting. [Original Ruling](/rapier/interpretations/8)
-9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
-10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
+9. Fighters may not grasp their opponent or opponent's weapon excluding grasping heavy rapier blades.  [Original Ruling (link dead)](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-February/011196.html)
+10. Fighters may run but may not strike hard nor have body contact with another fighter while running.  [Original Ruling (link dead)](http://seahorse.atlantia.sca.org/private.cgi/marshalls-atlantia.sca.org/2007-July/011667.html)
 11. No more than four (4) fighters may attack a single (1) opponent.  [Original Ruling](/rapier/interpretations/9)
 12. If a fighter is unable to continue fighting, they should grasp their weapons by the blade near the hilt with the tip pointed directly at the ground, and walk off the field without disrupting the flow of battle.  If the fighter is unable to safely remove themselves from the field of combat, the fighter should kneel while holding their weapons as previously described until they are able to remove themselves from the field. [Original Ruling](/rapier/interpretations/10)
 13. [Procedures for inspecting Cut & Thrust hand protection](/rapier/cut-and-thrust-hand-inspection/)
@@ -69,7 +69,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 * [Rapier Marshal Meeting Notes - Unevent 2017](/rapier/unevent-2017/)
 * [Notes on Deputy KRM responsibilities](/rapier/deputy-krm/)
 * [Practices](/practices/), official practices with held throughout the kingdom, many which have rapier included.
-* [Atlantian Rapiernet](https://groups.yahoo.com/neo/groups/atlantianrapiernet/info), the primary mailing list for rapier activity within Atlantia.
+* [Atlantia Rapier mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/rapier), the primary mailing list for rapier activity within Atlantia.
 * [Academie d'Espee](http://www.academiedespee.com/), the premiere rapier guild in Atlantia.
 * [Academie d'Espee on Facebook](https://www.facebook.com/groups/608693275816448/), the Facebook group for the Academie d'Espee guild.
 

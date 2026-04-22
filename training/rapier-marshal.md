@@ -203,6 +203,6 @@ Projectile Weapons within rapier combat are governed by Combat Archery marshals,
   * Specify if you are starting your MIT process or completing your training requirements.
 * Print the rules, keep them with you at every event you marshal.
 * Print a copy of your MIT form, a copy can be found in the paperwork section of the earl marshal website.
-* To stay current, sign up for the [Atlantian Marshal's mailing list](http://seahorse.atlantia.sca.org/listinfo.cgi/marshalls-atlantia.sca.org/), [Unofficial Facebook group](https://www.facebook.com/groups/900556250004534), and read the ACORN.
+* To stay current, sign up for the [Atlantian Marshal's mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/marshals), [Unofficial Facebook group](https://www.facebook.com/groups/900556250004534), and read the ACORN.
 
 # Open for Questions and Discussion

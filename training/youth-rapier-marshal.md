@@ -116,4 +116,4 @@ Authorization is about safety, understanding, and a good attitude, similar to an
    4. Keep a copy of the youth rapier handbook and the adult rapier handbook with you at all times.
 
 # Links
-* [Waiver Forms](https://sca.org/docs/library.html)
+* [Waiver Forms](https://www.sca.org/resources/document-library/)
