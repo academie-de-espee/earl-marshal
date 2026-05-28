@@ -45,7 +45,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 12. If a fighter is unable to continue fighting, they should grasp their weapons by the blade near the hilt with the tip pointed directly at the ground, and walk off the field without disrupting the flow of battle.  If the fighter is unable to safely remove themselves from the field of combat, the fighter should kneel while holding their weapons as previously described until they are able to remove themselves from the field. [Original Ruling](/rapier/interpretations/10)
 13. [Procedures for inspecting Cut & Thrust hand protection](/rapier/cut-and-thrust-hand-inspection/)
 14. [Procedures for inspecting and construction Rapier Spears](/rapier/spear-construction-and-inspection/)
-
+15. [Fencers can self inspect their Chainmail Shirts](/rapier/interpretations/chainmail-self-inspect)
 
 ## Procedures
 
