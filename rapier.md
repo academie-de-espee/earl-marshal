@@ -46,6 +46,7 @@ For youth rapier fighters, additional rules apply as defined in [Section 3.9 of 
 13. [Procedures for inspecting Cut & Thrust hand protection](/rapier/cut-and-thrust-hand-inspection/)
 14. [Procedures for inspecting and construction Rapier Spears](/rapier/spear-construction-and-inspection/)
 15. [Fencers can self inspect their Chainmail Shirts](/rapier/interpretations/chainmail-self-inspect)
+16. [Unauthorized Fencers can participate in Melee Training at practices](/rapier/interpretations/melee-training/)
 
 ## Procedures
 
