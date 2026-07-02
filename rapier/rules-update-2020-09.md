@@ -66,7 +66,7 @@ In C&T, blows to the leg are no longer considered "fighting-ending".  Participan
 
 ## Updated guidance for armor coverage
 
-The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes images that explicitly defines the minimum armor coverage required for torso, neck, and head.  All participants must meet these standards.
+The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) (link dead) includes images that explicitly defines the minimum armor coverage required for torso, neck, and head.  All participants must meet these standards.
 
 ### Head Coverage
 
@@ -88,7 +88,7 @@ Equipment on the ground does not implicitly imply a safety hazard warranting a h
 
 ## New "Front 180" rules
 
-The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines where participants can strike their opponents:
+The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) (link dead) includes specific language that defines where participants can strike their opponents:
 
 This includes:
 * 5.3.2. Combatants may strike any single opponent they can safely reach with any legal blow if they are within a 180 degree arc of the opponent’s front as defined by the opponent’s shoulders, and at an angle they can be reasonably seen by the opponent.
@@ -98,6 +98,6 @@ This includes:
 
 ## Projectile Weapons
 
-The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) includes specific language that defines projectile weapons, including RGBs, Bows, and Crossbows.
+The [new society handbook](https://www.sca.org/wp-content/uploads/2020/04/FencingMarshalsHandbookApril2020.pdf) (link dead) includes specific language that defines projectile weapons, including RGBs, Bows, and Crossbows.
 
 Using Projectile Weapons within rapier combat is now governed by Combat Archery marshals, including Rubber Band Guns, Bows, Crossbows, and thrown weapons.  To use Projectile Weapons in Rapier Combat, the combat must be marshaled by a rapier marshal AND a combat archery marshal.
