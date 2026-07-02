@@ -22,3 +22,4 @@ At events, all equipment or clothing used by participants on the list field must
 ## Information
 * [Armored Marshal 101 Class Outline](/training/armored-marshal/)
 * [Atlantian Army Basic Melee Training Manual](/documents/AtlantianArmyBMTManualV1.pdf)
+* [Atlantian Marshal's mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/marshals)
