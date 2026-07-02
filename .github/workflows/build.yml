@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v7
     - name: Build the site in the jekyll/builder container
-      run: docker run -v ${PWD}:/srv/jekyll jekyll/jekyll:latest bash -c "chmod 777 /srv/jekyll; git config --global --add safe.directory /srv/jekyll; jekyll build"
+      run: ./build.sh
 #    - name: Build
 #      uses: actions/jekyll-build-pages@v1
     - name: deploy via ssh
