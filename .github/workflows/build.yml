@@ -1,32 +1,43 @@
 name: Jekyll site CI
 
-on: 
+on:
   push:
+    branches: [master]
   pull_request:
   workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v7
     - name: Build the site in the jekyll/builder container
       run: ./build.sh
-#    - name: Build
-#      uses: actions/jekyll-build-pages@v1
+    - name: Upload site artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: site
+        path: _site/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: >-
+      github.event_name == 'push' &&
+      github.ref == 'refs/heads/master' &&
+      github.repository == 'academie-de-espee/earl-marshal'
+    steps:
+    - uses: actions/checkout@v7
+    - name: Download site artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: site
+        path: _site/
     - name: deploy via ssh
-      run: |
-        mkdir -p ${HOME}/.ssh
-        echo "${SSH_KEY}" > ${HOME}/.ssh/id_rsa
-        echo "${RSYNC_KNOWN_HOSTS}" > ${HOME}/.ssh/known_hosts
-        chmod 700 ${HOME}/.ssh
-        chmod 600 ${HOME}/.ssh/*
-        eval `ssh-agent -s`
-        ssh-add ${HOME}/.ssh/id_rsa
-        # rsync -avr --delete-after --exclude=.well-known/acme-challenge --delete-excluded _site/ atlantia_marshal@marshal.atlantia.sca.org:marshal.atlantia.sca.org/
-        rsync -avr _site/ atlantia_marshal@marshal.atlantia.sca.org:marshal.atlantia.sca.org/
+      run: ./deploy.sh
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
         RSYNC_KNOWN_HOSTS: ${{ secrets.RSYNC_KNOWN_HOSTS }}
-      if: ${{ github.ref == 'refs/heads/master' }}
