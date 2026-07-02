@@ -24,6 +24,7 @@ At events, all equipment or clothing used by participants on the list field must
 ## Information
 * [Steel Marshal 101 Class Outline](/training/steel-marshal/)
 * [Equipment availability](/steel-combat/vendors)
+* [Atlantian Marshal's mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/marshals)
 
 ## Introduction Videos
 * [An Introduction to Steel Fighting in the SCA](https://youtu.be/cHWfEXQ-5jk)

@@ -71,6 +71,7 @@ There are numerous forms that parents must fill out prior to a child engaging in
 
 * [Marshal In Training, Youth Armored Combat](/documents/forms/mit.docx)
 * [Event Report Form](https://warrant.atlantia.sca.org/reports/new/1)
+* [Atlantian Marshal's mailing list](https://groups.google.com/a/group.atlantia.sca.org/g/marshals)
 * [Guidance on Modern Items](/procedures/modern)
 * [Background Check Form](https://www.sca.org/resources/document-library/backgroundcheckauthform/)
 
