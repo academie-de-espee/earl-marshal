@@ -83,14 +83,14 @@ The following are examples of appropriate armor for use when fighting with a two
 
 1. [Darkwood Armory Wisby Gauntlets](http://www.darkwoodarmory.com/index.php?main_page=product_info&cPath=56&products_id=606)
 2. [SPES Heavy Gloves](http://www.woodenswords.com/SPES_Heavy_Gloves_V1_0_Pair_p/spes-heavy.gloves.htm)
-3. [St Mark Koning Gloves](https://www.saintmark.se/product/the-koning-glove/)
+3. [St Mark Koning Gloves](https://www.saintmark.se/product/the-koning-glove/) (link dead)
 4. [Hoof and Mitten gloves by Sparring Gloves](http://hemasupplies.com/product-category/gloves/)
-5. [Egg Armor Gauntlets](http://eggarmor.net/html/01.html)
+5. [Egg Armor Gauntlets](http://eggarmor.net/html/01.html) (link dead)
 6. [Age of Craft Visby Gauntlets](http://ageofcraft.com/armor/hand-armor/visby-gauntlets-type-1) and [Brigg Mittens](http://ageofcraft.com/armor/hand-armor/brigg-mittens)
 
 The following are examples of appropriate armor for use when fighting with a one-handed weapon against another one handed weapon.  Other equipment may meet the above requirements.
 
-1. [STX Stallion 300 Lacrosse Gloves](https://www.voodoolacrosse.com/gloves/227-stx-stallion-300-lacrosse-gloves.html)
+1. [STX Stallion 300 Lacrosse Gloves](https://www.voodoolacrosse.com/gloves/227-stx-stallion-300-lacrosse-gloves.html) (link dead)
 
 None of these examples of equipment is necessarily an endorsement of the product.
 

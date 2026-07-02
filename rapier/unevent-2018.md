@@ -74,7 +74,7 @@ layout: default
 * All particpants, both fighters and marshals, *should* take concussion training.
 * Signs and symptoms could be delayed, and might not even appear until mentally challenged.
 * Current research shows helmets do NOT prevent concussions.
-* Please take this [free class](http://www.med.umich.edu/neurosport/coach/story_html5.html) from the University of Michigan's Neuroscience department
+* Please take this [free class](http://www.med.umich.edu/neurosport/coach/story_html5.html) (link dead) from the University of Michigan's Neuroscience department
 
 ## Armor
 * All armor must be inspected every day of fighting.
