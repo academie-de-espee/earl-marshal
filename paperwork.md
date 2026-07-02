@@ -5,7 +5,7 @@ layout: default
 
 # Rules
 * [Kingdom Earl Marshal's Policy (as of 2026-02-02)](https://atlantia.sca.org/wp-content/uploads/2026/02/Kingdom-of-Atlantia-Policy-2-2-26.pdf) - This document incorporates the policies and rules for all marshal activities.
-* [Society Earl Marshal’s Armored Combat Marshal’s Handbook](https://www.sca.org/wp-content/uploads/2025/07/Armored_Combat_Rattan_Handbook-_Approved-June-2025.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
+* [Society Earl Marshal’s Armored Combat Marshal’s Handbook](https://www.sca.org/wp-content/uploads/2026/03/Armored_Combat_-_Rattan_-_Handbook_2025Nov.pdf) - This document discusses the policies and rules for most marshal activities.  Specific areas, such as rapier, have individual society governing documents.
 
 # Marshals
 All combat in the SCA must be overseen by a warranted Marshal.

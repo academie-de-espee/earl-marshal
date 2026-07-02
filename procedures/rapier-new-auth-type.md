@@ -47,7 +47,7 @@ the Curia process.  If the changes only impact Kingdom Policy, Curia is not
 needed.
 
 Please see the Kingdom Seneschal's [Clerk of
-Law](http://atlantia.sca.org/offices/seneschal/clerk-of-law) for information on
+Law](https://atlantia.sca.org/officers/seneschal/clerk-of-law/) for information on
 the procedures for updating kingdom policy or law.
 
 # Communicate with other Principals
