@@ -8,16 +8,13 @@ layout: default
 
 ## Rules
 
-Armored Combat fighting in Atlantia is governed by an ordered hierarchy of rules.
+* [Atlantian Armored Combat - Rattan Rules](https://society-rules.fullmesh.co.nz/index.php/Atlantia--Armored_Combat:Handbook) - These rules define Atlantia's armored combat rules.
 
-* [Kingdom Earl Marshal's Policy (as of 2022-21-01)](/documents/Earl-Marshal-policy-2022-12-01.pdf) - This document incorporates the policies and rules for all marshal activities, not just Armored Combat.  (Rule updates from the previous revision in bold).
-* [SCA's Armored Marshal's Handbook](https://www.sca.org/wp-content/uploads/2026/03/Armored_Combat_-_Rattan_-_Handbook_2025Nov.pdf).  These rules define the Society's armored combat rules.
-
-At events, all equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance.  For implementation, please see the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
+At events, all equipment or clothing used by participants on the list field must either have a pre-17th-century appearance or be covered in a manner that presents such an appearance.  Please see [Section 12.1, Equipment Standards - Armor: General](https://society-rules.fullmesh.co.nz/index.php/Atlantia--Armored_Combat:Equipment_standards_-_Armor) and the [Guidance regarding Blatantly Modern Items on the List Field](/procedures/modern/).
 
 ## Procedures
-* [Becoming a marshal](/procedures/mit/)
-* [Instructions for Marshalling](/documents/training/Marshaling_Instructions.pdf)
+* [Becoming a Marshal](https://society-rules.fullmesh.co.nz/index.php/Atlantia--Armored_Combat:Kingdom_marshalate#Atlantia%27s_marshal_authorization_process)
+* [Instructions for Marshalling](https://society-rules.fullmesh.co.nz/index.php/Atlantia--Armored_Combat:Marshaling_on_the_field)
 
 ## Information
 * [Armored Marshal 101 Class Outline](/training/armored-marshal/)
