@@ -8,6 +8,7 @@ layout: default
 * Kingdom Rapier Marshal - [Master Geoffrey Gamble](https://warrant.atlantia.sca.org/user/36)
 * Deputy Kingdom Rapier Marshal - [Mistress Symone de la Rochelle](https://warrant.atlantia.sca.org/user/903)
 * Deputy Kingdom Rapier Marshal - [Master Tiberius Aufidius Crispus](https://warrant.atlantia.sca.org/user/1545)
+* Deputy Kingdom Rapier Marshal for Cut and Thrust - [Elizabeta Ferrofredo di Bari](https://warrant.atlantia.sca.org/user/1685)
 * Rapier Marshals - [Roster](https://warrant.atlantia.sca.org/warrants/type/14)
 
 ## Rules
