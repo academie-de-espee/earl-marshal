@@ -18,6 +18,7 @@ All combat in the SCA must be overseen by a warranted Marshal.
 * [Non-Member waiver](https://www.sca.org/wp-content/uploads/2019/12/rosterwaiver.pdf)
 * [Pratice Waivers](https://atlantia.sca.org/officers/seneschal/waiver-secretary/) (Must be submitted quarterly)
 * [Guidance on Modern Items](/procedures/modern)
+* [How to Run an Inclusive Practice or Event with Fighting](/procedures/inclusive-practice-or-event/)
 * [Extreme Heat Guidance for Marshals](/documents/heat-guidance/for-marshals.pdf)
 * [Air Quality Index Guidance](/documents/air-quality-guidance.pdf)
 
